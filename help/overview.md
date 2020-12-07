@@ -1,5 +1,5 @@
 ---
-title: Customer Journey Analytics 影片和教學課程
+title: 客戶歷程分析影片和教學課程
 description: Adobe客戶歷程分析的視訊和教學課程集。
 feature: overview
 topics: null
@@ -11,21 +11,21 @@ translation-type: tm+mt
 source-git-commit: 4ff16ece05eabc3b0d012d0638ddd36d3e08764d
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 17%
+ht-degree: 15%
 
 ---
 
 
 # 概述
 
-歡迎使用教 [!DNL Customer Journey Analytics] 學課程網站。  使用這些教學課程和 [說明檔案](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html) ，您將更瞭解如何使用Adobe Analytics，以前所未有的速度獲得多通道客戶見解。  若要開始執行，
+歡迎使用教 [!DNL Customer Journey Analytics] 學課程網站。  使用這些教學課程和 [說明檔案](https://docs.adobe.com/content/help/zh-Hant/analytics-platform/using/cja-landing.html) ，您將更瞭解如何使用Adobe Analytics，以前所未有的速度獲得多通道客戶見解。  若要開始執行，
 
 * 請參 **閱下方的「新增功能** 」一節，以取得最新的實用功能
 * **Staff Picks** 重點介紹我們最愛的內容
 * 在左側導覽中依主題和子主題探 **索內容**
 * 如果您 **知道要尋找** 什麼，請使用頁面頂端的搜尋欄位
 
-Customer Journey Analytics 可讓您控制如何在 Analysis Workspace 中連接任何常見客戶 ID 的線上和離線資料，進而允許您針對 Adobe Analytics 中的整個客戶資料集整個客戶資料集。
+Customer Journey Analytics 可讓您控制如何在 Analysis Workspace 中連接任何常見客戶 ID 的線上和離線資料，進而允許您進行歸因、細分、流量與流失等分析。整個客戶資料集。
 
 ## 新功能
 
