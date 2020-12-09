@@ -1,17 +1,18 @@
 ---
 title: 客戶歷程分析中資料檢視的基本設定
-description: 在Customer Journey Analytics中建立與Adobe Experience Platform中資料集的連線後，您就需要為該連線建立資料檢視，以便在「平台分析工作區」中使用資料。 此視訊會逐步帶您瞭解資料檢視的基本設定。
+description: 在Adobe Customer Journey Analytics中建立與Adobe Experience Platform中資料集的連線後，您就需要為該連線建立資料檢視，以便在平台上的分析工作區中使用資料。 此視訊會逐步帶您瞭解資料檢視的基本設定。
 feature: customer journey analytics
 topics: null
 audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30186.jpg
 kt: 3958
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '144'
 ht-degree: 1%
 
 ---
