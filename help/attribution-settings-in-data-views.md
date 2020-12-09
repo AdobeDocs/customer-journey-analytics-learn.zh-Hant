@@ -1,17 +1,18 @@
 ---
 title: 客戶歷程分析中資料檢視中的歸因設定
-description: 在「客戶歷程分析」中設定「資料檢視」時，您可以選擇歸因設定，以控制維度和量度的搭配運作方式。 此影片會逐步帶您瞭解預設值、選項，以及量度和維度歸因設定的互動方式。
+description: 在Adobe客戶歷程分析中設定資料檢視時，您可以選擇歸因設定，以控制維度和量度的搭配運作方式。 此影片會逐步帶您瞭解預設值、選項，以及量度和維度歸因設定的互動方式。
 feature: customer journey analytics
 topics: null
 audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30185.jpg
 kt: 3959
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '124'
 ht-degree: 1%
 
 ---
