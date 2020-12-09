@@ -1,17 +1,18 @@
 ---
 title: 將客戶歷程分析與平台中的資料來源連結
-description: 客戶歷程分析(CJA)在Adobe Experience Platform的資料集之上為您提供分析工作區，以便跨通道分析您的資料。 本影片將示範如何連接CJA和平台資料集，包括設定從平台將持續資料串流至CJA的連線。
+description: Adobe客戶歷程分析(CJA)會在Adobe Experience Platform的資料集之上為您提供分析工作區，以便跨通道分析您的資料。 本影片將示範如何連接CJA和平台資料集，包括設定從平台將持續資料串流至CJA的連線。
 feature: customer journey analytics
 topics: null
 audience: administrator, implementer, developer
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30140.jpg
 kt: 3954
 translation-type: tm+mt
-source-git-commit: 747e5eeb51fbe5b8bf52469d1d40a45705cd3643
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '162'
 ht-degree: 8%
 
 ---
