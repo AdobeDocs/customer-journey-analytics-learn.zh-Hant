@@ -1,17 +1,18 @@
 ---
 title: 在客戶歷程分析中建立跨通道篩選
-description: 在此影片中，我們討論如何在客戶歷程分析中建立篩選器，以利用多個資料來源和多個通道。 您也會看到這些篩選如何結合為視覺化。
+description: 在此影片中，我們討論如何在Adobe客戶歷程分析中建立篩選器，以利用多個資料來源和多個通道。 您也會看到這些篩選如何結合為視覺化。
 feature: customer journey analytics
 topics: null
 audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 31983.jpg
 kt: 3962
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '107'
 ht-degree: 7%
 
 ---
