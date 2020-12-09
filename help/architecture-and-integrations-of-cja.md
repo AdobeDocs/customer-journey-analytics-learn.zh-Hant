@@ -1,18 +1,19 @@
 ---
 title: 客戶歷程分析的架構與整合
-description: 在此影片中，尋找 Customer Journey Analytics 架構的逐步說明，包括其如何連接及與 Adobe Experience Platform 整合。
+description: 在此影片中，尋找Adobe客戶歷程分析架構的逐步說明，包括它如何連接及與Adobe Experience Platform整合。
 feature: customer journey analytics
 topics: null
 audience: developer, architect
 activity: understand
 doc-type: technical video
 team: Technical Marketing
+thumbnail: 32483.jpg
 kt: 4449
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 70%
+source-wordcount: '83'
+ht-degree: 39%
 
 ---
 
