@@ -1,17 +1,18 @@
 ---
 title: 在客戶歷程分析中將過去的資料新增至現有連線
-description: 在此影片中，瞭解如何透過連線和資料檢視，將過去的資料（先前具有相關時間戳記的資料）新增至您現有的客戶歷程分析。
+description: 在此影片中，瞭解如何透過連線和資料檢視，將過去的資料（先前具有相關時間戳記的資料）新增至您現有的Adobe客戶歷程分析。
 feature: customer journey analytics
 topics: null
 audience: administrator, architect
 activity: understand
 doc-type: technical video
 team: Technical Marketing
+thumbnail: 32549.jpg
 kt: 3965
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '99'
 ht-degree: 8%
 
 ---
