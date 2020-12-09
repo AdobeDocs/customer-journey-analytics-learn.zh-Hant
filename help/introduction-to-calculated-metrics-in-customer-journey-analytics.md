@@ -1,18 +1,19 @@
 ---
 title: 客戶歷程分析中的計算量度簡介
-description: 在此影片中，我們將詳細說明在客戶歷程分析中建立計算量度的基本概念。
+description: 在此影片中，我們將逐步瞭解在Adobe客戶歷程分析中建立計算量度的基本概念。
 feature: customer journey analytics - calculated metrics
 topics: null
 audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 31787.jpg
 kt: 4448
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 12%
+source-wordcount: '67'
+ht-degree: 11%
 
 ---
 
