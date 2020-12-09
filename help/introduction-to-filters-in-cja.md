@@ -1,17 +1,18 @@
 ---
 title: 客戶歷程分析中的篩選器簡介
-description: 此影片將為您介紹客戶歷程分析中的篩選和篩選產生器。
+description: 本影片將向您介紹Adobe客戶歷程分析中的篩選器和篩選器產生器。
 feature: customer journey analytics
 topics: null
 audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 32114.jpg
 kt: 4447
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '63'
 ht-degree: 12%
 
 ---
