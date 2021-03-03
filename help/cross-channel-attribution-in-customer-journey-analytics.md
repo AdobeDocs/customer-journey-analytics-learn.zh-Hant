@@ -1,27 +1,28 @@
 ---
-title: 客戶歷程分析中的跨通道歸因
-description: 在此影片中，我們將說明如何在Adobe客戶歷程分析中使用視覺化來顯示跨通道的歸因（評分）。
-feature: customer journey analytics
+title: Customer Journey Analytics中的跨通道歸因
+description: 在此影片中，我們將說明如何使用視覺化來顯示AdobeCustomer Journey Analytics中各個通道的歸因（評分）。
+feature: 出處
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31772.jpg
 kt: 3963
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 10%
+source-wordcount: '79'
+ht-degree: 11%
 
 ---
 
 
-# 客戶歷程分 [!UICONTROL 析中] 的跨通道歸因
+# Customer Journey Analytics中的跨通道[!UICONTROL Attribution]
 
-在此影片中，我們將說明如何使用視覺 [!UICONTROL 化] ，在「客戶歷程分析」中顯 [!UICONTROL 示跨通道的歸因] （評價）。
+在此影片中，我們將說明如何使用[!UICONTROL visualizations]來顯示Customer Journey Analytics中各個頻道的[!UICONTROL 歸因]（評分）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12)
 
-如需客戶歷程分析的詳細資訊，請造訪 [檔案](https://docs.adobe.com/content/help/zh-Hant/analytics-platform/using/cja-landing.html)。
+有關Customer Journey Analytics的更多資訊，請訪問[文檔](https://docs.adobe.com/content/help/zh-Hant/analytics-platform/using/cja-landing.html)。
