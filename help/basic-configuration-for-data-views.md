@@ -1,30 +1,31 @@
 ---
-title: 客戶歷程分析中資料檢視的基本設定
-description: 在Adobe Customer Journey Analytics中建立與Adobe Experience Platform中資料集的連線後，您就需要為該連線建立資料檢視，以便在平台上的分析工作區中使用資料。 此視訊會逐步帶您瞭解資料檢視的基本設定。
-feature: customer journey analytics
+title: Customer Journey Analytics中資料視圖的基本配置
+description: 在AdobeCustomer Journey Analytics中建立到Adobe Experience Platform資料集的連接後，您需要為該連接建立資料視圖，以便您可以在平台上使用Analysis Workspace的資料。 此視訊會逐步帶您瞭解資料檢視的基本設定。
+feature: 資料檢視
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30186.jpg
 kt: 3958
+role: 管理員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 1%
+source-wordcount: '148'
+ht-degree: 3%
 
 ---
 
 
-# 客戶歷程分析中 [!UICONTROL 資料檢視] 的基本設定
+# [!UICONTROL Customer Journey Analytics中資料視圖]的基本配置
 
-在Customer Journey Analytics中建立 [!UICONTROL 連線] ，到 [!UICONTROL Adobe Experience Platform中的資料集後，您就需要為]ConnectionConnection建立資料檢視，以便您能夠在Platform上的Analysis Workspace中使用資料。 此視訊會逐步帶您瞭解資料檢視的基 [!UICONTROL 本設定]。
+在建立與Adobe Experience Platform的[!UICONTROL 資料集]Customer Journey Analytics的[!UICONTROL 連接]後，需要為該[!UICONTROL 連接]建立[!UICONTROL 資料視圖]，以便您可以使用平台上Analysis Workspace的資料。 此視訊會逐步帶您瞭解[!UICONTROL 資料檢視]的基本設定。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30186/?quality=12&enable10seconds=on&speedcontrol=on)
 
 ## 其他資源
 
 * [資料檢視中的歸因設定](attribution-settings-in-data-views.md)
-* [客戶歷程分析——資料檢視檔案](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-dataviews/create-dataview.html)
+* [Customer Journey Analytics-資料檢視檔案](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-dataviews/create-dataview.html)
