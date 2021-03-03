@@ -1,27 +1,28 @@
 ---
-title: 客戶歷程分析中的計算量度簡介
-description: 在此影片中，我們將逐步瞭解在Adobe客戶歷程分析中建立計算量度的基本概念。
-feature: customer journey analytics - calculated metrics
+title: Customer Journey Analytics中的計算量度簡介
+description: 在此影片中，我們將介紹在AdobeCustomer Journey Analytics中建立計算量度的基本概念。
+feature: 量度
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31787.jpg
 kt: 4448
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 11%
+source-wordcount: '71'
+ht-degree: 12%
 
 ---
 
 
-# Introduction to [!UICONTROL Calculated Metrics] in Customer Journey Analytics
+# [!UICONTROL 計算量度]簡介Customer Journey Analytics
 
-在此影片中，我們將逐步瞭解在「客戶歷程分析」中建 [!UICONTROL 立「計算量度] 」的基本概念。
+在此影片中，我們將介紹在Customer Journey Analytics中建立[!UICONTROL 計算量度]的基本概念。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31787/?quality=12)
 
-如需客戶歷程分析的詳細資訊，請造訪 [檔案](https://docs.adobe.com/content/help/zh-Hant/analytics-platform/using/cja-landing.html)。
+有關Customer Journey Analytics的更多資訊，請訪問[文檔](https://docs.adobe.com/content/help/zh-Hant/analytics-platform/using/cja-landing.html)。
