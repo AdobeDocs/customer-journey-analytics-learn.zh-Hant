@@ -1,27 +1,28 @@
 ---
-title: 客戶歷程分析中的新辭彙和概念
-description: 在此影片中，我們將討論Adobe客戶歷程分析中的關鍵辭彙和概念、它們如何對應Adobe Analytics中的辭彙和概念，以及客戶歷程分析介面中可見的內容。
-feature: customer journey analytics
+title: Customer Journey Analytics中的新術語和概念
+description: 在此影片中，我們將討論AdobeCustomer Journey Analytics中的關鍵辭彙和概念、它們如何對應Adobe Analytics的辭彙和概念，以及它們在Customer Journey Analytics介面中的顯示位置。
+feature: CJA Workspace基本資訊
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32113.jpg
 kt: 3960
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 7%
+source-wordcount: '115'
+ht-degree: 6%
 
 ---
 
 
-# 客戶歷程分析中的新辭彙和概念
+# Customer Journey Analytics中的新術語和概念
 
-在此影片中，我們將討論客戶歷程分析中的關鍵辭彙和概念、它們如何對應至Adobe Analytics中的辭彙和概念，以及客戶歷程分析介面中可見的內容。
+在此影片中，我們將討論Customer Journey Analytics中的關鍵辭彙和概念、它們如何與Adobe Analytics的辭彙和概念對應，以及在Customer Journey Analytics介面中的顯示位置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12)
 
-如需客戶歷程分析的詳細資訊，請造訪 [檔案](https://docs.adobe.com/content/help/zh-Hant/analytics-platform/using/cja-landing.html)。
+有關Customer Journey Analytics的更多資訊，請訪問[文檔](https://docs.adobe.com/content/help/zh-Hant/analytics-platform/using/cja-landing.html)。
