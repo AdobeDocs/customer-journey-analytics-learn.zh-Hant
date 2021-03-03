@@ -2,7 +2,8 @@
 cloud: experience-cloud
 product: customer journey analytics
 solution: Customer Journey Analytics
-type: Tutorial
+feature-set: Customer Journey Analytics
+type: 教學課程
 solution-title: Customer Journey Analytics
 solution-hub-url: https://docs.adobe.com/content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 getting-started-title: Experience League
@@ -13,9 +14,9 @@ git-repo: https://git.corp.adobe.com/AdobeDocs/customer-journey-analytics-learn.
 index: true
 mini-toc-levels: 2
 translation-type: tm+mt
-source-git-commit: 3417f61835387918c26863d8a7141ddaac78f503
+source-git-commit: 455184cef08838b411d8982692e5d19b5fb72239
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '134'
 ht-degree: 86%
 
 ---
