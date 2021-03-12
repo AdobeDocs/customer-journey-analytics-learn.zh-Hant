@@ -9,13 +9,13 @@ doc-type: presentation
 team: Technical Marketing
 thumbnail: 30090.jpg
 kt: 3953
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
-level: 初學者
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、負責人」
+level: 初級人員
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 90%
+ht-degree: 97%
 
 ---
 
