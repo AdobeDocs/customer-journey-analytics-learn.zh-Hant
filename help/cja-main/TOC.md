@@ -3,17 +3,17 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: 教學課程
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: 83f374ef8303144f358221b656fd0480b009559d
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 21%
+source-wordcount: '128'
+ht-degree: 14%
 
 ---
 
 
 # Customer Journey Analytics 教學課程 {#tutorials}
 
-+ [概覽](/help/overview.md)
++ [概觀](/help/overview.md)
 + [了解 Customer Journey Analytics](/help/understanding-customer-journey-analytics.md)
 + [新詞語和概念](/help/new-terms-and-concepts-in-cja.md)
 + [架構與整合](/help/architecture-and-integrations-of-cja.md)
@@ -30,3 +30,7 @@ ht-degree: 21%
 + [濾鏡簡介](/help/introduction-to-filters-in-cja.md)
 + [建立跨通道篩選](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)
 + [將Adobe Analytics區段移至Customer Journey Analytics](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
++ 藍圖{#blueprints}
+   + [Customer Journey Analytics藍圖](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
+   + [數位行為資料整合方案](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
+   + [呼叫偏轉歷程分析藍本](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
