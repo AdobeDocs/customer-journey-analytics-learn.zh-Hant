@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: customer journey analytics
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
@@ -14,7 +14,7 @@ git-repo: https://git.corp.adobe.com/AdobeDocs/customer-journey-analytics-learn.
 index: true
 mini-toc-levels: 2
 translation-type: tm+mt
-source-git-commit: 455184cef08838b411d8982692e5d19b5fb72239
+source-git-commit: 83183e084aa4998cde4cbbbd13458c18a0c171fe
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 86%
