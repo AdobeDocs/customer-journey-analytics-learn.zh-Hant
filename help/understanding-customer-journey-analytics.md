@@ -9,16 +9,16 @@ doc-type: presentation
 team: Technical Marketing
 thumbnail: 30090.jpg
 kt: 3953
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、負責人」
-level: 初級人員
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: 8b9644dd-1992-499c-88f0-acd3ef182956
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: e600a42869709543f8918f1b7441af5b95ae1cf7
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '129'
 ht-degree: 97%
 
 ---
-
 
 # 了解 Customer Journey Analytics
 
