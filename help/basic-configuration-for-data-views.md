@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analytics中資料視圖的基本配置
 description: 在AdobeCustomer Journey Analytics中建立到Adobe Experience Platform資料集的連接後，您需要為該連接建立資料視圖，以便您可以在平台上使用Analysis Workspace的資料。 此視訊會逐步帶您瞭解資料檢視的基本設定。
-feature: 資料檢視
+feature: Data Views
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30186.jpg
 kt: 3958
-role: 管理員
-level: 初學者
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

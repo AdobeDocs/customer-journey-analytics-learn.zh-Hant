@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analytics中的跨通道歸因
 description: 在此影片中，我們將說明如何使用視覺化來顯示AdobeCustomer Journey Analytics中各個通道的歸因（評分）。
-feature: 出處
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31772.jpg
 kt: 3963
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

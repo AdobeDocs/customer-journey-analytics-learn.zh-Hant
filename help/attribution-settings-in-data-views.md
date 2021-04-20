@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analytics中資料檢視中的歸因設定
 description: 在AdobeCustomer Journey Analytics中設定「資料檢視」時，您可以選擇歸因設定，以控制維度和量度的搭配運作方式。 此影片會逐步帶您瞭解預設值、選項，以及量度和維度歸因設定的互動方式。
-feature: 資料檢視
+feature: Data Views
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30185.jpg
 kt: 3959
-role: 管理員
-level: 初學者
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: 瞭解Customer Journey Analytics如何使用身分
 description: 本影片並非技術性的深入探討，而是實際瞭解身分對AdobeCustomer Journey Analytics分析的影響，包括透過拼接訪客ID而可能實現的跨通道視覺化。
-feature: 參閱
+feature: Identity
 topics: topics
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30750.jpg
 kt: 3955
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

@@ -3,7 +3,7 @@ cloud: Experience Cloud
 product: customer journey analytics
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
-type: 教學課程
+type: Tutorial
 solution-title: Customer Journey Analytics
 solution-hub-url: https://docs.adobe.com/content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 getting-started-title: Experience League

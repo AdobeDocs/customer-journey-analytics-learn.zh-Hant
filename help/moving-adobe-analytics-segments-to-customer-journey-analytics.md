@@ -1,16 +1,16 @@
 ---
 title: 將Adobe Analytics區段移至Customer Journey Analytics
 description: 在此影片中，您將學習如何將Adobe Analytics區段重新建立為Customer Journey Analytics中的「篩選」。
-feature: 篩選條件
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31982.jpg
 kt: 3967
-topic: 移轉
-role: 業務從業人員
-level: 初學者
+topic: Migration
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: 在Customer Journey Analytics中建立跨通道視覺化
 description: 在此影片中，瞭解AdobeCustomer Journey Analytics如何讓您建立視覺化，其中包含來自多個通道之多個資料集的資料，包括合併每位訪客的資料。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31771.jpg
 kt: 3961
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analytics中濾鏡簡介
 description: 本影片將介紹AdobeCustomer Journey Analytics中的濾鏡和濾鏡產生器。
-feature: 篩選條件
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32114.jpg
 kt: 4447
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analytics中的新術語和概念
 description: 在此影片中，我們將討論AdobeCustomer Journey Analytics中的關鍵辭彙和概念、它們如何對應Adobe Analytics的辭彙和概念，以及它們在Customer Journey Analytics介面中的顯示位置。
-feature: CJA Workspace基本資訊
+feature: CJA Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32113.jpg
 kt: 3960
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

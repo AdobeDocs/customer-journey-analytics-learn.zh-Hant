@@ -1,7 +1,7 @@
 ---
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
-type: 教學課程
+type: Tutorial
 translation-type: tm+mt
 source-git-commit: 83f374ef8303144f358221b656fd0480b009559d
 workflow-type: tm+mt
