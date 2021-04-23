@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 68ca589a18cea7c1ec30c2446491b8e920e2ebc9
+source-git-commit: c40fc8536dd8b8d81946f8e527cbbf2740e6b970
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 20%
+source-wordcount: '154'
+ht-degree: 19%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 20%
 + [在資料檢視中設定元件設定](/help/configuring-component-settings-in-data-views.md)
 + [在資料檢視中格式化量度](/help/formatting-metrics-in-data-views.md)
 + [在資料檢視中建立值區間以供分析](/help/creating-value-buckets-in-data-views-for-analysis.md)
++ [在資料檢視中包含或排除維度值](/help/include-or-exclude-dimension-values-in-data-views.md)
 + [資料檢視中的歸因設定](/help/attribution-settings-in-data-views.md)
 + [瞭解CJA如何使用身分識別](/help/understanding-how-customer-journey-analytics-uses-identity.md)
 + [將過去的資料添加到現有連接](/help/add-past-data-to-an-existing-connection-in-cja.md)
