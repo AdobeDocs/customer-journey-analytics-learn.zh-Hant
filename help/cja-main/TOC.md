@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: c40fc8536dd8b8d81946f8e527cbbf2740e6b970
+source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 19%
+source-wordcount: '175'
+ht-degree: 17%
 
 ---
 
@@ -21,9 +21,12 @@ ht-degree: 19%
 + [連線至平台中的資料來源](/help/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
 + [資料檢視的基本設定](/help/basic-configuration-for-data-views.md)
 + [在資料檢視中設定元件設定](/help/configuring-component-settings-in-data-views.md)
++ [資料檢視中的元件類型設定](/help/component-type-settings-in-data-views.md)
 + [在資料檢視中格式化量度](/help/formatting-metrics-in-data-views.md)
++ [在資料檢視中包含或排除量度值](/help/include-or-exclude-metric-values-in-data-views.md)
 + [在資料檢視中建立值區間以供分析](/help/creating-value-buckets-in-data-views-for-analysis.md)
 + [在資料檢視中包含或排除維度值](/help/include-or-exclude-dimension-values-in-data-views.md)
++ [在資料檢視中設定無值選項](/help/configure-no-value-options-in-data-views.md)
 + [資料檢視中的歸因設定](/help/attribution-settings-in-data-views.md)
 + [瞭解CJA如何使用身分識別](/help/understanding-how-customer-journey-analytics-uses-identity.md)
 + [將過去的資料添加到現有連接](/help/add-past-data-to-an-existing-connection-in-cja.md)
