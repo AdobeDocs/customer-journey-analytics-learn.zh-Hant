@@ -1,27 +1,26 @@
 ---
-title: 瞭解Customer Journey Analytics如何使用身分
-description: 本影片並非技術性的深入探討，而是實際瞭解身分對AdobeCustomer Journey Analytics分析的影響，包括透過拼接訪客ID而可能實現的跨通道視覺化。
-feature: Identity
+title: 了解Customer Journey Analytics如何使用身分
+description: 本影片不是技術性的深入探討，而是透過實際的方式了解身分對AdobeCustomer Journey Analytics分析的影響，包括透過連結訪客ID而實現的跨管道視覺效果。
+feature: 參閱
 topics: topics
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30750.jpg
 kt: 3955
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: f835376c-36b8-45b6-a3fe-4efaf5fb6a12
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 14%
+source-wordcount: '100'
+ht-degree: 15%
 
 ---
 
+# 了解Customer Journey Analytics如何使用[!UICONTROL Identity]
 
-# 瞭解Customer Journey Analytics如何使用[!UICONTROL Identity]
-
-本視訊並非技術性的深入探討，而是實際檢視[!UICONTROL identity]如何影響Customer Journey Analytics分析，包括透過聯繫[!UICONTROL 訪客] ID而可能呈現的跨通道[!UICONTROL 視覺化]。
+此影片不是技術性的深入探討，而是透過實際的方式了解[!UICONTROL identity]如何影響您的Customer Journey Analytics分析，包括透過連結[!UICONTROL 訪客] ID而實現的跨管道[!UICONTROL 視覺效果]的審視。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30750/?quality=12&enable10seconds=on&speedcontrol=on)
 
