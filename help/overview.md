@@ -1,24 +1,23 @@
 ---
 title: Customer Journey Analytics影片和Tutorials
-description: AdobeCustomer Journey Analytics的視訊和教學課程集合。
+description: AdobeCustomer Journey Analytics的影片和教學課程系列。
 topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '308'
-ht-degree: 32%
+source-wordcount: '297'
+ht-degree: 33%
 
 ---
 
+# 概觀
 
-# 概覽
-
-歡迎使用 [!DNL Customer Journey Analytics] 教學課程網站。使用這些教學課程以及[檔案](https://docs.adobe.com/content/help/zh-Hant/analytics-platform/using/cja-landing.html)，您將更瞭解如何使用Adobe Analytics，以前所未有的速度獲得多通道客戶見解。  若要開始執行，
+歡迎使用 [!DNL Customer Journey Analytics] 教學課程網站。使用這些教學課程和[檔案](https://docs.adobe.com/content/help/zh-Hant/analytics-platform/using/cja-landing.html)可讓您更清楚了解如何使用Adobe Analytics，以前所未有的速度獲得多管道客戶分析。  若要開始執行，
 
 * 查看下面&#x200B;**「新增功能」**&#x200B;部分，了解許多最新有用小工具。
 * **工作人員選擇**&#x200B;特別顯示我們最喜歡的一些內容
@@ -29,17 +28,17 @@ Customer Journey Analytics 可讓您控制如何在 Analysis Workspace 中連接
 
 ## 新功能
 
-* **[將Adobe Analytics區段移至Customer Journey Analytics（視訊）](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
+* **[將Adobe Analytics區段移至Customer Journey Analytics（影片）](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
 
-   *瞭解如何在Customer Journey Analytics中重新建立Adobe Analytics區段的秘訣*
+   *了解如何在Customer Journey Analytics中重新建立Adobe Analytics區段的秘訣*
 
-* **[將您的計算量度從Adobe Analytics移至Customer Journey Analytics（視訊）](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
+* **[將計算量度從Adobe Analytics移至Customer Journey Analytics（影片）](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
 
-   *瞭解在Customer Journey Analytics中重新建立Adobe Analytics計算量度的秘訣*
+   *了解在Customer Journey Analytics中重新建立Adobe Analytics計算量度的秘訣*
 
-* **[建立跨通道濾鏡（視訊）](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
+* **[建立跨通道篩選器（影片）](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
-   *在Customer Journey Analytics中建立篩選器，可運用多個資料來源和多個頻道*
+   *在Customer Journey Analytics中建立篩選器，以利用多個資料來源和多個通道*
 
 ## 工作人員選擇
 
@@ -47,41 +46,41 @@ Customer Journey Analytics 可讓您控制如何在 Analysis Workspace 中連接
 <tr>
   <td>
     <a href="/help/understanding-how-customer-journey-analytics-uses-identity.md">
-      <img alt="瞭解CJA如何使用身分識別" src="assets/30750.jpg" />
+      <img alt="了解CJA如何使用身分" src="assets/30750.jpg" />
     </a>
     <div>
       <a href="/help/understanding-how-customer-journey-analytics-uses-identity.md">
-    <strong>瞭解Customer Journey Analytics如何使用身分</strong>
+    <strong>了解Customer Journey Analytics如何使用身分</strong>
     </a>
     </div>
     <p>
-    <em>從實際角度看身份對Customer Journey Analytics分析的影響</em>
+    <em>從實際角度審視身份對Customer Journey Analytics分析的影響</em>
     <p>
   </td>
    <td>
     <a href="/help/architecture-and-integrations-of-cja.md">
-      <img alt="Customer Journey Analytics架構與整合" src="assets/32483.jpg" />
+      <img alt="架構與整合Customer Journey Analytics" src="assets/32483.jpg" />
     </a>
     <div>
       <a href="/help/architecture-and-integrations-of-cja.md">
-    <strong>Customer Journey Analytics架構與整合</strong>
+    <strong>架構與整合Customer Journey Analytics</strong>
     </a>
     </div>
     <p>
-    <em>Customer Journey Analytics建築的逐步介紹，包括與Adobe Experience Platform的整合。</em>
+    <em>Customer Journey Analytics架構的逐步說明，包括與Adobe Experience Platform的整合。</em>
     <p>
   </td>
   <td>
     <a href="/help/cross-channel-attribution-in-customer-journey-analytics.md">
-      <img alt="Customer Journey Analytics中的跨通道歸因" src="assets/31772.jpg" />
+      <img alt="跨管道歸因Customer Journey Analytics" src="assets/31772.jpg" />
     </a>
     <div>
       <a href="/help/cross-channel-attribution-in-customer-journey-analytics.md">
-    <strong>Customer Journey Analytics中的跨通道歸因</strong>
+    <strong>跨管道歸因Customer Journey Analytics</strong>
     </a>
     </div>
     <p>
-    <em>如何使用視覺化來顯示跨通道的歸因（評分）。</em>
+    <em>如何使用視覺效果來顯示各管道的歸因（評分）。</em>
     <p>
   </td>
 </tr>
