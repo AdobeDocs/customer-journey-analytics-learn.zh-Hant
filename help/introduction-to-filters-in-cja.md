@@ -1,28 +1,27 @@
 ---
-title: Customer Journey Analytics中濾鏡簡介
-description: 本影片將介紹AdobeCustomer Journey Analytics中的濾鏡和濾鏡產生器。
-feature: Filters
+title: 篩選器簡介Customer Journey Analytics
+description: 此影片會介紹您在AdobeCustomer Journey Analytics中的篩選器和篩選器產生器。
+feature: 篩選器
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32114.jpg
 kt: 4447
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 22076ef3-8d97-4483-bc05-5f37b15c868f
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 13%
+source-wordcount: '64'
+ht-degree: 14%
 
 ---
 
+# [!UICONTROL 篩選器]簡介Customer Journey Analytics
 
-# [!UICONTROL Customer Journey Analytics中的]濾鏡簡介
-
-本影片將介紹[!UICONTROL filters]和[!UICONTROL Filter Builder]的Customer Journey Analytics。
+此影片會介紹您的[!UICONTROL 篩選器]和Customer Journey Analytics中的[!UICONTROL 篩選器產生器]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12)
 
-有關Customer Journey Analytics的更多資訊，請訪問[文檔](https://docs.adobe.com/content/help/zh-Hant/analytics-platform/using/cja-landing.html)。
+如需Customer Journey Analytics的詳細資訊，請造訪[檔案](https://docs.adobe.com/content/help/zh-Hant/analytics-platform/using/cja-landing.html)。
