@@ -1,7 +1,7 @@
 ---
-title: 了解Customer Journey Analytics如何使用身分
-description: 本影片不是技術性的深入探討，而是透過實際的方式了解身分對AdobeCustomer Journey Analytics分析的影響，包括透過連結訪客ID而實現的跨管道視覺效果。
-feature: 參閱
+title: 了解 Customer Journey Analytics 如何使用身分
+description: 這段影片不是要技術性深入探討，而是要實際了解身分如何影響您在 Adobe Customer Journey Analytics 中的分析，包括了解透過拼接訪客 ID 實現的跨管道視覺效果。
+feature: Identity
 topics: topics
 activity: understand
 doc-type: feature video
@@ -12,16 +12,16 @@ role: User
 level: Beginner
 exl-id: f835376c-36b8-45b6-a3fe-4efaf5fb6a12
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 15%
+workflow-type: ht
+source-wordcount: '99'
+ht-degree: 100%
 
 ---
 
-# 了解Customer Journey Analytics如何使用[!UICONTROL Identity]
+# 了解 Customer Journey Analytics 如何使用[!UICONTROL 身分]
 
-此影片不是技術性的深入探討，而是透過實際的方式了解[!UICONTROL identity]如何影響您的Customer Journey Analytics分析，包括透過連結[!UICONTROL 訪客] ID而實現的跨管道[!UICONTROL 視覺效果]的審視。
+這段影片不是要技術性深入探討，而是要實際了解[!UICONTROL 身分]如何影響您在 Adobe Customer Journey Analytics 中的分析，包括了解透過拼接[!UICONTROL 訪客] ID 實現的跨管道[!UICONTROL 視覺效果]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30750/?quality=12&enable10seconds=on&speedcontrol=on)
 
-如需詳細資訊，請瀏覽[文件](https://docs.adobe.com/content/help/zh-Hant/analytics-platform/using/cja-landing.html)。
+如需詳細資訊，請查看[文件](https://docs.adobe.com/content/help/zh-Hant/analytics-platform/using/cja-landing.html)。
