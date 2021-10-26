@@ -1,6 +1,6 @@
 ---
-title: Report BuilderCustomer Journey Analytics
-description: Report Builder可讓您使用AdobeCustomer Journey Analytics資料，輕鬆建立、編輯和重新整理自訂報表。 Customer Journey Analytics是以Adobe Experience Platform為基礎打造的服務，可讓您加入多個資料來源，以建立業務的整體檢視。 透過Report Builder簡單而有彈性的拖放UI，您可以從Customer Journey Analytics資料建立複雜的資料查詢和自訂報表，全部在Excel中完成。
+title: 適用於 Customer Journey Analytics 的 Report Builder
+description: Report Builder 可讓您使用 Adobe Customer Journey Analytics 資料輕鬆建立、編輯和重新整理自訂報告。Customer Journey Analytics 是一項建構在 Adobe Experience Platform 上的服務，可讓您連接多個資料來源以建立業務的整體檢視。透過 Report Builder 簡單靈活拖放 UI，就能在 Excel 中從 Customer Journey Analytics 資料建立複雜的資料查詢和自訂報表。
 feature: CJA Workspace Basics
 role: User
 level: Beginner
@@ -8,16 +8,16 @@ doc-type: feature video
 thumbnail: 337569.jpg
 kt: 9125
 source-git-commit: 022ef9cecbff62fa102fcefdadb34c720eaf581b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Report BuilderCustomer Journey Analytics
+# 適用於 Customer Journey Analytics 的 Report Builder
 
-Report Builder可讓您使用AdobeCustomer Journey Analytics資料，輕鬆建立、編輯和重新整理自訂報表。 Customer Journey Analytics是以Adobe Experience Platform為基礎打造的服務，可讓您加入多個資料來源，以建立業務的整體檢視。 透過Report Builder簡單而有彈性的拖放UI，您可以從Customer Journey Analytics資料建立複雜的資料查詢和自訂報表，全部在Excel中完成。
+Report Builder 可讓您使用 Adobe Customer Journey Analytics 資料輕鬆建立、編輯和重新整理自訂報告。Customer Journey Analytics 是一項建構在 Adobe Experience Platform 上的服務，可讓您連接多個資料來源以建立業務的整體檢視。透過 Report Builder 簡單靈活拖放 UI，就能在 Excel 中從 Customer Journey Analytics 資料建立複雜的資料查詢和自訂報表。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337569/?quality=12&learn=on)
