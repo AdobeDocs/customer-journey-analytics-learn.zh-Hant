@@ -7,13 +7,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 337569.jpg
 kt: 9125
-source-git-commit: 022ef9cecbff62fa102fcefdadb34c720eaf581b
+exl-id: 36ed8ea2-f731-4064-8d6a-ff352bc7705e
+source-git-commit: 4eb1189ee793cb5bf7e0332c61a1c99e5dd15eb7
 workflow-type: ht
 source-wordcount: '154'
 ht-degree: 100%
 
 ---
-
 
 # 適用於 Customer Journey Analytics 的 Report Builder
 
