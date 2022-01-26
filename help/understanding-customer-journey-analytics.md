@@ -1,7 +1,7 @@
 ---
 title: 了解 Customer Journey Analytics
-description: Adobe 的 Customer Journey Analytics (CJA) 是以 Adobe Experience Platform 為建置基礎的應用程式服務。其將多樣化的分析工具，即 Analysis Workspace 帶至 Platform，讓您可對您的任何 Platform 資料集執行多通道分析。
-landing-page-description: 在此影片中，您可以了解如何對任何 Platform 資料集執行多通道分析。
+description: Adobe 的 Customer Journey Analytics (CJA) 是以 Adobe Experience 平台為建置基礎的應用程式服務。其將多樣化的分析工具，即 Analysis Workspace 帶至平台，讓您可對您的任何平台資料集執行多通道分析。
+landing-page-description: 在此影片中，您可以了解如何對任何平台資料集執行多通道分析。
 feature: CJA Workspace Basics
 topics: null
 activity: understand
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 # 了解 Customer Journey Analytics
 
-Adobe 的 Customer Journey Analytics (CJA) 是以 Adobe Experience Platform 為建置基礎的應用程式服務。其將多樣化的分析工具，即 Analysis Workspace 帶至 Platform，讓您可對您的任何 Platform 資料集執行多通道分析。
+Adobe 的 Customer Journey Analytics (CJA) 是以 Adobe Experience 平台為建置基礎的應用程式服務。其將多樣化的分析工具，即 Analysis Workspace 帶至平台，讓您可對您的任何平台資料集執行多通道分析。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30090/?quality=12&enable10seconds=on&speedcontrol=on)
 
