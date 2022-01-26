@@ -40,4 +40,4 @@ ht-degree: 100%
 + 藍圖 {#blueprints}
    + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [數位行為資料合併分析藍本](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
-   + [Call Deflection Journey Analysis 情境](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=zh-Hant#customer-journey-analytics)
+   + [呼叫改向歷程分析狀況](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=zh-Hant#customer-journey-analytics)
