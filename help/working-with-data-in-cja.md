@@ -1,6 +1,6 @@
 ---
-title: 在 Customer Journey Analytics 中處理資料
-description: 在此影片中，您能了解資料集結構描述如何在 Adobe Customer Journey Analytics (CJA) 中轉換為變數，以及 CJA 如何處理極高的基數。
+title: 使用資料
+description: 瞭解如何將資料集架構轉換為Adobe Customer Journey Analytics的變數，以及CJA如何處理非常高的基數。
 feature: Connections
 topics: null
 activity: understand
@@ -11,10 +11,10 @@ kt: 3964
 role: Data Engineer, Data Architect
 level: Intermediate
 exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
-source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: ht
-source-wordcount: '87'
-ht-degree: 100%
+source-git-commit: f3b925b8ca6cffdd17aebd0ba6258ed6170fda4e
+workflow-type: tm+mt
+source-wordcount: '77'
+ht-degree: 67%
 
 ---
 
