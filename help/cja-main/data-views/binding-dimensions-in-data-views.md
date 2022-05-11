@@ -6,13 +6,13 @@ role: Data Architect, User
 level: Intermediate
 kt: 10375
 thumbnail: 342694.jpeg
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
+exl-id: 60c4884e-ebb2-4eb5-9912-d51c5ee20c5e
+source-git-commit: f9d82fd9d5297ae8a06d33023b209fc22282c3f0
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
-
 
 # 資料視圖中的綁定Dimension
 
