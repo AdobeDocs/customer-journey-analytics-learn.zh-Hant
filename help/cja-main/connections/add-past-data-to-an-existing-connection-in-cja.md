@@ -12,7 +12,7 @@ role: Data Engineer, Data Architect
 level: Beginner
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
 source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
 ht-degree: 100%
 
