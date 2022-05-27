@@ -12,7 +12,7 @@ role: User
 level: Beginner
 exl-id: 22076ef3-8d97-4483-bc05-5f37b15c868f
 source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
 ht-degree: 100%
 
