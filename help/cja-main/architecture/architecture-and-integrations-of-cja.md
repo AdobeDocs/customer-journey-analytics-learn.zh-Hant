@@ -1,6 +1,6 @@
 ---
 title: Customer Journey Analytics 的架構和整合
-description: 取得 Adobe Customer Journey Analytics 架構的逐步說明，包括其如何連接及與 Adobe Experience Platform 整合。
+description: 取得 Adobe Customer Journey Analytics 架構的逐步說明，包括它如何連線到 Adobe Experience Platform 並與之整合。
 feature: CJA Workspace Basics
 topics: null
 activity: understand
@@ -13,7 +13,7 @@ role: Architect, Data Architect
 level: Intermediate
 exl-id: 441e632f-b8d0-428a-9db6-c048bf173443
 source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
 ht-degree: 100%
 
