@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: 24decec83de218dc3564a98b6f9a8e4c1239dae0
 workflow-type: tm+mt
 source-wordcount: '257'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -50,9 +50,9 @@ ht-degree: 95%
       + [篩選簡介](components/filters/introduction-to-filters-in-cja.md)
       + [建立跨頻道篩選](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [將 Adobe Analytics 區段移至 Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
-+ 儀表板（記分卡） {#dashboards}
++ 儀表板 (計分卡) {#dashboards}
    + [建立行動計分卡](dashboards/create-a-mobile-scorecard.md)
-   + [幫助主管訪問移動記分卡](dashboards/assist-executives-to-access-mobile-scorecards.md)
+   + [協助高階主管存取行動計分卡](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + 計算量度 {#calc-metrics}
    + [Customer Journey Analytics 中的計算量度簡介](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
    + [將計算量度從 Adobe Analytics 移至 Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
