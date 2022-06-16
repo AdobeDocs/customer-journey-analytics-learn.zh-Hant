@@ -1,23 +1,23 @@
 ---
-title: 配置子字串元件設定
-description: 瞭解如何使用字串操作方法在Customer Journey Analytics報告中獲取所需的維值部分。 應用後，資料轉換將立即進行追溯。
+title: 進行子字串元件設定
+description: 了解如何使用字串操作方法，以在 Customer Journey Analytics 報告中取得所需的維度值部分。 套用後，會進行追溯和立即的資料轉換。
 feature: Data Views
 role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 343526.jpg
 kt: 10451
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: 0728ed4c-9a38-4e8f-8b08-175c68c36ea6
+source-git-commit: 47b47d26c68cf787aeb13769c5ae3f200b364abc
+workflow-type: ht
+source-wordcount: '79'
+ht-degree: 100%
 
 ---
 
+# 進行子字串元件設定
 
-# 配置子字串元件設定
-
-瞭解如何使用字串操作方法在Customer Journey Analytics報告中獲取所需的維值部分。 應用後，資料轉換將立即進行追溯。
+了解如何使用字串操作方法，以在 Customer Journey Analytics 報告中取得所需的維度值部分。 套用後，會進行追溯和立即的資料轉換。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343526/?quality=12&learn=on)
 
