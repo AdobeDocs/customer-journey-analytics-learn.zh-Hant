@@ -1,6 +1,6 @@
 ---
-title: 建立注釋
-description: 學習在活動啟動、資料問題和節假日等事件發生時在Customer Journey Analytics項目中建立注釋。 此功能將通知用戶這些日期或日期範圍的度量差異。
+title: 建立附註
+description: 了解如何在事件 (行銷活動啟動、資料問題和假期等) 發生時，在您的 Customer Journey Analytics 專案中建立附註。此功能會通知您的使用者這些日期或日期範圍內的指標差異。
 feature: Components
 topic: Collaboration
 role: Admin, User
@@ -8,16 +8,16 @@ level: Beginner
 doc-type: feature video
 thumbnail: 343742.jpg
 kt: 10538
-source-git-commit: adb3395e3d4a3e33aaa62c691b54e3a0ec61e6d7
-workflow-type: tm+mt
+exl-id: eaf2f29e-7eb3-4d79-85b7-e2bcb38523c7
+source-git-commit: 32a69007f26e718700078e9798b5a21a44ac7143
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 建立附註
 
-# 建立注釋
-
-學習建立 [!UICONTROL 注釋] 在 [!DNL Customer Journey Analytics] 當活動啟動、資料問題和假日等事件發生時進行項目。 此功能將通知用戶這些日期或日期範圍的度量差異。
+了解如何在事件 (行銷活動啟動、資料問題和假期等) 發生時，在您的 [!DNL Customer Journey Analytics] 專案中建立[!UICONTROL 附註]。此功能會通知您的使用者這些日期或日期範圍內的指標差異。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343742/?quality=12&learn=on)
