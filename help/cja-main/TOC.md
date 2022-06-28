@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 217f742a945455eaa80e539a72bcd0f09dcc8c99
-workflow-type: ht
-source-wordcount: '265'
-ht-degree: 100%
+source-git-commit: ba1d644978617364017d655159e9f09d413f9f64
+workflow-type: tm+mt
+source-wordcount: '273'
+ht-degree: 97%
 
 ---
 
@@ -51,8 +51,10 @@ ht-degree: 100%
       + [建立快速篩選](components/filters/create-a-quick-filter.md)
       + [建立跨頻道篩選](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [將 Adobe Analytics 區段移至 Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
-   + 附註 {#annotations}
-      + [建立附註](components/create-an-annotation.md)
++ 面板 {#panels}
+   + [配置下一個和上一個項目面板](panels/configure-next-previous-item-panel.md)
++ 附註 {#annotations}
+   + [建立附註](components/create-an-annotation.md)
 + 儀表板 (計分卡) {#dashboards}
    + [建立行動計分卡](dashboards/create-a-mobile-scorecard.md)
    + [協助高階主管存取行動計分卡](dashboards/assist-executives-to-access-mobile-scorecards.md)
