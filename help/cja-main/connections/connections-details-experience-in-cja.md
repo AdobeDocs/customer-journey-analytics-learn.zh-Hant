@@ -1,6 +1,6 @@
 ---
 title: CJA 中的連線詳細資料體驗
-description: 歡迎使用連接詳細資訊體驗，它允許您檢查連接資料集的狀態以及接收過程。
+description: 歡迎使用連線詳細資料體驗，此體驗可讓您查看連線的資料集及擷取程序的狀態。
 feature: Connections
 topic: Administration
 role: Admin
@@ -9,15 +9,15 @@ kt: 10221
 thumbnail: 342097.jpg
 exl-id: 49a902be-bb17-4bcb-b86e-0c7a93b1d580
 source-git-commit: 846dd86b60d456469618d6f6ea9c26a726215687
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '137'
+ht-degree: 100%
 
 ---
 
 # CJA 中的連線詳細資料體驗
 
-歡迎使用「連接詳細資訊體驗」，它允許您檢查連接資料集的狀態和接收過程的狀態。
+歡迎使用連線詳細資料體驗，此體驗可讓您查看連線的資料集及擷取程序的狀態。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)
 
