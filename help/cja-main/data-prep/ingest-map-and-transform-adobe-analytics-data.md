@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 29687.jpg
 kt: 10421
 exl-id: 74998f1c-c2d2-425f-b662-58781c825bee
-source-git-commit: f54c2c2095d0230c6e48f6664a795358eae3ce6a
-workflow-type: ht
-source-wordcount: '142'
-ht-degree: 100%
+source-git-commit: a12cb54b55644bfaffb50eb5ca7313050b5db402
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 95%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
 
-如需詳細資訊，請參閱 [Adobe Analytics 來源連接器文件](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=zh-Hant)和[資料準備功能文件](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html%3Flang%3Dsv)。
+如需詳細資訊，請參閱 [Adobe Analytics 來源連接器文件](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html)和[資料準備功能文件](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html)。
