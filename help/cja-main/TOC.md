@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: ba1d644978617364017d655159e9f09d413f9f64
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '273'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 97%
       + [建立跨頻道篩選](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [將 Adobe Analytics 區段移至 Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
 + 面板 {#panels}
-   + [配置下一個和上一個項目面板](panels/configure-next-previous-item-panel.md)
+   + [設定下一個和上一個項目面板](panels/configure-next-previous-item-panel.md)
 + 附註 {#annotations}
    + [建立附註](components/create-an-annotation.md)
 + 儀表板 (計分卡) {#dashboards}
