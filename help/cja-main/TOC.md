@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ba1d644978617364017d655159e9f09d413f9f64
+source-git-commit: 70696bb3348513222627128a1597d08e127a8a36
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '276'
 ht-degree: 100%
 
 ---
@@ -51,6 +51,11 @@ ht-degree: 100%
       + [建立快速篩選](components/filters/create-a-quick-filter.md)
       + [建立跨頻道篩選](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [將 Adobe Analytics 區段移至 Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+   + 計算量度 {#calc-metrics}
+      + [Customer Journey Analytics 中的計算量度簡介](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
+      + [將計算量度從 Adobe Analytics 移至 Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
+   + 對象 {#audiences}
+      + [對象發佈](components/audiences/audience-publishing-for-cja.md)
 + 面板 {#panels}
    + [設定下一個和上一個項目面板](panels/configure-next-previous-item-panel.md)
 + 附註 {#annotations}
@@ -58,9 +63,6 @@ ht-degree: 100%
 + 儀表板 (計分卡) {#dashboards}
    + [建立行動計分卡](dashboards/create-a-mobile-scorecard.md)
    + [協助高階主管存取行動計分卡](dashboards/assist-executives-to-access-mobile-scorecards.md)
-+ 計算量度 {#calc-metrics}
-   + [Customer Journey Analytics 中的計算量度簡介](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
-   + [將計算量度從 Adobe Analytics 移至 Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
 + 匯出 {#exporting}
    + Report Builder {#report-builder}
       + [適用於 Customer Journey Analytics 的 Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
