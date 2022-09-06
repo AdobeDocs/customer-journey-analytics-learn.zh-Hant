@@ -1,6 +1,6 @@
 ---
 title: 對象發佈以供Customer Journey Analytics
-description: Customer Journey Analytics可讓您將分析中發現的受眾發佈至Adobe Experience Platform即時客戶設定檔，以利用Adobe Real-time Customer Data Platform啟動區段，或使用Adobe Journey Optimizer進行更個人化的歷程協調。 （應介於60到160個字元之間，但為297個字元）
+description: Customer Journey Analytics 可讓您將分析中發現的受眾發佈到 Adobe Experience Platform 即時客戶個人檔案來使用 Adobe Real-Time Customer Data Platform 進行區段啟動，或是使用 Adobe Journey Optimizer 實現更加個人化的 Journey Orchestration。 (應該介於 60 到 160 個字元之間，但有 297 個字元)
 feature: Components
 topic: Integrations
 role: User
@@ -10,14 +10,14 @@ thumbnail: 346759.jpeg
 source-git-commit: 70696bb3348513222627128a1597d08e127a8a36
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 14%
+ht-degree: 94%
 
 ---
 
 
-# 對象發佈以供Customer Journey Analytics
+# 適用於 Customer Journey Analytics 的受眾發佈
 
-Customer Journey Analytics可讓您將分析中發現的受眾發佈至Adobe Experience Platform即時客戶設定檔，以利用Adobe Real-time Customer Data Platform啟動區段，或使用Adobe Journey Optimizer進行更個人化的歷程協調。
+Customer Journey Analytics 可讓您將分析中發現的受眾發佈到 Adobe Experience Platform 即時客戶個人檔案來使用 Adobe Real-Time Customer Data Platform 進行區段啟動，或是使用 Adobe Journey Optimizer 實現更加個人化的 Journey Orchestration。
 
 >[!VIDEO](https://video.tv.adobe.com/v/346759/?quality=12&learn=on)
 
