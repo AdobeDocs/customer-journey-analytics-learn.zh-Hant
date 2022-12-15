@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 143f2dfb69c303e5dbe83a37efc88622ea1ddb21
+source-git-commit: 06eb1fea41a95769f2f4499ef2c11e834e211faa
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 98%
+source-wordcount: '295'
+ht-degree: 95%
 
 ---
 
@@ -67,6 +67,10 @@ ht-degree: 98%
 + 匯出 {#exporting}
    + Report Builder {#report-builder}
       + [適用於 Customer Journey Analytics 的 Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
++ 使用案例 {#use-cases}
+   + 資料檢視使用案例 {#data-views-use-cases}
+      + [首次和回訪工作階段報表](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
+      + [利用日期欄位支援](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + 藍圖 {#blueprints}
    + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [數位行為資料合併情境](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
