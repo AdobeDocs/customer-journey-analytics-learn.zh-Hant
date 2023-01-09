@@ -1,9 +1,8 @@
 ---
-source-git-commit: cc6ee4108583738172531cd4425982e445f1d354
+source-git-commit: 56907282412252ad7df8f01fef541f7107bb4af5
 workflow-type: tm+mt
-translation-type: tm+mt
-source-wordcount: '296'
-ht-degree: 98%
+source-wordcount: '294'
+ht-degree: 100%
 
 ---
 # 貢獻
@@ -18,7 +17,7 @@ ht-degree: 98%
 
 ## 貢獻者指南文件
 
-See the [Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+請參閱 [貢獻者指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hant)。
 
 ## 有任何疑問嗎?
 
@@ -26,7 +25,8 @@ See the [Contributor Guide](https://docs.adobe.com/content/help/en/contributor/c
 
 ## 貢獻者授權協議 (CLA)
 
-本專案的所有第三方貢獻者均須簽署貢獻者授權合約。這可授予 Adobe 在專案中重新使用您稿件的權限。[敬請簽署我們的 CLA](http://opensource.adobe.com/cla.html)。Adobe CLA 只需提交一次，因此若您先前已提交過 Adobe CLA，您現在可以開始貢獻內容了!
+本專案的所有第三方貢獻者均須簽署貢獻者
+授權合約。 這可授予 Adobe 在專案中重新使用您稿件的權限。[敬請簽署我們的 CLA](http://opensource.adobe.com/cla.html)。 Adobe CLA 只需提交一次，因此若您先前已提交過 Adobe CLA，您現在可以開始貢獻內容了!
 
 ## 程式碼審核
 
@@ -39,8 +39,13 @@ submitting a pull request!
 
 ## 從貢獻者晉升提交者
 
-我們相當樂見社群成員自願提出貢獻! 若您想比貢獻者更進一步，以提交者身分在專案中擁有完整撰寫權限和發言權，您必須受邀加入專案。現有的提交者會採取內部提名程序，在內部取得簡單共識 (沒人反對即為贊同) 後，才發出邀請。若您自認符合資格且希望能進一步參與，請隨時與現有的提交者聯絡洽談。
+我們相當樂見社群成員自願提出貢獻! 若您除了當貢獻者外還要
+更進一步，以提交者身分在專案中擁有完整撰寫權限和發言權，您必須
+受邀加入專案。 現有的提交者會採取內部提名
+程序，在內部取得簡單共識 (沒人反對即為贊同) 後，
+才發出邀請。 若您自認符合資格且希望能進一步參與，
+請隨時與現有的提交者聯絡洽談。
 
 ## 安全性問題
 
-安全性問題不應透過此問題追蹤器舉報。請改[向我們的安全性專家提報問題](https://helpx.adobe.com/tw/security/alertus.html)
+安全性問題不應透過此問題追蹤器舉報。 請改[向我們的安全性專家提報問題](https://helpx.adobe.com/tw/security/alertus.html)
