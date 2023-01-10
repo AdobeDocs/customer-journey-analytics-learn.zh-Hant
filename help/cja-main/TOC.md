@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: 35958b61b24b54d5e963b621df980cebf52fcfe1
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 97%
 + 匯出 {#exporting}
    + Report Builder {#report-builder}
       + [適用於 Customer Journey Analytics 的 Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
-      + [使用Customer Journey Analytics排程Report Builder活頁簿](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
+      + [使用 Report Builder 排程 Customer Journey Analytics 活頁簿](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
 + 使用案例 {#use-cases}
    + 資料檢視使用案例 {#data-views-use-cases}
       + [第一次和傳回工作階段報告](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
