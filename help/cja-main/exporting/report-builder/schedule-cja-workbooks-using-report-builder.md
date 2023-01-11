@@ -1,6 +1,6 @@
 ---
-title: 使用Customer Journey Analytics排程Report Builder活頁簿
-description: 了解如何排程Report Builder中的活頁簿以供Customer Journey Analytics。 排程活頁簿可讓使用者自動重新整理含有最新資料的Report Builder活頁簿，並按照預先定義的定期排程傳送給利害關係人。
+title: 使用 Report Builder 排程 Customer Journey Analytics 活頁簿
+description: 了解如何在 Report Builder 排程 Customer Journey Analytics 活頁簿。排程活頁簿可讓使用者以最新資料重新整理 Report Builder 活頁簿的程序自動化，並按照預先定義的定期排程將其傳送給利害關係人。
 feature: Report Builder
 role: User
 level: Intermediate
@@ -9,15 +9,15 @@ last-substantial-update: 2023-01-09T00:00:00Z
 kt: 11709
 thumbnail: 3413079.jpg
 source-git-commit: 44231780bac87f3df4be9b850b3f44453faddf3b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 使用Customer Journey Analytics排程Report Builder活頁簿
+# 使用 Report Builder 排程 Customer Journey Analytics 活頁簿
 
-了解如何排程Report Builder中的活頁簿以供Customer Journey Analytics。 排程活頁簿可讓使用者自動重新整理含有最新資料的Report Builder活頁簿，並按照預先定義的定期排程傳送給利害關係人。
+了解如何在 Report Builder 排程 Customer Journey Analytics 活頁簿。排程活頁簿可讓使用者以最新資料重新整理 Report Builder 活頁簿的程序自動化，並按照預先定義的定期排程將其傳送給利害關係人。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413079/?quality=12&learn=on)
