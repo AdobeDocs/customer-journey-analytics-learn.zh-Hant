@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 35958b61b24b54d5e963b621df980cebf52fcfe1
+source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 100%
+source-wordcount: '299'
+ht-degree: 95%
 
 ---
 
@@ -23,9 +23,8 @@ ht-degree: 100%
    + [使用資料](data-prep/working-with-data-in-cja.md)
    + [擷取、對應及轉換 Adobe Analytics 資料](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
 + 連線 {#connections}
-   + [在 Platform 中連線到資料來源](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
-   + [CJA 中的連線詳細資料體驗](connections/connections-details-experience-in-cja.md)
-   + [連線的建立和編輯體驗](connections/cja-connections-creation-and-edit-experience.md)
+   + [連線至Experience Platform資料來源](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+   + [查看、診斷和修改連接設定](connections/connections-details-experience-in-cja.md)
    + [將過去資料新增至現有連線](connections/add-past-data-to-an-existing-connection-in-cja.md)
 + 訪客身分識別 {#visitor-id}
    + [了解 CJA 如何使用身分識別](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
