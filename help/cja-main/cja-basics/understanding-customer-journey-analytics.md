@@ -14,8 +14,8 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8b9644dd-1992-499c-88f0-acd3ef182956
 source-git-commit: 80efbb4fea1d21fb173188401c4a6403a862c44d
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '120'
 ht-degree: 100%
 
 ---
