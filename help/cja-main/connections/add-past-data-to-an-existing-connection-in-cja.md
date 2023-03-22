@@ -1,6 +1,6 @@
 ---
-title: 將新資料新增至連線中的Customer Journey Analytics
-description: 了解如何將新資料新增至Customer Journey Analytics連線，以從分析中獲得更多價值。
+title: 將新資料加入到 Customer Journey Analytics 中的連線
+description: 了解如何將新資料加入到 Customer Journey Analytics 連線以從分析中獲得更多價值。
 feature: Connections
 activity: setup
 doc-type: technical video
@@ -13,14 +13,14 @@ last-substantial-update: 2023-03-17T00:00:00Z
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
 source-git-commit: 308ad876b73b0d8d8e3efc5fafe068630e0a6a1d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 90%
 
 ---
 
-# 將新資料新增至連線中的Customer Journey Analytics
+# 將新資料加入到 Customer Journey Analytics 中的連線
 
-將其他管道的新資料新增至Customer Journey Analytics連線，讓分析發揮更大效益。 此外，了解合併這些新資料的需求，以及使用組態設定處理的分析和報告所受到的影響。
+了解如何從其他管道將新資料加入到 Customer Journey Analytics 連線以從分析中獲得更多價值。此外，了解合併此新資料的要求，以及對使用組態設定解決之分析和報告的影響。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12)
 
