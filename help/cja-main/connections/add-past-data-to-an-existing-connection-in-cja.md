@@ -12,9 +12,9 @@ kt: 3965
 last-substantial-update: 2023-03-17T00:00:00Z
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
 source-git-commit: 308ad876b73b0d8d8e3efc5fafe068630e0a6a1d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 90%
 
 >[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12)
 
-如需跨管道分析的詳細資訊，請檢閱 [檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=zh-Hant).
+如需跨管道分析的相關詳細資訊，請參閱[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=zh-Hant)。
