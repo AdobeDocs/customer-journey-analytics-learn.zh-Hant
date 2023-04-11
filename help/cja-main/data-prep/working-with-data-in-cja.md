@@ -11,8 +11,8 @@ kt: 3964
 role: Data Engineer, Data Architect
 level: Intermediate
 exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: tm+mt
+source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 在此影片中，您能了解[!UICONTROL 資料集][!UICONTROL 結構描述]如何在 Adobe Customer Journey Analytics (CJA) 中轉換為變數，以及 CJA 如何處理極高的基數。
 
->[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12&learn=on)
 
 如需 Customer Journey Analytics 的相關詳細資訊，請前往[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hant)。
