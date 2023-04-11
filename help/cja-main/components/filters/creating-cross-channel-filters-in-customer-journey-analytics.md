@@ -11,7 +11,7 @@ kt: 3962
 role: User
 level: Beginner
 exl-id: 6af79964-b56a-4bc8-9b2f-b2a64ec0edef
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
 workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 在這段影片中，我們將討論如何在 Customer Journey Analytics 中建立使用多個資料來源和多管道的[!UICONTROL 篩選器]。你也將會看到如何在[!UICONTROL 視覺效果]中組合這些[!UICONTROL 篩選器]。
 
->[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12&learn=on)
 
 如需 Customer Journey Analytics 的相關詳細資訊，請前往[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hant)。
