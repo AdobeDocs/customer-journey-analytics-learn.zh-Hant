@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 87e4a545a36eb09dc35168bf8784d66b6a56e326
-workflow-type: ht
-source-wordcount: '303'
+source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+workflow-type: tm+mt
+source-wordcount: '310'
 ht-degree: 100%
 
 ---
@@ -42,6 +42,9 @@ ht-degree: 100%
    + [在資料檢視中繫結維度](data-views/binding-dimensions-in-data-views.md)
    + [在資料檢視中設定「沒有值」選項](data-views/configure-no-value-options-in-data-views.md)
    + [資料檢視中的歸因設定](data-views/attribution-settings-in-data-views.md)
++ Analysis Workspace {#analysis-workspace}
+   + Analysis Workspace 專案 {#workspace-projects}
+      + [Analysis Workspace 概觀](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
 + 視覺效果 {#visualizations}
    + [建立跨頻道視覺效果](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [跨頻道歸因](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
@@ -76,3 +79,4 @@ ht-degree: 100%
    + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [數位行為資料合併情境](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
    + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=zh-Hant#customer-journey-analytics)
+
