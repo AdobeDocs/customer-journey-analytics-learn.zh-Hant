@@ -11,7 +11,7 @@ kt: 3960
 role: User
 level: Beginner
 exl-id: aa063ebb-c171-47a8-b1c5-12f24e1a59b8
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
 workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 在這段影片中，我們將討論 Customer Journey Analytics 中的關鍵詞彙和概念，它們如何對應至 Adobe Analytics 中的詞彙和概念，以及它們在 Customer Journey Analytics 界面中的位置。
 
->[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
 
 如需 Customer Journey Analytics 的相關詳細資訊，請前往[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hant)。
