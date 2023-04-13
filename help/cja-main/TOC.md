@@ -3,7 +3,7 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '310'
 ht-degree: 100%
 
@@ -43,7 +43,7 @@ ht-degree: 100%
    + [在資料檢視中設定「沒有值」選項](data-views/configure-no-value-options-in-data-views.md)
    + [資料檢視中的歸因設定](data-views/attribution-settings-in-data-views.md)
 + Analysis Workspace {#analysis-workspace}
-   + Analysis Workspace 專案 {#workspace-projects}
+   + Workspace 專案 {#workspace-projects}
       + [Analysis Workspace 概觀](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
 + 視覺效果 {#visualizations}
    + [建立跨頻道視覺效果](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
