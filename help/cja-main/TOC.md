@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
-workflow-type: ht
-source-wordcount: '310'
-ht-degree: 100%
+source-git-commit: 0a7d2eb934bfde453916a8211f1dc7b717bb5fe5
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -45,6 +45,7 @@ ht-degree: 100%
 + Analysis Workspace {#analysis-workspace}
    + Workspace 專案 {#workspace-projects}
       + [Analysis Workspace 概觀](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
+      + [建立新專案](analysis-workspace/workspace-projects/build-a-new-project.md)
 + 視覺效果 {#visualizations}
    + [建立跨頻道視覺效果](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [跨頻道歸因](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
@@ -80,3 +81,6 @@ ht-degree: 100%
    + [數位行為資料合併情境](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
    + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=zh-Hant#customer-journey-analytics)
 
+
+
+[def]: analysis-workspace/workspace-projects/build-a-new-project.md
