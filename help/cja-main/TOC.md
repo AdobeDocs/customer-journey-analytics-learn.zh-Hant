@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 8508b1e6e392a89a8e033baf06472da8e764e28e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '320'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -14,8 +14,8 @@ ht-degree: 96%
 
 + [Customer Journey Analytics 總覽](overview.md)
 + Customer Journey Analytics 基本知識 {#cja-basics}
-   + [什麼是Customer Journey Analytics?](cja-basics/what-is-customer-journey-analytics.md)
-   + [Customer Journey Analytics簡介](cja-basics/understanding-customer-journey-analytics.md)
+   + [什麼是 Customer Journey Analytics？](cja-basics/what-is-customer-journey-analytics.md)
+   + [Customer Journey Analytics 簡介](cja-basics/understanding-customer-journey-analytics.md)
    + [全新詞彙和概念](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics 登陸頁面](cja-basics/customer-journey-analytics-landing-page.md)
 + 架構 {#architecture}
