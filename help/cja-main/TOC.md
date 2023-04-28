@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 8508b1e6e392a89a8e033baf06472da8e764e28e
-workflow-type: ht
-source-wordcount: '320'
-ht-degree: 100%
+source-git-commit: 20114569963ebaf9c1feea4b5a2cc568d66e6985
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -55,6 +55,7 @@ ht-degree: 100%
       + [篩選簡介](components/filters/introduction-to-filters-in-cja.md)
       + [建立快速篩選](components/filters/create-a-quick-filter.md)
       + [建立跨頻道篩選](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+      + [將篩選條件作為維度使用](components/filters/use-filters-as-dimensions.md)
       + [將 Adobe Analytics 區段移至 Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + 計算量度 {#calc-metrics}
       + [Customer Journey Analytics 中的計算量度簡介](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
