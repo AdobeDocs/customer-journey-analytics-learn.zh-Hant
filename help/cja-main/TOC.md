@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5b7ce13569961cc78be0e2946e3e9607f5ed9a6b
+source-git-commit: 7b4c5bfd8f3fef5a8b52597958efbfeec98c3b45
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 100%
+source-wordcount: '327'
+ht-degree: 92%
 
 ---
 
@@ -44,8 +44,8 @@ ht-degree: 100%
    + [在資料檢視中設定「沒有值」選項](data-views/configure-no-value-options-in-data-views.md)
    + [資料檢視中的歸因設定](data-views/attribution-settings-in-data-views.md)
 + Analysis Workspace {#analysis-workspace}
-   + Workspace 專案 {#workspace-projects}
-      + [Analysis Workspace 概觀](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
+   + Analysis Workspace 專案 {#workspace-projects}
+      + [Analysis Workspace 概述](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [建立新專案](analysis-workspace/workspace-projects/build-a-new-project.md)
 + 視覺效果 {#visualizations}
    + [建立跨頻道視覺效果](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
@@ -62,6 +62,8 @@ ht-degree: 100%
       + [將計算量度從 Adobe Analytics 移至 Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
    + 對象 {#audiences}
       + [對象發佈](components/audiences/audience-publishing-for-cja.md)
+   + 資料字典 {#data-dictionary}
+      + [使用資料字典](components/data-dictionary/use-data-dictionary.md)
 + 面板 {#panels}
    + [設定下一個和上一個項目面板](panels/configure-next-previous-item-panel.md)
    + [使用實驗面板](panels/use-the-experimentation-panel.md)
@@ -77,12 +79,9 @@ ht-degree: 100%
 + 使用案例 {#use-cases}
    + 資料檢視使用案例 {#data-views-use-cases}
       + [第一次和傳回工作階段報告](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
-      + [善用日期欄位支援](use-cases/data-views-use-cases/leverage-date-field-support.md)
+      + [使用日期欄位支援](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + 藍圖 {#blueprints}
    + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
-   + [數位行為資料合併情境](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
-   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=zh-Hant#customer-journey-analytics)
+   + [數位行為資料合併情境](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html)
+   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
 
-
-
-[def]: analysis-workspace/workspace-projects/build-a-new-project.md
