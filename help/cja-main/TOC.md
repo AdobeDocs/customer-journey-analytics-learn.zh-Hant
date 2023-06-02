@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 7b4c5bfd8f3fef5a8b52597958efbfeec98c3b45
+source-git-commit: aac1b820fda0e1ea8c21938ae23f0e5b0034d7ab
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 92%
+source-wordcount: '329'
+ht-degree: 93%
 
 ---
 
@@ -50,6 +50,7 @@ ht-degree: 92%
 + 視覺效果 {#visualizations}
    + [建立跨頻道視覺效果](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [跨頻道歸因](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
+   + [智慧型註解](visualizations/intelligent-captions.md)
 + 元件 {#components}
    + 篩選 (分段) {#filters}
       + [篩選總覽](components/filters/introduction-to-filters-in-cja.md)
