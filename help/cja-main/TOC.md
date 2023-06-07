@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 0c47553f32c814ff0425545787995afbcb8f89a4
+source-git-commit: a7c99a0fefe5996978da6d9bc2564fe9341f2617
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 90%
+source-wordcount: '341'
+ht-degree: 89%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 90%
    + [資料檢視的基本設定](data-views/basic-configuration-for-data-views.md)
    + [在資料檢視中進行元件設定](data-views/configuring-component-settings-in-data-views.md)
    + [資料檢視中的元件類型設定](data-views/component-type-settings-in-data-views.md)
+   + [建立衍生欄位](data-views/derived-fields-in-cja.md)
    + [在資料檢視中將量度格式化](data-views/formatting-metrics-in-data-views.md)
    + [進行子字串元件設定](data-views/configure-substring-component-settings.md)
    + [在資料檢視中加入或排除量度值](data-views/include-or-exclude-metric-values-in-data-views.md)
