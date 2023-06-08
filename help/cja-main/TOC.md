@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 3de00071ff6c8efa5c500ab9bb8692a375779825
+source-git-commit: 69c2686d7f3e66058046a4348f13cb6d61009389
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 78%
+source-wordcount: '388'
+ht-degree: 76%
 
 ---
 
@@ -48,23 +48,30 @@ ht-degree: 78%
    + Analysis Workspace 專案 {#workspace-projects}
       + [Analysis Workspace 概述](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [建立新專案](analysis-workspace/workspace-projects/build-a-new-project.md)
+   + 面板 {#panels}
+      + [設定下一個和上一個項目面板](analysis-workspace/panels/configure-next-previous-item-panel.md)
+      + [使用實驗面板](analysis-workspace/panels/use-the-experimentation-panel.md)
+   + 視覺效果 {#visualizations}
+      + [建立跨頻道視覺效果](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
+      + [跨頻道歸因](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
+      + [建立智慧型字幕](analysis-workspace/visualizations/intelligent-captions.md)
+      + [新增區域視覺效果](analysis-workspace/visualizations/add-area-visualizations.md)
+      + [新增長條圖視覺效果](analysis-workspace/visualizations/add-bar-visualizations.md)
+      + [新增專案符號圖表視覺效果](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
+      + [新增環形圖視覺效果](analysis-workspace/visualizations/add-donut-visualizations.md)
+      + [新增線條視覺效果](analysis-workspace/visualizations/add-line-visualizations.md)
+      + [使用地圖視覺效果](analysis-workspace/visualizations/use-map-visualization.md)
+      + [使用摘要視覺效果](analysis-workspace/visualizations/use-summary-visualizations.md)
+      + [新增文字視覺效果](analysis-workspace/visualizations/add-text-visualizations.md)
+      + [使用散佈圖視覺效果](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
+      + [新增樹狀圖視覺效果](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [建立完全棧疊的視覺效果](analysis-workspace/visualizations/create-stacked-visualizations.md)
+   + 附註 {#annotations}
+      + [建立附註](analysis-workspace/annotations/create-an-annotation.md)
    + 組織與共用 {#curate-and-share}
       + [與Analysis Workspace中的任何人共用](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-+ 視覺效果 {#visualizations}
-   + [建立跨頻道視覺效果](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
-   + [跨頻道歸因](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-   + [建立智慧型字幕](visualizations/intelligent-captions.md)
-   + [新增區域視覺效果](visualizations/add-area-visualizations.md)
-   + [新增長條圖視覺效果](visualizations/add-bar-visualizations.md)
-   + [新增專案符號圖表視覺效果](visualizations/add-bullet-graph-visualizations.md)
-   + [新增環形圖視覺效果](visualizations/add-donut-visualizations.md)
-   + [新增線條視覺效果](visualizations/add-line-visualizations.md)
-   + [使用地圖視覺效果](visualizations/use-map-visualization.md)
-   + [使用摘要視覺效果](visualizations/use-summary-visualizations.md)
-   + [新增文字視覺效果](visualizations/add-text-visualizations.md)
-   + [使用散佈圖視覺效果](visualizations/use-scatterplot-visualizations.md)
-   + [新增樹狀圖視覺效果](visualizations/add-treemap-visualizations.md)
-   + [建立完全棧疊的視覺效果](visualizations/create-stacked-visualizations.md)
+   + 提示與秘訣 {#tips-and-tricks}
+      + [建立動態下拉式篩選器](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + 元件 {#components}
    + 篩選 (分段) {#filters}
       + [篩選總覽](components/filters/introduction-to-filters-in-cja.md)
@@ -79,11 +86,6 @@ ht-degree: 78%
       + [對象發佈](components/audiences/audience-publishing-for-cja.md)
    + 資料字典 {#data-dictionary}
       + [使用資料字典](components/data-dictionary/use-data-dictionary.md)
-+ 面板 {#panels}
-   + [設定下一個和上一個項目面板](panels/configure-next-previous-item-panel.md)
-   + [使用實驗面板](panels/use-the-experimentation-panel.md)
-+ 附註 {#annotations}
-   + [建立附註](components/create-an-annotation.md)
 + 儀表板 (計分卡) {#dashboards}
    + [建立行動計分卡](dashboards/create-a-mobile-scorecard.md)
    + [協助高階主管存取行動計分卡](dashboards/assist-executives-to-access-mobile-scorecards.md)
