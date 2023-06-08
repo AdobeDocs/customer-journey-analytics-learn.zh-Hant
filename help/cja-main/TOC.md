@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a7c99a0fefe5996978da6d9bc2564fe9341f2617
+source-git-commit: 3de00071ff6c8efa5c500ab9bb8692a375779825
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 89%
+source-wordcount: '381'
+ht-degree: 78%
 
 ---
 
@@ -53,7 +53,18 @@ ht-degree: 89%
 + 視覺效果 {#visualizations}
    + [建立跨頻道視覺效果](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [跨頻道歸因](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-   + [智慧型註解](visualizations/intelligent-captions.md)
+   + [建立智慧型字幕](visualizations/intelligent-captions.md)
+   + [新增區域視覺效果](visualizations/add-area-visualizations.md)
+   + [新增長條圖視覺效果](visualizations/add-bar-visualizations.md)
+   + [新增專案符號圖表視覺效果](visualizations/add-bullet-graph-visualizations.md)
+   + [新增環形圖視覺效果](visualizations/add-donut-visualizations.md)
+   + [新增線條視覺效果](visualizations/add-line-visualizations.md)
+   + [使用地圖視覺效果](visualizations/use-map-visualization.md)
+   + [使用摘要視覺效果](visualizations/use-summary-visualizations.md)
+   + [新增文字視覺效果](visualizations/add-text-visualizations.md)
+   + [使用散佈圖視覺效果](visualizations/use-scatterplot-visualizations.md)
+   + [新增樹狀圖視覺效果](visualizations/add-treemap-visualizations.md)
+   + [建立完全棧疊的視覺效果](visualizations/create-stacked-visualizations.md)
 + 元件 {#components}
    + 篩選 (分段) {#filters}
       + [篩選總覽](components/filters/introduction-to-filters-in-cja.md)
@@ -86,6 +97,6 @@ ht-degree: 89%
       + [使用日期欄位支援](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + 藍圖 {#blueprints}
    + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
-   + [數位行為資料合併情境](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html)
-   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
+   + [數位行為資料合併情境](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
+   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
 
