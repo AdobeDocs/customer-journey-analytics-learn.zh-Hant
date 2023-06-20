@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 69c2686d7f3e66058046a4348f13cb6d61009389
+source-git-commit: 1150ec26cf52df892c432959ebe5a8bf730a8b34
 workflow-type: tm+mt
-source-wordcount: '388'
-ht-degree: 76%
+source-wordcount: '395'
+ht-degree: 75%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 76%
 + 資料準備與規劃 {#data-prep}
    + [使用資料](data-prep/working-with-data-in-cja.md)
    + [擷取、對應及轉換 Adobe Analytics 資料](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
+   + [擷取和使用Adobe Analytics分類資料](data-prep/ingest-and-use-analytics-classifications.md)
 + 連線 {#connections}
    + [連線至 Experience Platform 資料來源](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [檢視、疑難排解和修改連線設定](connections/connections-details-experience-in-cja.md)
@@ -101,4 +102,3 @@ ht-degree: 76%
    + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [數位行為資料合併情境](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
    + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
-
