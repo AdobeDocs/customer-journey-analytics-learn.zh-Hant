@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 4a08586cb92a27a768b7879a148232e90a272254
+source-git-commit: a2f0e706ddfa3e83bb24de8f783803c48d4760ac
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '402'
 ht-degree: 74%
 
 ---
@@ -73,8 +73,8 @@ ht-degree: 74%
       + [與Analysis Workspace中的任何人共用](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + 提示與秘訣 {#tips-and-tricks}
       + [建立動態下拉式篩選器](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
-+ 引導式分析 {#guided-analysis}
-   + [Adobe Product Analytics概觀](guided-analysis/adobe-product-analytics-overview.md)
++ Adobe Product Analytics {#adobe-product-analytics}
+   + [Adobe Product Analytics概觀](adobe-product-analytics/adobe-product-analytics-overview.md)
 + 元件 {#components}
    + 篩選 (分段) {#filters}
       + [篩選總覽](components/filters/introduction-to-filters-in-cja.md)
