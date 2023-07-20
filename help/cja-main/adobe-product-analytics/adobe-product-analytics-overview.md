@@ -8,10 +8,10 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-14T00:00:00Z
 jira: KT-13650
 thumbnail: 3421621.jpeg
-source-git-commit: a2f0e706ddfa3e83bb24de8f783803c48d4760ac
+source-git-commit: b784a9e5c1adf41d0011140b22c15551cc86813f
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 39%
+ht-degree: 34%
 
 ---
 
@@ -24,10 +24,10 @@ Adobe Product Analytics可讓產品團隊透過引導式Customer Journey Analyti
 
 使用Adobe Product Analytics，團隊可以：
 
-* 了解一段時間內使用者參與模式
-* 追蹤產品使用者群的增長和保留
-* 識別產品中的摩擦區域
-* 衡量功能發行與首次使用的影響&#x200B;
+* [了解一段時間內使用者參與模式](../guided-analysis/trends/usage-trends-analysis.md)
+* [追蹤產品使用者群的增長和保留](../guided-analysis/user-growth/active-user-growth-analysis.md)
+* [識別產品中的摩擦區域](../guided-analysis/funnel/funnel-friction-analysis.md)
+* [衡量功能發行和首次使用的影響](../guided-analysis/impact/release-impact-analysis.md)
 * 探索有意義的使用者區段，在其一生使用產品的過程中吸引和培育
 * 連結 Analysis Workspace 以進行更深入的分析，以及與分析師協作
 
