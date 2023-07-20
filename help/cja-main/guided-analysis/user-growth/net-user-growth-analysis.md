@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13674
 thumbnail: 3421664.jpeg
-source-git-commit: a4882de82016fe9d52c735e0e12bc084b725c22a
+source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 8%
@@ -18,7 +18,7 @@ ht-degree: 8%
 
 # 淨使用者成長分析
 
-瞭解如何使用 **淨成長檢視** 「Adobe Product Analytics」提供您對於特定期間內，使用者得失的比率的深入分析。
+瞭解如何使用 **淨成長檢視** 在 [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md)，深入分析特定期間內，使用者增減的速率。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
 
