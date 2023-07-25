@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 70%
 + 資料準備與規劃 {#data-prep}
    + [使用資料](data-prep/working-with-data-in-cja.md)
    + [擷取、對應及轉換 Adobe Analytics 資料](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
-   + [擷取和使用Adobe Analytics分類資料](data-prep/ingest-and-use-analytics-classifications.md)
+   + [擷取和使用 Adobe Analytics 分類資料](data-prep/ingest-and-use-analytics-classifications.md)
 + 連線 {#connections}
    + [連線至 Experience Platform 資料來源](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [檢視、疑難排解和修改連線設定](connections/connections-details-experience-in-cja.md)
@@ -55,41 +55,41 @@ ht-degree: 70%
    + 視覺效果 {#visualizations}
       + [建立跨頻道視覺效果](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
       + [跨頻道歸因](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-      + [建立智慧型字幕](analysis-workspace/visualizations/intelligent-captions.md)
-      + [新增區域視覺效果](analysis-workspace/visualizations/add-area-visualizations.md)
+      + [建立智慧型註解](analysis-workspace/visualizations/intelligent-captions.md)
+      + [新增區域圖視覺效果](analysis-workspace/visualizations/add-area-visualizations.md)
       + [新增長條圖視覺效果](analysis-workspace/visualizations/add-bar-visualizations.md)
-      + [新增專案符號圖表視覺效果](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
+      + [新增項目符號圖表視覺效果](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [新增環形圖視覺效果](analysis-workspace/visualizations/add-donut-visualizations.md)
-      + [新增線條視覺效果](analysis-workspace/visualizations/add-line-visualizations.md)
+      + [新增折線圖視覺效果](analysis-workspace/visualizations/add-line-visualizations.md)
       + [使用地圖視覺效果](analysis-workspace/visualizations/use-map-visualization.md)
       + [使用摘要視覺效果](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [新增文字視覺效果](analysis-workspace/visualizations/add-text-visualizations.md)
       + [使用散佈圖視覺效果](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [新增樹狀圖視覺效果](analysis-workspace/visualizations/add-treemap-visualizations.md)
-      + [建立完全棧疊的視覺效果](analysis-workspace/visualizations/create-stacked-visualizations.md)
+      + [建立完全堆疊視覺效果](analysis-workspace/visualizations/create-stacked-visualizations.md)
    + 附註 {#annotations}
       + [建立附註](analysis-workspace/annotations/create-an-annotation.md)
-   + 組織與共用 {#curate-and-share}
-      + [與Analysis Workspace中的任何人共用](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
+   + 組織與共用 {#curate-and-share}。
+      + [在 Analysis Workspace 中與任何人共用](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + 提示與秘訣 {#tips-and-tricks}
-      + [建立動態下拉式篩選器](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+      + [建立動態下拉篩選器](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
-   + [Adobe Product Analytics概觀](adobe-product-analytics/adobe-product-analytics-overview.md)
+   + [Adobe Product Analytics 概觀](adobe-product-analytics/adobe-product-analytics-overview.md)
 + 引導式分析 {#guided-analysis}
    + 影響 {#impact}
       + [發行影響分析](guided-analysis/impact/release-impact-analysis.md)
       + [首次使用影響分析](guided-analysis/impact/first-use-impact-analysis.md)
    + 漏斗 {#funnel}
-      + [漏斗摩擦力分析](guided-analysis/funnel/funnel-friction-analysis.md)
+      + [漏斗摩擦分析](guided-analysis/funnel/funnel-friction-analysis.md)
       + [漏斗轉換趨勢分析](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
    + 使用者增長 {#user-growth}
-      + [活躍使用者成長分析](guided-analysis/user-growth/active-user-growth-analysis.md)
+      + [作用中使用者成長分析](guided-analysis/user-growth/active-user-growth-analysis.md)
       + [淨使用者成長分析](guided-analysis/user-growth/net-user-growth-analysis.md)
    + 趨勢 {#trends}
       + [使用趨勢分析](guided-analysis/trends/usage-trends-analysis.md)
 + 元件 {#components}
    + 篩選 (分段) {#filters}
-      + [篩選總覽](components/filters/introduction-to-filters-in-cja.md)
+      + [篩選概觀](components/filters/introduction-to-filters-in-cja.md)
       + [建立快速篩選](components/filters/create-a-quick-filter.md)
       + [建立跨頻道篩選](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [將篩選條件作為維度使用](components/filters/use-filters-as-dimensions.md)
