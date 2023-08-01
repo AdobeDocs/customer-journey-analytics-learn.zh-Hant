@@ -1,14 +1,14 @@
 ---
 title: Customer Journey Analytics 登陸頁面
 description: Customer Journey Analytics 登陸頁面包含您的專案和行動計分卡的預設檢視，以及可幫助您更有效地開始體驗的學習區段。
-feature: CJA Basics
+feature: Basics
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 343041.jpg
 kt: 10422
 exl-id: 4c05f97d-566b-41c8-a822-56482136b04d
-source-git-commit: f54c2c2095d0230c6e48f6664a795358eae3ce6a
+source-git-commit: c9830412d18f63dc14020748ff43df7f7fcf408c
 workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
