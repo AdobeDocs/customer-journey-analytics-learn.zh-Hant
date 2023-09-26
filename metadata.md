@@ -13,7 +13,8 @@ tutorials-url: /content/help/en/customer-journey-analytics-learn/tutorials/overv
 git-repo: https://github.com/AdobeDocs/customer-journey-analytics-learn.zh-Hant
 index: true
 mini-toc-levels: 2
-source-git-commit: 83183e084aa4998cde4cbbbd13458c18a0c171fe
+auto-video-transcripts: true
+source-git-commit: 449f3502c249765cdac718df173ca080e66426bc
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 96%
