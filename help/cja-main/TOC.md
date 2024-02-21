@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 9cd00588e7ced90f0840840dbbc87c8912715543
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '435'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -28,11 +28,11 @@ ht-degree: 93%
    + [連線至 Experience Platform 資料來源](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [檢視、疑難排解和修改連線設定](connections/connections-details-experience-in-cja.md)
    + [將新資料加入到連線](connections/add-past-data-to-an-existing-connection-in-cja.md)
-   + [查閱和設定檔資料的CJA查閱](connections/cja-lookup-data.md)
+   + [尋找和設定檔資料的 CJA 尋找](connections/cja-lookup-data.md)
 + 訪客身分識別 {#visitor-id}
    + [了解 CJA 如何使用身分識別](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [設定遺漏的人員 ID](visitor-id/configure-missing-person-id.md)
-   + [銜接概述](visitor-id/overview-of-stitching.md)
+   + [彙整概述](visitor-id/overview-of-stitching.md)
 + 資料檢視 {#data-views}
    + [為 CJA 設定資料檢視的總覽](data-views/overview-of-configuring-data-views-for-cja.md)
    + [資料檢視的基本設定](data-views/basic-configuration-for-data-views.md)
@@ -119,6 +119,6 @@ ht-degree: 93%
    + 複雜的資料 {#complex-data}
       + [使用物件陣列](use-cases/complex-data/object-arrays-in-cja.md)
 + 藍圖 {#blueprints}
-   + [Customer Journey AnalyticsBlueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html){target=_blank}
-   + [數位行為資料合併分析藍本](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html){target=_blank}
+   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html){target=_blank}
+   + [數位行為資料合併情境](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html){target=_blank}
    + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html){target=_blank}

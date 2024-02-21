@@ -8,13 +8,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-14T00:00:00Z
 jira: KT-13650
 thumbnail: 3421621.jpeg
-source-git-commit: b784a9e5c1adf41d0011140b22c15551cc86813f
+exl-id: 725787ed-9dae-427a-bd69-c8f0ccadf2ed
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: ht
-source-wordcount: '174'
+source-wordcount: '168'
 ht-degree: 100%
 
 ---
-
 
 # Adobe Product Analytics 概觀
 
