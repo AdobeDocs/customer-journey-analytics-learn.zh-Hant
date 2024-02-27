@@ -8,9 +8,9 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: afc741e79f6aee13094ab3c3493885ce91c38284
+source-git-commit: c26bc63942e9d140eefbb530c441de9eb45d5743
 workflow-type: ht
-source-wordcount: '298'
+source-wordcount: '221'
 ht-degree: 100%
 
 ---
@@ -26,20 +26,6 @@ ht-degree: 100%
 
 Customer Journey Analytics 可讓您控制如何在 Analysis Workspace 中連接任何常見客戶 ID 的線上和離線資料，進而允許您進行歸因、區段、流量與流失等分析。整個客戶資料集。
 
-<div id="whats-new-section">
-
-## 新增功能
-
-* **[將 Adobe Analytics 區段移至 Customer Journey Analytics (影片)](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
-  *了解如何在 Customer Journey Analytics 中重新建立 Adobe Analytics 計算度量的提示。*
-
-* **[將計算量度從 Adobe Analytics 移至 Customer Journey Analytics (影片)](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
-  *了解在 Customer Journey Analytics 中重新建立 Adobe Analytics 計算度量的相關提示*
-
-* **[建立跨管道篩選器 (影片)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
-  *在 Customer Journey Analytics 中建立篩選器，使用多個資料來源和多個管道*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
