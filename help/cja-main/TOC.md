@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 7304fe6e7961a788c01386366c7e2fa738703f86
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -87,8 +87,8 @@ ht-degree: 97%
       + [首次使用影響分析](guided-analysis/impact/first-use-impact-analysis.md)
    + 趨勢 {#trends}
       + [使用趨勢分析](guided-analysis/trends/usage-trends-analysis.md)
-   + 使用者資料流 {#user-stream}
-      + [使用者資料流時間軸分析](guided-analysis/user-stream/user-stream-timeline-analysis.md)
+   + 使用者串流 {#user-stream}
+      + [使用者串流時間表分析](guided-analysis/user-stream/user-stream-timeline-analysis.md)
    + 使用者增長 {#user-growth}
       + [作用中使用者成長分析](guided-analysis/user-growth/active-user-growth-analysis.md)
       + [淨使用者成長分析](guided-analysis/user-growth/net-user-growth-analysis.md)
