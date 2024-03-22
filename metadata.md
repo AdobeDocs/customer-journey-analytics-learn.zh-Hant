@@ -14,10 +14,10 @@ git-repo: https://github.com/AdobeDocs/customer-journey-analytics-learn.zh-Hant
 index: true
 mini-toc-levels: 2
 auto-video-transcripts: true
-source-git-commit: 449f3502c249765cdac718df173ca080e66426bc
+source-git-commit: b3aa3217c8e3c4b95fd3d8b42215f4711dd555a1
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 96%
+source-wordcount: '109'
+ht-degree: 99%
 
 ---
 
