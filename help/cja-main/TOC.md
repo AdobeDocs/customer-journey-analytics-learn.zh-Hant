@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: c1654261e5974c4ec07f126bf35c256c9c64e804
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '446'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -70,7 +70,7 @@ ht-degree: 98%
       + [使用散佈圖視覺效果](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [新增樹狀圖視覺效果](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [建立完全堆疊視覺效果](analysis-workspace/visualizations/create-stacked-visualizations.md)
-      + [新增預測至您的視覺效果](analysis-workspace/visualizations/forecasting.md)
+      + [新增預測至您的視覺效果中](analysis-workspace/visualizations/forecasting.md)
    + 附註 {#annotations}
       + [建立附註](analysis-workspace/annotations/create-an-annotation.md)
    + 組織與共用 {#curate-and-share}。
@@ -122,6 +122,6 @@ ht-degree: 98%
    + 複雜的資料 {#complex-data}
       + [使用物件陣列](use-cases/complex-data/object-arrays-in-cja.md)
 + 藍圖 {#blueprints}
-   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html){target=_blank}
-   + [數位行為資料合併情境](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html){target=_blank}
-   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html){target=_blank}
+   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=zh-Hant){target=_blank}
+   + [數位行為資料合併情境](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=zh-Hant){target=_blank}
+   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=zh-Hant){target=_blank}
