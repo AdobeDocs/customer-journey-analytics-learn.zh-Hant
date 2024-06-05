@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 80d3b48fa942b143668851ac2707db6ff140055e
-workflow-type: ht
-source-wordcount: '449'
-ht-degree: 100%
+source-git-commit: 6fbbe2c319803fb380d884f9fd367fbdf0089a50
+workflow-type: tm+mt
+source-wordcount: '452'
+ht-degree: 99%
 
 ---
 
@@ -33,6 +33,7 @@ ht-degree: 100%
    + [了解 CJA 如何使用身分識別](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [設定遺漏的人員 ID](visitor-id/configure-missing-person-id.md)
    + [彙整概述](visitor-id/overview-of-stitching.md)
+   + [圖表式銜接概觀](visitor-id/graph-based-stitching-overview.md)
 + 資料檢視 {#data-views}
    + [為 CJA 設定資料檢視的總覽](data-views/overview-of-configuring-data-views-for-cja.md)
    + [資料檢視的基本設定](data-views/basic-configuration-for-data-views.md)
