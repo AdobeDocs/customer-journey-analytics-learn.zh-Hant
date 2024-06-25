@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ddf807b7f0408990bac8420d35d2243b5a4a15bc
+source-git-commit: e3943a9ac0d9797f18882fadaa43ffbbc01727ab
 workflow-type: tm+mt
-source-wordcount: '466'
-ht-degree: 97%
+source-wordcount: '470'
+ht-degree: 96%
 
 ---
 
@@ -89,6 +89,8 @@ ht-degree: 97%
    + 影響 {#impact}
       + [發行影響分析](guided-analysis/impact/release-impact-analysis.md)
       + [首次使用影響分析](guided-analysis/impact/first-use-impact-analysis.md)
+   + 保留 {#retention}
+      + [保留率分析](guided-analysis/retention/retention-rates-analysis.md)
    + 趨勢 {#trends}
       + [頻率趨勢分析](guided-analysis/trends/frequency-trends-analysis.md)
       + [使用趨勢分析](guided-analysis/trends/usage-trends-analysis.md)
