@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e3943a9ac0d9797f18882fadaa43ffbbc01727ab
+source-git-commit: 5e5e972d7313b9ee64ffcfa411d4b7a34f1f9682
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 96%
+source-wordcount: '486'
+ht-degree: 93%
 
 ---
 
@@ -40,6 +40,8 @@ ht-degree: 96%
    + [在資料檢視中進行元件設定](data-views/configuring-component-settings-in-data-views.md)
    + [資料檢視中的元件類型設定](data-views/component-type-settings-in-data-views.md)
    + [建立衍生欄位](data-views/derived-fields-in-cja.md)
+   + [在衍生欄位中使用Math函式](data-views/use-the-math-function-in-derived-fields.md)
+   + [在衍生欄位中使用Next或Previous函式](data-views/use-the-next-previous-function-in-derived-fields.md)
    + [在資料檢視中將量度格式化](data-views/formatting-metrics-in-data-views.md)
    + [進行子字串元件設定](data-views/configure-substring-component-settings.md)
    + [在資料檢視中加入或排除量度值](data-views/include-or-exclude-metric-values-in-data-views.md)
@@ -130,6 +132,6 @@ ht-degree: 96%
    + 複雜的資料 {#complex-data}
       + [使用物件陣列](use-cases/complex-data/object-arrays-in-cja.md)
 + 藍圖 {#blueprints}
-   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=zh-Hant){target=_blank}
+   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [數位行為資料合併情境](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=zh-Hant){target=_blank}
    + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=zh-Hant){target=_blank}
