@@ -1,22 +1,23 @@
 ---
 title: 使用者資料流時間軸分析
-description: 瞭解使用者資料流如何在中檢視 [!DNL Adobe Product Analytics] 協助您尋找體驗模式、訴說更好的使用者故事，以及驗證實施。
+description: 瞭解Customer Journey Analytics中的使用者資料流檢視如何協助您尋找體驗模式、訴說更好的使用者故事，以及驗證實施。
 feature: Guided Analysis
 role: User
 level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2024-03-15T00:00:00Z
 jira: KT-15092
-source-git-commit: 7304fe6e7961a788c01386366c7e2fa738703f86
+exl-id: 1eda14aa-6e1e-4a98-b0aa-f6dfc78d14c6
+source-git-commit: d8605d31c7f547c3e55aa2b7dfa8905db973219a
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '62'
 ht-degree: 11%
 
 ---
 
 # 使用者資料流時間軸分析
 
-瞭解如何 **使用者資料流檢視** 在 [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md) 協助您尋找體驗模式、訴說更好的使用者故事，以及驗證實施。
+瞭解Customer Journey Analytics中的&#x200B;**使用者資料流檢視**&#x200B;如何協助您尋找體驗模式、訴說更好的使用者故事，以及驗證實作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
 

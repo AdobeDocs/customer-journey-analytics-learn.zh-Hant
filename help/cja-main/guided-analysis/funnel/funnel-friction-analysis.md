@@ -1,6 +1,6 @@
 ---
 title: 漏斗摩擦力分析
-description: 瞭解如何在Adobe Product Analytics中使用漏斗摩擦檢視，其提供產品中關鍵使用者旅程的視覺呈現，並幫助您確定其中存在摩擦的位置。
+description: 瞭解如何在Customer Journey Analytics中使用漏斗摩擦檢視，其提供產品中關鍵使用者旅程的視覺呈現，並幫助您確定其中存在摩擦的位置。
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -9,7 +9,7 @@ last-substantial-update: 2024-07-12T00:00:00Z
 jira: KT-13673
 thumbnail: 3421663.jpeg
 exl-id: 52211513-1cda-4173-aebd-4af752c87604
-source-git-commit: ada35ca9c8ef98d685d28f8e02d6cb7297b0d6f0
+source-git-commit: 1da4a8eabe968138d600337a7b570c8fb72001c7
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 5%
@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # 漏斗摩擦力分析
 
-瞭解如何使用[Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md)中的&#x200B;**漏斗摩擦檢視**，其可提供產品中重要使用者歷程的視覺化呈現，並幫助您判斷其中摩擦的位置。
+瞭解如何在Customer Journey Analytics中使用&#x200B;**漏斗摩擦檢視**，其可提供產品中關鍵使用者歷程的視覺化呈現，並幫助您判斷其中摩擦的位置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
 

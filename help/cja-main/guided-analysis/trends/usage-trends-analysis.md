@@ -1,6 +1,6 @@
 ---
 title: 使用趨勢分析
-description: 瞭解如何使用Adobe Product Analytics中的使用情況檢視，該檢視可提供一段時間內您的產品或使用者參與度績效的寶貴見解。
+description: 瞭解如何在Customer Journey Analytics中使用使用情況檢視，該檢視提供關於您產品或使用者參與度在一段時間內績效的寶貴見解。
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -8,17 +8,17 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13676
 thumbnail: 3421666.jpeg
-source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
+exl-id: e4cd80da-fefa-4036-8212-923efeb65cdd
+source-git-commit: d8605d31c7f547c3e55aa2b7dfa8905db973219a
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 9%
+source-wordcount: '66'
+ht-degree: 21%
 
 ---
 
-
 # 使用趨勢分析
 
-瞭解如何使用 **使用情況檢視** 在 [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md)，可針對產品或使用者參與度在一段時間內的效能，提供有價值的深入分析。
+瞭解如何在Customer Journey Analytics中使用&#x200B;**使用情況檢視**，該檢視可提供一段時間中您產品或使用者參與度績效的寶貴見解。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421666/?learn=on)
 

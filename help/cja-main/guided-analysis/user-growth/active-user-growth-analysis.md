@@ -1,6 +1,6 @@
 ---
-title: 活躍使用者成長分析
-description: 瞭解Adobe Product Analytics中的「作用中」檢視如何針對特定期間內的使用者成長提供深入分析，依新使用者、重複使用者、回訪使用者及休眠使用者進行分割。
+title: 作用中使用者成長分析
+description: 瞭解Customer Journey Analytics中的「作用中」檢視如何針對特定期間內的使用者成長提供深入分析，依新使用者、重複使用者、回訪使用者及休眠使用者進行分割。
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -8,17 +8,17 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13677
 thumbnail: 3421667.jpeg
-source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
+exl-id: a550bffe-de6c-4780-8617-c68226257258
+source-git-commit: d8605d31c7f547c3e55aa2b7dfa8905db973219a
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 8%
+source-wordcount: '72'
+ht-degree: 20%
 
 ---
 
+# 作用中使用者成長分析
 
-# 活躍使用者成長分析
-
-瞭解如何 **作用中檢視** 在 [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md) 提供特定期間使用者成長的深入分析，依新使用者、重複使用者、回訪使用者及休眠使用者進行分割。
+瞭解Customer Journey Analytics中的&#x200B;**作用中檢視**&#x200B;如何提供特定期間使用者成長情況的深入分析（依新使用者、重複使用者、回訪使用者及休眠使用者分割）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
 
