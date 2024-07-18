@@ -1,5 +1,5 @@
 ---
-title: 建立智慧型字幕
+title: 建立智慧型註解
 description: 瞭解如何在視覺效果中啟用智慧型字幕，以便自動為您建立有關資料的自然語言深入分析。
 feature: Visualizations
 role: User
@@ -8,15 +8,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-02T00:00:00Z
 jira: KT-13383
 thumbnail: 3420131.jpeg
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 0ac3b231-97d3-4937-b15b-0e30b4f9de2a
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 9%
+source-wordcount: '62'
+ht-degree: 20%
 
 ---
 
-
-# 建立智慧型字幕
+# 建立智慧型註解
 
 瞭解如何在視覺效果中啟用智慧型字幕，以便自動為您建立有關資料的自然語言深入分析。
 

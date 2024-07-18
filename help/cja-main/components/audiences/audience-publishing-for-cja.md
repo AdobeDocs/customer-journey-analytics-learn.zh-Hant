@@ -8,13 +8,13 @@ level: Beginner
 kt: 11024
 thumbnail: 346759.jpeg
 last-substantial-update: 2022-08-29T00:00:00Z
-source-git-commit: 263c50d8cda5c0b836bb50ec5eb5acbc99d8e989
-workflow-type: ht
-source-wordcount: '81'
+exl-id: ea0f2a82-0975-4cb8-9bb1-07a62141489b
+source-git-commit: 8e802e60d2c035b4e3b2a5fc3a0d641e20027e28
+workflow-type: tm+mt
+source-wordcount: '72'
 ht-degree: 100%
 
 ---
-
 
 # 適用於 Customer Journey Analytics 的對象發佈
 

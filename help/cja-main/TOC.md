@@ -123,7 +123,7 @@ ht-degree: 93%
    + Report Builder {#report-builder}
       + [適用於 Customer Journey Analytics 的 Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [使用 Report Builder 排程 Customer Journey Analytics 活頁簿](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
-+ Experience Platform整合 {#experience-platform-integration}
++ Experience Platform整合{#experience-platform-integration}
    + [Adobe Journey Optimizer的增強報告功能](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + 使用案例 {#use-cases}
    + 資料檢視使用案例 {#data-views-use-cases}

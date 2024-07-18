@@ -1,6 +1,6 @@
 ---
-title: 使用 [!UICONTROL 摘要] 中的視覺效果 [!DNL Analysis Workspace] 專案
-description: 瞭解如何使用 [!UICONTROL 摘要] 中的視覺效果 [!DNL Analysis Workspace] 中的專案 [!DNL Customer Journey Analytics].
+title: 在 [!DNL Analysis Workspace] 個專案中使用[!UICONTROL 摘要]視覺效果
+description: 瞭解如何在 [!DNL Customer Journey Analytics]的 [!DNL Analysis Workspace] 專案中使用[!UICONTROL 摘要]視覺效果。
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13425
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 05d3f6c3-55a0-4135-a85d-87ff2695b734
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# 使用 [!UICONTROL 摘要] 中的視覺效果 [!DNL Analysis Workspace] 中的專案 [!DNL Customer Journey Analytics]
+# 在[!DNL Customer Journey Analytics]的[!DNL Analysis Workspace]個專案中使用[!UICONTROL 摘要]視覺效果
 
-瞭解如何使用 [!UICONTROL 摘要] 中的視覺效果 [!DNL Analysis Workspace] 中的專案 [!DNL Customer Journey Analytics]. 如果您想要強調專案中重要的大量，這些視覺效果最適合使用。
+瞭解如何在[!DNL Customer Journey Analytics]的[!DNL Analysis Workspace]專案中使用[!UICONTROL 摘要]視覺效果。 當您想要強調專案中重要的大筆數字時，這些視覺效果最適合使用。
 
 >[!NOTE]
 >
->此 [!DNL Analysis Workspace] 使用者介面和功能在中類似 [!DNL Adobe Analytics] 和 [!DNL Customer Journey Analytics].
+>[!DNL Analysis Workspace]使用者介面和功能在[!DNL Adobe Analytics]和[!DNL Customer Journey Analytics]上類似。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
-如需有關的詳細資訊 [!UICONTROL 摘要] 視覺效果，請造訪 [檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html).
+如需[!UICONTROL 摘要]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html)。

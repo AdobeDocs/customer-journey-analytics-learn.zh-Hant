@@ -1,6 +1,6 @@
 ---
-title: 擷取和使用Adobe Analytics分類資料
-description: 瞭解如何內嵌和使用 [!DNL Adobe Analytics] 中的分類資料 [!DNL Customer Journey Analytics].
+title: 擷取和使用 Adobe Analytics 分類資料
+description: 瞭解如何在 [!DNL Customer Journey Analytics]中擷取及使用 [!DNL Adobe Analytics] 分類資料。
 feature: Adobe Analytics Integration
 topic: Integrations
 doc-type: technical video
@@ -10,19 +10,20 @@ kt: 13484
 role: Admin, User
 level: Beginner
 last-substantial-update: 2023-06-19T00:00:00Z
-source-git-commit: 1150ec26cf52df892c432959ebe5a8bf730a8b34
+exl-id: 70ebc514-5a2e-4947-ad2c-b90c35665b42
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 13%
+source-wordcount: '95'
+ht-degree: 9%
 
 ---
 
-# 擷取和使用 [!DNL Adobe Analytics] 中的分類資料 [!DNL Analysis Workspace] 在 [!DNL Customer Journey Analytics]
+# 在[!DNL Customer Journey Analytics]的[!DNL Analysis Workspace]中擷取及使用[!DNL Adobe Analytics]分類資料
 
-瞭解如何內嵌和使用 [!DNL Analytics] 中的分類資料 [!DNL Customer Journey Analytics]. 一旦分類資料可在 [!DNL Experience Platform]，更新 [!UICONTROL 連線] 和 [!UICONTROL 資料檢視] 以包含新分類欄位，以便用於 [!DNL Analysis Workspace]. 
+瞭解如何在[!DNL Customer Journey Analytics]中擷取及使用[!DNL Analytics]分類資料。 在[!DNL Experience Platform]中可以使用分類資料後，更新[!UICONTROL 連線]和[!UICONTROL 資料檢視]以包含要在[!DNL Analysis Workspace]中使用的新分類欄位。 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420556/?quality=12&learn=on)
 
-如需更多有關「 」的資訊， [!DNL Adobe Analytics] 的來源聯結器 [!UICONTROL 分類] 資料，請造訪 [檔案](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html).
+如需[!UICONTROL 分類]資料之[!DNL Adobe Analytics]來源聯結器的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html)。
 
-此影片中會參照Customer Journey Analytics中的衍生欄位功能。 若要進一步瞭解此功能，請觀看 [視訊](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html) 或造訪 [檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html).
+本影片參考了Customer Journey Analytics中的衍生欄位功能。 若要進一步瞭解此功能，請觀看[影片](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html)或造訪[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html)。
