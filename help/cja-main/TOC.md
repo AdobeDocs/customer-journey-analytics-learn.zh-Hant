@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5e5e972d7313b9ee64ffcfa411d4b7a34f1f9682
+source-git-commit: 9ba828982bf1862607a3ae958e8cd0399d420d5b
 workflow-type: tm+mt
 source-wordcount: '486'
-ht-degree: 93%
+ht-degree: 92%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 93%
    + [資料檢視的基本設定](data-views/basic-configuration-for-data-views.md)
    + [在資料檢視中進行元件設定](data-views/configuring-component-settings-in-data-views.md)
    + [資料檢視中的元件類型設定](data-views/component-type-settings-in-data-views.md)
+   + [建立摘要層級的資料來源](data-views/create-summary-level-data-sources.md)
    + [建立衍生欄位](data-views/derived-fields-in-cja.md)
    + [在衍生欄位中使用Math函式](data-views/use-the-math-function-in-derived-fields.md)
    + [在衍生欄位中使用Next或Previous函式](data-views/use-the-next-previous-function-in-derived-fields.md)
@@ -67,7 +68,6 @@ ht-degree: 93%
       + [新增項目符號圖表視覺效果](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [新增環形圖視覺效果](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [新增折線圖視覺效果](analysis-workspace/visualizations/add-line-visualizations.md)
-      + [使用地圖視覺效果](analysis-workspace/visualizations/use-map-visualization.md)
       + [使用摘要視覺效果](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [新增文字視覺效果](analysis-workspace/visualizations/add-text-visualizations.md)
       + [使用散佈圖視覺效果](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
@@ -111,8 +111,8 @@ ht-degree: 93%
    + 計算量度 {#calc-metrics}
       + [Customer Journey Analytics 中的計算量度簡介](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
       + [將計算量度從 Adobe Analytics 移至 Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
-   + 對象 {#audiences}
-      + [對象發佈](components/audiences/audience-publishing-for-cja.md)
+   + 客群 {#audiences}
+      + [客群發佈](components/audiences/audience-publishing-for-cja.md)
    + 資料字典 {#data-dictionary}
       + [使用資料字典](components/data-dictionary/use-data-dictionary.md)
 + 儀表板 (計分卡) {#dashboards}
