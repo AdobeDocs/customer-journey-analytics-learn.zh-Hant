@@ -9,9 +9,9 @@ last-substantial-update: 2023-07-14T00:00:00Z
 jira: KT-13650
 thumbnail: 3421621.jpeg
 exl-id: 725787ed-9dae-427a-bd69-c8f0ccadf2ed
-source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
+source-git-commit: a12aab44755d21c78afb03beba39feddeecfdabc
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '140'
 ht-degree: 100%
 
 ---
@@ -31,6 +31,4 @@ Adobe Product Analytics 使產品團隊能夠透過以相同的 Customer Journey
 * 在整個產品生命歷程中，找到可以投入和培養的有意義使用者區隔
 * 連結 Analysis Workspace 以進行更深入的分析，以及與分析師協作
 
-Adobe Product Analytics 是 Customer Journey Analytics 的付費附加元件。如果您的組織想要佈建使用此功能，請聯絡您的 Adobe 帳戶團隊。
-
-如需其他資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/overview.html)。
+如需其他資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/guided-analysis/overview)。
