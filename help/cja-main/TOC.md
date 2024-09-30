@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 9ba828982bf1862607a3ae958e8cd0399d420d5b
+source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '455'
 ht-degree: 92%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 92%
    + [連線至 Experience Platform 資料來源](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [檢視、疑難排解和修改連線設定](connections/connections-details-experience-in-cja.md)
    + [將新資料加入到連線](connections/add-past-data-to-an-existing-connection-in-cja.md)
-   + [尋找和設定檔資料的 CJA 尋找](connections/cja-lookup-data.md)
+   + [尋找和輪廓資料的 CJA 尋找](connections/cja-lookup-data.md)
 + 訪客身分識別 {#visitor-id}
    + [了解 CJA 如何使用身分識別](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [設定遺漏的人員 ID](visitor-id/configure-missing-person-id.md)
@@ -83,24 +83,17 @@ ht-degree: 92%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics 概觀](adobe-product-analytics/adobe-product-analytics-overview.md)
 + 引導式分析 {#guided-analysis}
-   + 功能矩陣 {#feature-matrix}
-      + [功能參與分析](guided-analysis/feature-matrix/feature-engagement.md)
-   + 漏斗 {#funnel}
-      + [漏斗摩擦分析](guided-analysis/funnel/funnel-friction-analysis.md)
-      + [漏斗轉換趨勢分析](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
-   + 影響 {#impact}
-      + [發行影響分析](guided-analysis/impact/release-impact-analysis.md)
-      + [首次使用影響分析](guided-analysis/impact/first-use-impact-analysis.md)
-   + 保留 {#retention}
-      + [保留率分析](guided-analysis/retention/retention-rates-analysis.md)
-   + 趨勢 {#trends}
-      + [頻率趨勢分析](guided-analysis/trends/frequency-trends-analysis.md)
-      + [使用趨勢分析](guided-analysis/trends/usage-trends-analysis.md)
-   + 使用者串流 {#user-stream}
-      + [使用者串流時間表分析](guided-analysis/user-stream/user-stream-timeline-analysis.md)
-   + 使用者增長 {#user-growth}
-      + [作用中使用者成長分析](guided-analysis/user-growth/active-user-growth-analysis.md)
-      + [淨使用者成長分析](guided-analysis/user-growth/net-user-growth-analysis.md)
+   + [主動式成長](guided-analysis/active-growth.md)
+   + [轉換趨勢](guided-analysis/conversion-trends.md)
+   + [參與](guided-analysis/engagement.md)
+   + [首次使用影響](guided-analysis/first-use-impact.md)
+   + [頻率](guided-analysis/frequency.md)
+   + [漏斗](guided-analysis/funnel.md)
+   + [淨增長](guided-analysis/net-growth.md)
+   + [發佈影響](guided-analysis/release-impact.md)
+   + [保留](guided-analysis/retention.md)
+   + [時間表](guided-analysis/timeline.md)
+   + [趨勢](guided-analysis/trends.md)
 + 元件 {#components}
    + 篩選 (分段) {#filters}
       + [篩選概觀](components/filters/introduction-to-filters-in-cja.md)
