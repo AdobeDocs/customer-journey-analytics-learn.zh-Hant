@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 4d8c7a84ef9a70b0a071a776dc531182bad2462a
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '460'
 ht-degree: 92%
 
 ---
@@ -56,6 +56,8 @@ ht-degree: 92%
    + Analysis Workspace 專案 {#workspace-projects}
       + [Analysis Workspace 概述](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [建立新專案](analysis-workspace/workspace-projects/build-a-new-project.md)
+      + 歷程分析{#journey-analysis}
+         + [歷程畫布視覺效果](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + 面板 {#panels}
       + [設定下一個和上一個項目面板](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [使用實驗面板](analysis-workspace/panels/use-the-experimentation-panel.md)
@@ -83,16 +85,16 @@ ht-degree: 92%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics 概觀](adobe-product-analytics/adobe-product-analytics-overview.md)
 + 引導式分析 {#guided-analysis}
-   + [主動式成長](guided-analysis/active-growth.md)
+   + [積極成長](guided-analysis/active-growth.md)
    + [轉換趨勢](guided-analysis/conversion-trends.md)
    + [參與](guided-analysis/engagement.md)
    + [首次使用影響](guided-analysis/first-use-impact.md)
    + [頻率](guided-analysis/frequency.md)
    + [漏斗](guided-analysis/funnel.md)
    + [淨增長](guided-analysis/net-growth.md)
-   + [發佈影響](guided-analysis/release-impact.md)
+   + [發行影響](guided-analysis/release-impact.md)
    + [保留](guided-analysis/retention.md)
-   + [時間表](guided-analysis/timeline.md)
+   + [時間軸](guided-analysis/timeline.md)
    + [趨勢](guided-analysis/trends.md)
 + 元件 {#components}
    + 篩選 (分段) {#filters}
