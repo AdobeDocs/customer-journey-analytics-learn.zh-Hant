@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ccaa4f1291dff7727373f2508ec37adc6b8d8ad2
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 91%
+source-wordcount: '473'
+ht-degree: 84%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 91%
 # Customer Journey Analytics 教學課程 {#tutorials}
 
 + [Customer Journey Analytics 總覽](overview.md)
-+ Customer Journey Analytics 基本知識 {#cja-basics}
++ Customer Journey Analytics基本需知 {#cja-basics}
    + [什麼是 Customer Journey Analytics？](cja-basics/what-is-customer-journey-analytics.md)
    + [Customer Journey Analytics 簡介](cja-basics/understanding-customer-journey-analytics.md)
    + [全新詞彙和概念](cja-basics/new-terms-and-concepts-in-cja.md)
@@ -53,11 +53,11 @@ ht-degree: 91%
    + [資料檢視中的歸因設定](data-views/attribution-settings-in-data-views.md)
    + [貨幣轉換](data-views/currency-conversion.md)
 + Analysis Workspace {#analysis-workspace}
-   + Analysis Workspace 專案 {#workspace-projects}
-      + [Analysis Workspace 概述](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
+   + Workspace 專案 {#workspace-projects}
+      + [Analysis Workspace 概觀](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [建立新專案](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Analysis Workspace範本](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
-      + 歷程分析{#journey-analysis}
+      + 歷程分析 {#journey-analysis}
          + [歷程畫布視覺效果](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + 面板 {#panels}
       + [設定下一個和上一個項目面板](analysis-workspace/panels/configure-next-previous-item-panel.md)
@@ -77,12 +77,12 @@ ht-degree: 91%
       + [新增樹狀圖視覺效果](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [建立完全堆疊視覺效果](analysis-workspace/visualizations/create-stacked-visualizations.md)
       + [新增預測至您的視覺效果中](analysis-workspace/visualizations/forecasting.md)
-   + 附註 {#annotations}
+   + 註解 {#annotations}
       + [建立附註](analysis-workspace/annotations/create-an-annotation.md)
-   + 組織與共用 {#curate-and-share}。
+   + 組織與共用 {#curate-and-share}
       + [在 Analysis Workspace 中與任何人共用](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + 提示與秘訣 {#tips-and-tricks}
-      + [建立動態下拉篩選器](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+      + [建立動態下拉式區段](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics 概觀](adobe-product-analytics/adobe-product-analytics-overview.md)
 + 引導式分析 {#guided-analysis}
@@ -99,11 +99,11 @@ ht-degree: 91%
    + [時間軸](guided-analysis/timeline.md)
    + [趨勢](guided-analysis/trends.md)
 + 元件 {#components}
-   + 篩選 (分段) {#filters}
-      + [篩選概觀](components/filters/introduction-to-filters-in-cja.md)
-      + [建立快速篩選](components/filters/create-a-quick-filter.md)
-      + [建立跨頻道篩選](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
-      + [將篩選條件作為維度使用](components/filters/use-filters-as-dimensions.md)
+   + 區段 {#filters}
+      + [區段概述](components/filters/introduction-to-filters-in-cja.md)
+      + [建立快速區段](components/filters/create-a-quick-filter.md)
+      + [建立跨管道區段](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+      + [使用區段作為維度](components/filters/use-filters-as-dimensions.md)
       + [將 Adobe Analytics 區段移至 Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + 計算量度 {#calc-metrics}
       + [Customer Journey Analytics 中的計算量度簡介](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
@@ -112,10 +112,10 @@ ht-degree: 91%
       + [客群發佈](components/audiences/audience-publishing-for-cja.md)
    + 資料字典 {#data-dictionary}
       + [使用資料字典](components/data-dictionary/use-data-dictionary.md)
-+ 內容分析 {#content-analytics}
++ Content Analytics {#content-analytics}
    + [簡介](content-analytics/introduction-to-content-analytics.md)
    + [運作方式](content-analytics/how-it-works.md)
-+ 儀表板 (計分卡) {#dashboards}
++ 儀表板（計分卡） {#dashboards}
    + [建立行動計分卡](dashboards/create-a-mobile-scorecard.md)
    + [協助高階主管存取行動計分卡](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + 匯出 {#exporting}
@@ -123,15 +123,15 @@ ht-degree: 91%
    + Report Builder {#report-builder}
       + [適用於 Customer Journey Analytics 的 Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
       + [使用 Report Builder 排程 Customer Journey Analytics 活頁簿](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
-+ Experience Platform整合{#experience-platform-integration}
++ Experience Platform整合 {#experience-platform-integration}
    + [Adobe Journey Optimizer的增強報告功能](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + 使用案例 {#use-cases}
    + 資料檢視使用案例 {#data-views-use-cases}
       + [第一次和傳回工作階段報告](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [使用日期欄位支援](use-cases/data-views-use-cases/leverage-date-field-support.md)
-   + 複雜的資料 {#complex-data}
+   + 複雜資料 {#complex-data}
       + [使用物件陣列](use-cases/complex-data/object-arrays-in-cja.md)
 + 藍圖 {#blueprints}
    + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [數位行為資料合併情境](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [數位行為資料合併情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
