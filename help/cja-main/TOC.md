@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
+source-git-commit: a2fd948c72f78995ab979e4256bcf461697c2897
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '478'
 ht-degree: 84%
 
 ---
@@ -62,6 +62,7 @@ ht-degree: 84%
    + 面板 {#panels}
       + [設定下一個和上一個項目面板](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [使用實驗面板](analysis-workspace/panels/use-the-experimentation-panel.md)
+      + [使用快速深入分析面板](analysis-workspace/panels/use-the-quick-insights-panel.md)
    + 視覺效果 {#visualizations}
       + [建立跨頻道視覺效果](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
       + [跨頻道歸因](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
@@ -129,7 +130,7 @@ ht-degree: 84%
    + 資料檢視使用案例 {#data-views-use-cases}
       + [第一次和傳回工作階段報告](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [使用日期欄位支援](use-cases/data-views-use-cases/leverage-date-field-support.md)
-   + 複雜資料 {#complex-data}
+   + 複雜的資料 {#complex-data}
       + [使用物件陣列](use-cases/complex-data/object-arrays-in-cja.md)
 + 藍圖 {#blueprints}
    + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
