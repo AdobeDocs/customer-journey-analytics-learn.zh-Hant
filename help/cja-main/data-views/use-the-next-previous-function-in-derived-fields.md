@@ -19,6 +19,6 @@ ht-degree: 5%
 
 探索如何在Customer Journey Analytics中使用「下一個或上一個」函式來建立可增強資料分析的複雜衍生欄位。 本教學課程將引導您完成設定新維度的程式，該維度會在使用者層級串連行銷管道值，讓您更深入地瞭解行銷策略和收入產生。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447744/?learn=on&captions=chi_hant)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-dataviews/derived-fields)。

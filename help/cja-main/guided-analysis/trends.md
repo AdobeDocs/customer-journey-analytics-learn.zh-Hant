@@ -20,6 +20,6 @@ ht-degree: 18%
 
 瞭解Customer Journey Analytics中的&#x200B;**趨勢**，此可為您提供產品效能或使用者參與度隨時間變化的寶貴分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421666/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423438/?learn=on&captions=chi_hant)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html?lang=zh-Hant)。

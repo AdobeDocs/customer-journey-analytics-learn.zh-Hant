@@ -20,6 +20,6 @@ ht-degree: 18%
 
 瞭解Customer Journey Analytics中的&#x200B;**淨成長**&#x200B;如何提供您特定期間內，使用者獲益或損失的比率的深入分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423459/?learn=on&captions=chi_hant)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=zh-Hant)。

@@ -20,6 +20,6 @@ ht-degree: 100%
 
 協助高階主管使用 [!DNL Analytics] 儀表板行動應用程式來存取在 [!DNL Customer Journey Analytics] 中建立的行動計分卡。行動計分卡可讓使用者隨時存取關鍵效能量度和詳細檢視或解析。
 
->[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444847/?quality=12&learn=on&captions=chi_hant)
 
 如需詳細資訊，請瀏覽此[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html?lang=zh-Hant)。

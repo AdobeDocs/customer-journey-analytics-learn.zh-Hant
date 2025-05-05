@@ -20,6 +20,6 @@ ht-degree: 9%
 
 瞭解&#x200B;**在Customer Journey Analytics中第一次使用影響時**&#x200B;是如何比較使用者第一次使用產品功能之前和之後所執行的關鍵指標。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423494/?learn=on&captions=chi_hant)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html?lang=zh-Hant)。

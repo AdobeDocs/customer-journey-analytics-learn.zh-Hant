@@ -24,7 +24,7 @@ ht-degree: 2%
 
 Content Analytics使用AI和Experience Platform基礎結構，以展現讓內容有效運作的原因。 團隊可以更妥善地最佳化參與、促進轉換，以及做出更聰明、以資料為根據的決策。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457321/?learn=on&enablevpops&captions=chi_hant)
 
 
 ## 運作方式
@@ -40,7 +40,7 @@ Content Analytics使用AI和Experience Platform基礎結構，以展現讓內容
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="設定Real-Time CDP Collaboration的許可權" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics — 運作方式"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457438/?format=jpeg&nocache=1742338375674&captions=chi_hant" alt="Content Analytics — 運作方式"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

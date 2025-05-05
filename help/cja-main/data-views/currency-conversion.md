@@ -20,4 +20,4 @@ ht-degree: 1%
 
 透過資料檢視中的設定在Customer Journey Analytics中執行貨幣轉換。 使用此功能可建立多個量度，以不同貨幣顯示。 如需詳細檔案，請造訪[格式元件設定](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/format.html?lang=zh-Hant#currency)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424816/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447536/?learn=on&captions=chi_hant)

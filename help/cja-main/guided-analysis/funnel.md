@@ -20,10 +20,10 @@ ht-degree: 8%
 
 瞭解Customer Journey Analytics中的&#x200B;**漏斗**&#x200B;如何提供產品中關鍵使用者歷程的視覺化呈現，並協助您判斷其中存在摩擦的地方。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431278/?learn=on&captions=chi_hant)
 
 您也可以在單一漏斗步驟中比較多個事件，建立「分叉漏斗」。 此「分叉漏斗」可讓您並排比較兩個歷程的摩擦，當有步驟選項或在漏斗內執行A/B實驗時，此功能會很有用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445810/?learn=on&captions=chi_hant)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/guided-analysis/funnel/friction)。

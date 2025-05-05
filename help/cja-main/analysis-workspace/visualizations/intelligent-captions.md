@@ -20,6 +20,6 @@ ht-degree: 20%
 
 瞭解如何在視覺效果中啟用智慧型字幕，以便自動為您建立有關資料的自然語言深入分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443149/?learn=on&captions=chi_hant)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=zh-Hant)。
