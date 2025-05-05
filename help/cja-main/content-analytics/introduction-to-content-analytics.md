@@ -18,7 +18,7 @@ ht-degree: 2%
 
 衡量內容效能相當困難，通常會導致猜測和效率低下。 Content Analytics透過深入分析讓內容生效的原因（無論是色調、影像、色彩或傳訊），消除了猜測。 它可回答關鍵問題，例如哪些因素可推動參與度，以及如何將內容最佳化。
 
-如需詳細資訊，請參閱Content Analytics [檔案](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}。
+如需詳細資訊，請參閱Content Analytics [檔案](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}。
 
 ## 簡介
 

@@ -22,4 +22,4 @@ Customer Journey Analytics支援摘要層級資料，可讓使用者彙總和分
 
 ## 其他資源
 
-* 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/summary-data)。
+* 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-dataviews/summary-data)。

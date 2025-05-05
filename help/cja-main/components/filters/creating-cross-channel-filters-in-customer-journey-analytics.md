@@ -20,7 +20,7 @@ ht-degree: 7%
 
 # 在Customer Journey Analytics中建立跨管道[!UICONTROL 區段]
 
-瞭解如何在Adobe Customer Journey Analytics中建立使用超過單一資料來源和管道的[!UICONTROL 區段]。 此外，瞭解如何在[!UICONTROL 視覺效果]中合併[!UICONTROL 區段]。 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview)。
+瞭解如何在Adobe Customer Journey Analytics中建立使用超過單一資料來源和管道的[!UICONTROL 區段]。 此外，瞭解如何在[!UICONTROL 視覺效果]中合併[!UICONTROL 區段]。 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/cja-segments/filters-overview)。
 
 >[!NOTE]
 >

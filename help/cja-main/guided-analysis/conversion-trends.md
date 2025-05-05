@@ -22,4 +22,4 @@ ht-degree: 25%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html?lang=zh-Hant)。
