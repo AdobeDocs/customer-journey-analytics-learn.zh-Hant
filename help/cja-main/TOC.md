@@ -2,17 +2,17 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a2fd948c72f78995ab979e4256bcf461697c2897
+source-git-commit: badc0b76feaa157a48b37350f9594bf85055cd5d
 workflow-type: tm+mt
-source-wordcount: '478'
-ht-degree: 84%
+source-wordcount: '528'
+ht-degree: 76%
 
 ---
 
 
 # Customer Journey Analytics 教學課程 {#tutorials}
 
-+ [Customer Journey Analytics 總覽](overview.md)
++ [Customer Journey Analytics 概觀](overview.md)
 + Customer Journey Analytics基本需知 {#cja-basics}
    + [什麼是 Customer Journey Analytics？](cja-basics/what-is-customer-journey-analytics.md)
    + [Customer Journey Analytics 簡介](cja-basics/understanding-customer-journey-analytics.md)
@@ -32,10 +32,10 @@ ht-degree: 84%
 + 訪客身分識別 {#visitor-id}
    + [了解 CJA 如何使用身分識別](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [設定遺漏的人員 ID](visitor-id/configure-missing-person-id.md)
-   + [彙整概述](visitor-id/overview-of-stitching.md)
+   + [彙整概觀](visitor-id/overview-of-stitching.md)
    + [圖表式匯整概觀](visitor-id/graph-based-stitching-overview.md)
 + 資料檢視 {#data-views}
-   + [為 CJA 設定資料檢視的總覽](data-views/overview-of-configuring-data-views-for-cja.md)
+   + [為 CJA 設定資料檢視的概觀](data-views/overview-of-configuring-data-views-for-cja.md)
    + [資料檢視的基本設定](data-views/basic-configuration-for-data-views.md)
    + [在資料檢視中進行元件設定](data-views/configuring-component-settings-in-data-views.md)
    + [資料檢視中的元件類型設定](data-views/component-type-settings-in-data-views.md)
@@ -101,7 +101,7 @@ ht-degree: 84%
    + [趨勢](guided-analysis/trends.md)
 + 元件 {#components}
    + 區段 {#filters}
-      + [區段概述](components/filters/introduction-to-filters-in-cja.md)
+      + [區段概觀](components/filters/introduction-to-filters-in-cja.md)
       + [建立快速區段](components/filters/create-a-quick-filter.md)
       + [建立跨管道區段](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [使用區段作為維度](components/filters/use-filters-as-dimensions.md)
@@ -133,6 +133,32 @@ ht-degree: 84%
    + 複雜的資料 {#complex-data}
       + [使用物件陣列](use-cases/complex-data/object-arrays-in-cja.md)
 + 藍圖 {#blueprints}
-   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/zh-hant/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [數位行為資料合併情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
++ Adobe Summit {#summit}
+   + 2025 {#2025}
+      + 短片 {#shorts}
+         + [影片短片](./summit/2025/shorts/algorithmic-attribution--a-game-changer-for-marketers.md)
+         + [影片短片](./summit/2025/shorts/analytics-easy-mode--simplifying-workspace-for-all-users.md)
+         + [影片短片](./summit/2025/shorts/anomaly-detection-in-customer-journey-analytics.md)
+         + [影片短片](./summit/2025/shorts/audience-agent--proactive-audience-health-monitoring.md)
+         + [影片短片](./summit/2025/shorts/best-practices-for-implementing-customer-journey-analytics.md)
+         + [影片短片](./summit/2025/shorts/breaking-data-limits-with-summary-data-sources.md)
+         + [影片短片](./summit/2025/shorts/content-analytics--ai-powered-insights-for-creative-assets.md)
+         + [影片短片](./summit/2025/shorts/data-as-a-product--planning-your-cja-implementation.md)
+         + [影片短片](./summit/2025/shorts/data-insights-agent--empowering-self-service-analytics.md)
+         + [影片短片](./summit/2025/shorts/derived-fields--user-state-change-metrics.md)
+         + [影片短片](./summit/2025/shorts/gamifying-workspace--unlock-achievements-in-customer-journey-analytics.md)
+         + [影片短片](./summit/2025/shorts/graph-based-stitching-for-customer-journey-analytics.md)
+         + [影片短片](./summit/2025/shorts/how-ai-assistant-transforms-data-insights-in-adobe-experience-platform.md)
+         + [影片短片](./summit/2025/shorts/how-genai-enhances-customer-journey-analytics.md)
+         + [影片短片](./summit/2025/shorts/identity-stitching-in-customer-journey-analytics.md)
+         + [影片短片](./summit/2025/shorts/implementation-best-practices-for-customer-journey-analytics.md)
+         + [影片短片](./summit/2025/shorts/in-line-derived-fields--real-time-data-transformation-in-cja.md)
+         + [影片短片](./summit/2025/shorts/introducing-adobe-s-agent-orchestrator--the-next-era-of-genai-innovation.md)
+         + [影片短片](./summit/2025/shorts/journey-canvas--visualizing-complex-funnels.md)
+         + [影片短片](./summit/2025/shorts/run-and-operate-strategies-for-scaling-adobe-implementations.md)
+         + [影片短片](./summit/2025/shorts/the-strategic-imperative-of-customer-analytics.md)
+         + [影片短片](./summit/2025/shorts/three-types-of-cja-implementation-projects.md)
+         + [影片短片](./summit/2025/shorts/understanding-customer-journey-analytics-as-your-dream-home.md)
