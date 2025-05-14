@@ -19,6 +19,6 @@ ht-degree: 0%
 
 瞭解如何使用[!DNL Content Analytics]引導式工作流程。 這可簡化行銷人員的設定程式，以便在Customer Journey Analytics中有效率地收集、處理和報告資料。
 
-如需詳細資訊，請參閱[檔案](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}。
+如需詳細資訊，請參閱[檔案](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458438/?learn=on&enablevpops)
