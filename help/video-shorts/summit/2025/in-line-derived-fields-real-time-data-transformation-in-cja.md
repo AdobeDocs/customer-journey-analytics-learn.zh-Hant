@@ -20,4 +20,4 @@ ht-degree: 0%
 瞭解內嵌衍生欄位如何讓使用者直接在Customer Journey Analytics中清理和分組資料，減少對管理員的依賴，並節省時間。
 
 <!-- 62_S102_3442449_192_inline-derived-fields-realtime-data-transformation-in-cja -->
->[!VIDEO](https://video.tv.adobe.com/v/3458362/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460297/?learn=on&enablevpops=true&captions=chi_hant)
