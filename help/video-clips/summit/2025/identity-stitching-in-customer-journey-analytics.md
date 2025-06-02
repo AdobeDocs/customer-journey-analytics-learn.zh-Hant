@@ -20,4 +20,4 @@ ht-degree: 0%
 探索CJA中的兩種身分拼接型別（欄位式和圖表式），以及它們如何啟用全通路分析。
 
 <!-- 62_S113_3442460_74_identity-stitching-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458335/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460019/?learn=on&enablevpops=true&captions=chi_hant)

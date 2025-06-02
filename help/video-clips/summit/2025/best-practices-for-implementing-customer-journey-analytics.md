@@ -20,4 +20,4 @@ ht-degree: 0%
 探索實作Customer Journey Analytics的最佳實務，包括概念證明、臨時解決方案和完整實作策略。
 
 <!-- 62_S113_3442460_211_best-practices-for-implementing-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3458311/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460078/?learn=on&enablevpops=true&captions=chi_hant)
