@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 30b9c77ed997915fe358cb1e976b5ff10ccdc516
+source-git-commit: beb59cee00d1c5667a90c177acf45370351a5385
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 82%
+source-wordcount: '504'
+ht-degree: 81%
 
 ---
 
@@ -54,6 +54,10 @@ ht-degree: 82%
    + [在資料檢視中設定「沒有值」選項](data-views/configure-no-value-options-in-data-views.md)
    + [資料檢視中的歸因設定](data-views/attribution-settings-in-data-views.md)
    + [貨幣轉換](data-views/currency-conversion.md)
++ Data Insights 代理 {#data-insights-agent}
+   + [簡介](data-insights-agent/introduction-to-the-data-insights-agent.md)
+   + [使用案例](data-insights-agent/data-insights-agent-use-cases.md)
+   + [使用Data Insights Agent](data-insights-agent/use-the-data-insights-agent.md)
 + Analysis Workspace {#analysis-workspace}
    + Workspace 專案 {#workspace-projects}
       + [Analysis Workspace 概觀](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
@@ -138,6 +142,6 @@ ht-degree: 82%
    + 複雜的資料 {#complex-data}
       + [使用物件陣列](use-cases/complex-data/object-arrays-in-cja.md)
 + 藍圖 {#blueprints}
-   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/zh-hant/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [數位行為資料合併情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
