@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: beb59cee00d1c5667a90c177acf45370351a5385
+source-git-commit: 27d553634dad11f8c0a9554ed8079d7d87169f32
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '508'
 ht-degree: 81%
 
 ---
@@ -67,6 +67,7 @@ ht-degree: 81%
          + [歷程畫布視覺效果](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + 面板 {#panels}
       + [將元件新增至自由面板](analysis-workspace/panels/add-components-to-the-freeform-panel.md)
+      + [建立歸因面板](analysis-workspace/panels/build-the-attribution-panel.md)
       + [設定下一個和上一個項目面板](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [使用實驗面板](analysis-workspace/panels/use-the-experimentation-panel.md)
       + [使用快速深入分析面板](analysis-workspace/panels/use-the-quick-insights-panel.md)
@@ -87,7 +88,7 @@ ht-degree: 81%
       + [新增預測至您的視覺效果中](analysis-workspace/visualizations/forecasting.md)
    + 註解 {#annotations}
       + [建立附註](analysis-workspace/annotations/create-an-annotation.md)
-   + 組織與共用 {#curate-and-share}
+   + 鑑選和共用 {#curate-and-share}
       + [在 Analysis Workspace 中與任何人共用](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + 提示與秘訣 {#tips-and-tricks}
       + [建立動態下拉式區段](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
@@ -142,6 +143,6 @@ ht-degree: 81%
    + 複雜的資料 {#complex-data}
       + [使用物件陣列](use-cases/complex-data/object-arrays-in-cja.md)
 + 藍圖 {#blueprints}
-   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/zh-hant/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [數位行為資料合併情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
