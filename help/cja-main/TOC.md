@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 27d553634dad11f8c0a9554ed8079d7d87169f32
+source-git-commit: d4d041a42a28b93bd74bb3d4a79929cd06513dea
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '511'
 ht-degree: 81%
 
 ---
@@ -114,6 +114,8 @@ ht-degree: 81%
       + [建立跨管道區段](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [使用區段作為維度](components/filters/use-filters-as-dimensions.md)
       + [將 Adobe Analytics 區段移至 Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+   + 維度 {#dimensions}
++[事件深度](components/dimensions/event-depth-in-cja.md)
    + 計算量度 {#calc-metrics}
       + [Customer Journey Analytics 中的計算量度簡介](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
       + [將計算量度從 Adobe Analytics 移至 Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
@@ -143,6 +145,6 @@ ht-degree: 81%
    + 複雜的資料 {#complex-data}
       + [使用物件陣列](use-cases/complex-data/object-arrays-in-cja.md)
 + 藍圖 {#blueprints}
-   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/zh-hant/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [數位行為資料合併情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
