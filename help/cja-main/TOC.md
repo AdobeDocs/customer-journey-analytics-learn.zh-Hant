@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 4170c3a3e09b497fd03e50a5141d0e8e0865e4bb
+source-git-commit: 0136260473c8941b3f774b35b57e44eff331ad60
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 79%
+source-wordcount: '545'
+ht-degree: 78%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 79%
    + [Customer Journey Analytics 簡介](cja-basics/understanding-customer-journey-analytics.md)
    + [全新詞彙和概念](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics 登陸頁面](cja-basics/customer-journey-analytics-landing-page.md)
+   + [使用AI助理](cja-basics/use-ai-assistant.md)
 + 架構 {#architecture}
    + [架構與整合](architecture/architecture-and-integrations-of-cja.md)
 + 資料準備與規劃 {#data-prep}
@@ -58,7 +59,6 @@ ht-degree: 79%
       + [自訂事件深度](data-views/derived-fields/customize-event-depth-in-derived-fields.md)
       + [使用型別轉換](data-views/derived-fields/use-typecasting-in-derived-fields.md)
       + [使用日期數學來計算事件之間的時間](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
-
 + Data Insights 代理 {#data-insights-agent}
    + [簡介](data-insights-agent/introduction-to-the-data-insights-agent.md)
    + [使用案例](data-insights-agent/data-insights-agent-use-cases.md)
@@ -157,6 +157,6 @@ ht-degree: 79%
    + 複雜的資料 {#complex-data}
       + [使用物件陣列](use-cases/complex-data/object-arrays-in-cja.md)
 + 藍圖 {#blueprints}
-   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/zh-hant/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [數位行為資料合併情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
