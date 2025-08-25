@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 0136260473c8941b3f774b35b57e44eff331ad60
+source-git-commit: bdce32ca64fd14aeb760113b8df6ca96988069ce
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '549'
 ht-degree: 78%
 
 ---
@@ -123,6 +123,7 @@ ht-degree: 78%
       + [建立快速區段](components/filters/create-a-quick-filter.md)
       + [建立跨管道區段](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [使用區段作為維度](components/filters/use-filters-as-dimensions.md)
+      + [從區段建立對象](components/filters/create-audiences-from-segments.md)
       + [將 Adobe Analytics 區段移至 Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + 維度 {#dimensions}
       + [事件深度](components/dimensions/event-depth-in-cja.md)
@@ -157,6 +158,6 @@ ht-degree: 78%
    + 複雜的資料 {#complex-data}
       + [使用物件陣列](use-cases/complex-data/object-arrays-in-cja.md)
 + 藍圖 {#blueprints}
-   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/zh-hant/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [數位行為資料合併情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
