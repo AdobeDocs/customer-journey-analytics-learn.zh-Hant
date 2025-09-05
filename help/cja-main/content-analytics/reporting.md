@@ -21,4 +21,4 @@ ht-degree: 0%
 
 如需詳細資訊，請參閱Content Analytics [檔案](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/content-analytics/report/report){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3473037/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3473048/?learn=on&enablevpops&captions=chi_hant)
