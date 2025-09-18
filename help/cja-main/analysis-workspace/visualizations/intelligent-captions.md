@@ -1,6 +1,6 @@
 ---
 title: 建立智慧型註解
-description: 了解如何在視覺化效果中啟用智慧型註解，以自動取得有關資料的自然語言深入解析。
+description: 了解如何在視覺化圖表中啟用智慧型註解，以便自動建立有關您的資料的自然語言洞察。
 feature: Visualizations
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 98%
 
 # 建立智慧型註解
 
-了解如何在視覺化效果中啟用智慧型註解，以自動取得有關資料的自然語言深入解析。
+了解如何在視覺化圖表中啟用智慧型註解，以便自動建立有關您的資料的自然語言洞察。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443149/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=zh-Hant)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en)。
