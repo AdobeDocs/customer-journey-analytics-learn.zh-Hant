@@ -18,6 +18,6 @@ ht-degree: 31%
 
 # 設定並使用地圖視覺效果
 
-利用地圖視覺化功能，生動呈現您的位置資料！識別地理叢集，並使用選取工具建立即時區段。 只要幾個簡單的設定步驟，您就可以開始了！ 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}。
+利用地圖視覺化功能，生動呈現您的位置資料！識別地理叢集，並使用選取工具建立即時區段。 只要幾個簡單的設定步驟，您就可以開始了！ 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470819/?learn=on&enablevpops)

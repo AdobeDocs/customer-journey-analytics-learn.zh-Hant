@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
 
-如需詳細資訊，請瀏覽此[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html)。
+如需詳細資訊，請瀏覽此[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html?lang=zh-Hant)。

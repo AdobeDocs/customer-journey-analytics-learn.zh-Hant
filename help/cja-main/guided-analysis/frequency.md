@@ -22,4 +22,4 @@ ht-degree: 20%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/trends/frequency)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/guided-analysis/trends/frequency)。
