@@ -20,6 +20,6 @@ ht-degree: 25%
 
 瞭解Customer Journey Analytics中的&#x200B;**轉換趨勢**&#x200B;如何追蹤funnel轉換率在一段時間內的變化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423485/?learn=on&captions=chi_hant)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html?lang=zh-Hant)。

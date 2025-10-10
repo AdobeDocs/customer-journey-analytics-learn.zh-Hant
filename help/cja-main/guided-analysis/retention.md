@@ -22,6 +22,6 @@ ht-degree: 37%
 
 瞭解如何使用開始和傳回事件來有效測量使用者參與度和保留率。 本教學課程也涵蓋如何調整不同業務模式的保留設定，無論您執行的是旅遊網站、電子商務平台或生產力工具。 取得使用保留資料以最佳化產品市場適用性並推動持續使用者參與的實用秘訣。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430503/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435789/?learn=on&captions=chi_hant)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/guided-analysis/retention/retention-rates)。

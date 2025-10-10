@@ -20,4 +20,4 @@ ht-degree: 23%
 
 在Analysis Workspace中使用&#x200B;**引導式分析**，透過引導式工作流程自助提供高品質的資料深入分析。 此功能可讓您輕鬆存取、建立、儲存和重複使用分析，並簡化使用者保留追蹤和funnel分析等工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449320/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449508/?learn=on&captions=chi_hant)

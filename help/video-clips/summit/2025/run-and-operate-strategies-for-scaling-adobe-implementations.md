@@ -20,4 +20,4 @@ ht-degree: 0%
 探索Adobe用於執行和操作大型實作的內部策略，包括使用案例優先順序、監控和ROI測量。
 
 <!-- 62_S655_3442541_95_run-and-operate-strategies-for-scaling-adobe-implementations -->
->[!VIDEO](https://video.tv.adobe.com/v/3458338/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3461091/?learn=on&enablevpops=true&captions=chi_hant)

@@ -20,4 +20,4 @@ ht-degree: 52%
 
 瞭解如何在Customer Journey Analytics中將預測數字新增到您的時間序列視覺效果。 如需詳細檔案，請造訪[預測總覽](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/forecasting/forecasting#){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428021/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443844/?learn=on&captions=chi_hant)

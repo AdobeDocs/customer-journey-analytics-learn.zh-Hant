@@ -22,4 +22,4 @@ ht-degree: 10%
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470325/?learn=on&captions=chi_hant)

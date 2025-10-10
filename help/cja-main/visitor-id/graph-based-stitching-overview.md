@@ -20,7 +20,7 @@ ht-degree: 4%
 
 圖表式拚接利用身分圖表的強大功能，在Experience Platform應用程式間對齊身分。 此功能允許在Customer Journey Analytics中使用通用人員識別碼來聯結更多資料集。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448727/?learn=on&captions=chi_hant)
 
 透過使用身分圖表進行圖表式拼接，可更妥善地檢視客戶歷程：
 

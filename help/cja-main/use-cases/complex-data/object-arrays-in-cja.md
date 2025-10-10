@@ -20,6 +20,6 @@ ht-degree: 89%
 
 了解如何利用 CJA 中的輪廓和尋找資料集的物件陣列來豐富您的 B2B 和 B2C 分析 (從連接到資料檢視和 Workspace)
 
->[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445277/?learn=on&captions=chi_hant)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html?lang=zh-Hant)。

@@ -20,6 +20,6 @@ ht-degree: 20%
 
 瞭解Workspace中的「與任何人共用」功能。 您可以使用此功能，將Workspace專案的唯讀存取權授與無法存取Adobe Analytics或Customer Journey Analytics的使用者，包括組織外的收件者。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452476/?learn=on&captions=chi_hant)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=zh-Hant#share-public-link)。

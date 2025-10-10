@@ -22,4 +22,4 @@ ht-degree: 25%
 
 如需詳細資訊，請參閱[檔案](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471273/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471284/?learn=on&captions=chi_hant)

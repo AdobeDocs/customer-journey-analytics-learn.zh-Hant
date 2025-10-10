@@ -20,6 +20,6 @@ ht-degree: 18%
 
 瞭解歷程畫布視覺效果，其可讓您分析和深入瞭解您提供給使用者和客戶的歷程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440602/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440637/?learn=on&captions=chi_hant)
 
 使用者可建立具有多個開始、路徑或結束的歷程。 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/journey-canvas){target="_blank"}。
