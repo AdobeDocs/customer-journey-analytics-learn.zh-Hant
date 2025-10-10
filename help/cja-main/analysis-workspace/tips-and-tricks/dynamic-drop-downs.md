@@ -18,10 +18,10 @@ ht-degree: 8%
 
 # 在Analysis Workspace中建立動態下拉式區段
 
-瞭解如何根據整個維度建立下拉式區段。 Dimension專案會根據報告面板中使用的日期範圍動態更新。 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/cja-segments/create-filters)。
+瞭解如何根據整個維度建立下拉式區段。 Dimension專案會根據報告面板中使用的日期範圍動態更新。 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters)。
 
 >[!NOTE]
 >
 > 已在Customer Journey Analytics介面中將「[!UICONTROL 篩選器]」重新命名為「[!UICONTROL 區段]」。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446827/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)

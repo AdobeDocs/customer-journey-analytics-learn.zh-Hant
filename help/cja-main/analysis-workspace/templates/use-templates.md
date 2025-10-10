@@ -8,7 +8,8 @@ doc-type: feature video
 thumbnail: 3470517.jpg
 kt: 18118
 last-substantial-update: 2025-08-06T00:00:00Z
-source-git-commit: f4bc73965db5cebde137b2ecda51a3cf1866fb32
+exl-id: f64e5cd9-dbc6-4b94-9e05-ccd1c727132b
+source-git-commit: 912282bbe1ba100fc7325aec6517272b60bd6a30
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 16%
@@ -21,4 +22,4 @@ ht-degree: 16%
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/templates/use-templates)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470540/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3470517/?learn=on)

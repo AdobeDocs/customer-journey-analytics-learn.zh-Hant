@@ -1,24 +1,25 @@
 ---
 title: 建立摘要層級的資料來源
-description: Customer Journey Analytics支援摘要層級資料，可讓使用者彙總和分析不是由個別ID組織的資料，例如行銷活動或產品資料。
+description: Customer Journey Analytics支援摘要層級資料，可讓使用者彙總及分析非由個別ID整理的資料，例如促銷活動或產品資料。
 feature: Data Views
 doc-type: feature video
 thumbnail: 3433305.jpg
 kt: 16134
 role: Admin
 level: Intermediate
-source-git-commit: 9ba828982bf1862607a3ae958e8cd0399d420d5b
+exl-id: 709f1649-9a8b-46c7-b2e9-3b89d828d8f8
+source-git-commit: 0ca77a998d57b7302b982a0a7bfe8d45c1068aff
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
-# 在Customer Journey Analytics中建立摘要層級資料來源
+# 在Customer Journey Analytics中建立摘要層級的資料來源
 
-Customer Journey Analytics支援摘要層級資料，可讓使用者彙總和分析不是由個別ID組織的資料，例如行銷活動或產品資料。 其中涵蓋將此摘要資料整合至Experience Platform的程式，包括建立連線、設定資料檢視，以及將摘要資料與事件資料結合，以製作全面的報告。 此功能可讓您更深入地瞭解行銷活動績效，並增強CJA內的報告靈活性。
+Customer Journey Analytics支援摘要層級資料，可讓使用者彙總及分析非由個別ID整理的資料，例如促銷活動或產品資料。 其中涵蓋將此摘要資料整合至Experience Platform的程式，包括建立連線、設定資料檢視，以及將摘要資料與事件資料結合，以製作全面的報告。 此功能可讓您更深入地瞭解行銷活動績效，並增強CJA中的報表靈活性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449420/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3433305/?quality=12&learn=on)
 
 ## 其他資源
 

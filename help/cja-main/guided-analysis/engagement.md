@@ -1,6 +1,6 @@
 ---
 title: 參與
-description: 瞭解Customer Journey Analytics中的參與度如何提供產品功能使用頻率與使用人數的相關深入分析。
+description: 瞭解Customer Journey Analytics中的參與度如何提供產品功能使用頻率與使用者人數的相關深入分析。
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -20,6 +20,6 @@ ht-degree: 15%
 
 瞭解Customer Journey Analytics中的&#x200B;**參與**&#x200B;如何提供產品功能使用頻率與使用者人數的相關深入分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447478?captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement)。

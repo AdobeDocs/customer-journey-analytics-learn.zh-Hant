@@ -1,6 +1,6 @@
 ---
-title: 在 [!DNL Analysis Workspace] 個專案中建立[!UICONTROL 完全棧疊的橫條圖]視覺效果
-description: 瞭解如何在 [!DNL Customer Journey Analytics]的 [!DNL Analysis Workspace] 專案中使用百分比來設定[!UICONTROL 完整棧疊長條圖]視覺效果，而非原始值。
+title: 在[!UICONTROL 個專案中建立]完全棧疊的橫條圖 [!DNL Analysis Workspace] 視覺效果
+description: 瞭解如何在[!UICONTROL 的]專案中使用百分比來設定 [!DNL Analysis Workspace] 完整棧疊長條圖 [!DNL Customer Journey Analytics]視覺效果，而非原始值。
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# 在[!DNL Customer Journey Analytics]的[!DNL Analysis Workspace]個專案中建立[!UICONTROL 完全棧疊的橫條圖]視覺效果
+# 在[!UICONTROL 的]個專案中建立[!DNL Analysis Workspace]完全棧疊的橫條圖[!DNL Customer Journey Analytics]視覺效果
 
-瞭解如何在[!DNL Customer Journey Analytics]中的[!DNL Analysis Workspace]個專案中使用百分比來設定[!UICONTROL 完整棧疊長條圖]視覺效果(100%)，而非原始值。
+瞭解如何在[!UICONTROL 中的]個專案中使用百分比來設定[!DNL Analysis Workspace]完整棧疊長條圖[!DNL Customer Journey Analytics]視覺效果(100%)，而非原始值。
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
-如需[!UICONTROL 完整棧疊變數]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=zh-Hant)。
+如需[!UICONTROL 完整棧疊變數]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html)。

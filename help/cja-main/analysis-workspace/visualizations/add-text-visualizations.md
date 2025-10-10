@@ -1,6 +1,6 @@
 ---
 title: 將[!UICONTROL 文字]視覺效果新增至 [!DNL Analysis Workspace] 個專案
-description: 瞭解如何在 [!DNL Customer Journey Analytics]的 [!DNL Analysis Workspace] 專案中新增及設定[!UICONTROL 文字]視覺效果。
+description: 瞭解如何在[!UICONTROL 的]專案中新增及設定 [!DNL Analysis Workspace] 文字 [!DNL Customer Journey Analytics]視覺效果。
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# 將[!UICONTROL 文字]視覺效果新增至[!DNL Customer Journey Analytics]中的[!DNL Analysis Workspace]個專案
+# 將[!UICONTROL 文字]視覺效果新增至[!DNL Analysis Workspace]中的[!DNL Customer Journey Analytics]個專案
 
-瞭解如何在[!DNL Customer Journey Analytics]的[!DNL Analysis Workspace]專案中新增及設定[!UICONTROL 文字]視覺效果。 如果您想要傳達關於量度的疑慮，或想要將內容新增至專案中的其他資料，此視覺效果相當實用。
+瞭解如何在[!UICONTROL 的]專案中新增及設定[!DNL Analysis Workspace]文字[!DNL Customer Journey Analytics]視覺效果。 如果您想要傳達關於量度的疑慮，或想要將內容新增至專案中的其他資料，此視覺效果相當實用。
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
 
-如需[!UICONTROL 文字]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=zh-Hant)。
+如需[!UICONTROL 文字]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html)。

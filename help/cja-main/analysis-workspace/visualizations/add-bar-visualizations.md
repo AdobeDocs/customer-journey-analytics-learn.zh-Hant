@@ -1,6 +1,6 @@
 ---
 title: 將[!UICONTROL 列]視覺效果新增至 [!DNL Analysis Workspace] 專案
-description: 瞭解如何新增及設定標準[!UICONTROL 長條圖]和[!UICONTROL 棧疊長條圖]視覺效果至 [!DNL Customer Journey Analytics]中的 [!DNL Analysis Workspace] 專案。
+description: 瞭解如何新增及設定標準[!UICONTROL 長條圖]和[!UICONTROL 棧疊長條圖]視覺效果至 [!DNL Analysis Workspace] 中的 [!DNL Customer Journey Analytics]專案。
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# 將[!UICONTROL 列]視覺效果新增至[!DNL Customer Journey Analytics]中的[!DNL Analysis Workspace]個專案
+# 將[!UICONTROL 列]視覺效果新增至[!DNL Analysis Workspace]中的[!DNL Customer Journey Analytics]個專案
 
-瞭解如何在[!DNL Customer Journey Analytics]的[!DNL Analysis Workspace]專案中新增及設定標準[!UICONTROL 長條圖]和[!UICONTROL 棧疊長條圖]視覺效果。 這些會使用[!UICONTROL 長條]格式來代表各量度的值。
+瞭解如何在[!UICONTROL 的]專案中新增及設定標準[!UICONTROL 長條圖]和[!DNL Analysis Workspace]棧疊長條圖[!DNL Customer Journey Analytics]視覺效果。 這些會使用[!UICONTROL 長條]格式來代表各量度的值。
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
 
-如需[!UICONTROL 列]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=zh-Hant)。
+如需[!UICONTROL 列]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html)。

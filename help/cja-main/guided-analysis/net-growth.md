@@ -1,6 +1,6 @@
 ---
 title: 淨增長
-description: 瞭解Customer Journey Analytics的淨成長如何提供您對於特定期間內，使用者得失的比率的深入分析。
+description: 瞭解Customer Journey Analytics中的淨增長如何提供您特定期間贏或輸使用者速率的深入分析。
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 18%
 
 # 淨增長
 
-瞭解Customer Journey Analytics中的&#x200B;**淨成長**&#x200B;如何提供您特定期間內，使用者獲益或損失的比率的深入分析。
+瞭解Customer Journey Analytics中的&#x200B;**淨成長**&#x200B;如何提供您特定期間內，使用者得失速率的深入分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423459/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=zh-Hant)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html)。

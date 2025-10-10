@@ -1,6 +1,6 @@
 ---
-title: 發佈影響
-description: 瞭解版本在Customer Journey Analytics中的影響如何顯示指定日期之前和之後所執行關鍵指標的比較。
+title: 發行影響
+description: 瞭解Customer Journey Analytics中的版本影響如何顯示指定日期之前和之後所執行關鍵指標的比較。
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -16,10 +16,10 @@ ht-degree: 19%
 
 ---
 
-# 發佈影響
+# 發行影響
 
-瞭解Customer Journey Analytics中的&#x200B;**發行影響**&#x200B;如何顯示指定日期之前和之後關鍵指標執行的比較。
+瞭解Customer Journey Analytics中的&#x200B;**版本影響**&#x200B;如何顯示指定日期之前和之後關鍵指標執行的比較。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423447/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=zh-Hant)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html)。

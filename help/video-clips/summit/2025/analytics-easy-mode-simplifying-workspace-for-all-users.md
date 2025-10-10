@@ -20,4 +20,4 @@ ht-degree: 0%
 探索Analytics輕鬆模式如何顯示Analysis Workspace中的隱藏功能，讓使用者更輕鬆地存取強大工具並簡化其工作流程。
 
 <!-- 62_S102_3442449_82_analytics-easy-mode-simplifying-workspace-for-all-users -->
->[!VIDEO](https://video.tv.adobe.com/v/3459726/?learn=on&enablevpops=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3458343/?learn=on&enablevpops=true)

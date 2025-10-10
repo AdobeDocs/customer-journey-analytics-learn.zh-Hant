@@ -1,6 +1,6 @@
 ---
 title: 將區域視覺效果新增至 [!DNL Analysis Workspace] 個專案
-description: 瞭解如何在 [!DNL Customer Journey Analytics]的 [!DNL Analysis Workspace] 專案中新增區域圖和棧疊區域圖視覺效果。
+description: 瞭解如何在 [!DNL Analysis Workspace] 的 [!DNL Customer Journey Analytics]專案中新增區域圖和棧疊區域圖視覺效果。
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# 將[!UICONTROL 區域視覺效果]新增至[!DNL Customer Journey Analytics]中的[!DNL Analysis Workspace]個專案
+# 將[!UICONTROL 區域視覺效果]新增至[!DNL Analysis Workspace]中的[!DNL Customer Journey Analytics]個專案
 
-瞭解如何將[!UICONTROL 區域圖]和[!UICONTROL 棧疊區域圖]視覺效果新增至[!DNL Customer Journey Analytics]中的[!DNL Analysis Workspace]個專案。 如果有多個量度，且您想要根據兩個或多個量度的交集將區域視覺化，理想的做法就是使用這些視覺化。
+瞭解如何將[!UICONTROL 區域圖]和[!UICONTROL 棧疊區域圖]視覺效果新增至[!DNL Analysis Workspace]中的[!DNL Customer Journey Analytics]個專案。 如果有多個量度，且您想要根據兩個或多個量度的交集將區域視覺化，理想的做法就是使用這些視覺化。
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
-如需[!UICONTROL 區域]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html?lang=zh-Hant)。
+如需[!UICONTROL 區域]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html)。

@@ -8,17 +8,18 @@ doc-type: Feature Video
 duration: 113
 last-substantial-update: 2025-05-13T00:00:00Z
 jira: KT-18090
-source-git-commit: 892162d27f81c7b09b0cf018df2254ef80bb9b0e
+exl-id: dcc42239-42e8-4d35-ab43-79f221e2f2e8
+source-git-commit: c126e9553705747e63866e0b5c0408e20c06094b
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 30%
 
 ---
 
 # [!DNL Content Analytics] — 編輯設定
 
-調整名稱、資料檢視和體驗擷取設定，有效編輯[!DNL Content Analytics]設定。 此動作會透過Content Analytics Tags擴充功能自動更新量度並執行微調，以獲得最佳化的深入分析。
+調整名稱、資料檢視和體驗擷取設定，有效編輯[!DNL Content Analytics]設定。 此動作能自動更新量度，並透過 Content Analytics 標記擴充功能執行微調，讓見解達到最佳化。
 
-如需詳細資訊，請參閱[檔案](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}。
+如需詳細資訊，請參閱[檔案](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/guided){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458439/?learn=on&enablevpops)

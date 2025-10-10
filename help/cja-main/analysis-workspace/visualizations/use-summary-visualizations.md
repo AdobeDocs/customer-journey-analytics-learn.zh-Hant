@@ -1,6 +1,6 @@
 ---
-title: 在 [!DNL Analysis Workspace] 個專案中使用[!UICONTROL 摘要]視覺效果
-description: 瞭解如何在 [!DNL Customer Journey Analytics]的 [!DNL Analysis Workspace] 專案中使用[!UICONTROL 摘要]視覺效果。
+title: 在[!UICONTROL 個專案中使用]摘要 [!DNL Analysis Workspace] 視覺效果
+description: 瞭解如何在[!UICONTROL 的]專案中使用 [!DNL Analysis Workspace] 摘要 [!DNL Customer Journey Analytics]視覺效果。
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# 在[!DNL Customer Journey Analytics]的[!DNL Analysis Workspace]個專案中使用[!UICONTROL 摘要]視覺效果
+# 在[!UICONTROL 的]個專案中使用[!DNL Analysis Workspace]摘要[!DNL Customer Journey Analytics]視覺效果
 
-瞭解如何在[!DNL Customer Journey Analytics]的[!DNL Analysis Workspace]專案中使用[!UICONTROL 摘要]視覺效果。 當您想要強調專案中重要的大筆數字時，這些視覺效果最適合使用。
+瞭解如何在[!UICONTROL 的]專案中使用[!DNL Analysis Workspace]摘要[!DNL Customer Journey Analytics]視覺效果。 當您想要強調專案中重要的大筆數字時，這些視覺效果最適合使用。
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
-如需[!UICONTROL 摘要]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html?lang=zh-Hant)。
+如需[!UICONTROL 摘要]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html)。

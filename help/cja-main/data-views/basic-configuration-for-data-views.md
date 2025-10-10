@@ -10,8 +10,8 @@ level: Beginner
 exl-id: 132e8131-1574-4728-9108-8e5cdff3145e
 source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 ## 其他資源
 
-* [Customer Journey Analytics - 資料檢視文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=zh-Hant)
+* [Customer Journey Analytics - 資料檢視文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html)

@@ -1,6 +1,6 @@
 ---
-title: 為 Customer Journey Analytics 設定資料檢視的總覽
-description: 在 Customer Journey Analytics 中，資料檢視類似於 Adobe Analytics 中的虛擬報表套裝；資料檢視可讓您設定進入 CJA 的資料，以便這些資料可以在報告和分析中發揮最大的用處。 這段影片提供為 Customer Journey Analytics 設定資料檢視的總覽。
+title: 為 Customer Journey Analytics 設定資料檢視的概觀
+description: 在 Customer Journey Analytics 中，資料檢視類似於 Adobe Analytics 中的虛擬報表套裝；資料檢視可讓您設定進入 CJA 的資料，以便這些資料可以在報告和分析中發揮最大的用處。 這段影片提供為 Customer Journey Analytics 設定資料檢視的概觀。
 feature: Data Views
 role: User
 level: Beginner
@@ -10,14 +10,14 @@ kt: 10016
 exl-id: 8bab86c6-39b3-49e3-ba74-a5d12bf9e05c
 source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 為 Customer Journey Analytics 設定資料檢視的總覽
+# 為 Customer Journey Analytics 設定資料檢視的概觀
 
-在 Customer Journey Analytics 中，資料檢視類似於 Adobe Analytics 中的虛擬報表套裝；資料檢視可讓您設定進入 CJA 的資料，以便這些資料可以在報告和分析中發揮最大的用處。 這段影片提供為 Customer Journey Analytics 設定資料檢視的總覽。
+在 Customer Journey Analytics 中，資料檢視類似於 Adobe Analytics 中的虛擬報表套裝；資料檢視可讓您設定進入 CJA 的資料，以便這些資料可以在報告和分析中發揮最大的用處。 這段影片提供為 Customer Journey Analytics 設定資料檢視的概觀。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35110/?quality=12&learn=on)
 

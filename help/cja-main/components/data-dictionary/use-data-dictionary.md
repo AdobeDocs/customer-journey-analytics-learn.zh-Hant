@@ -1,6 +1,6 @@
 ---
 title: 使用資料字典
-description: 瞭解Analysis Workspace中的資料字典以進行Customer Journey Analytics。 此功能可協助使用者和管理員追蹤及瞭解專案中使用的元件。 
+description: 瞭解適用於Customer Journey Analytics的Analysis Workspace中的資料字典。 此功能可協助使用者和管理員追蹤及瞭解專案中使用的元件。 
 topic: Administration
 doc-type: feature video
 thumbnail: 3418028.jpg
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # 使用資料字典
 
-瞭解Analysis Workspace中的資料字典以進行Customer Journey Analytics。 此功能可協助使用者和管理員追蹤及瞭解專案中使用的元件。 
+瞭解適用於Customer Journey Analytics的Analysis Workspace中的資料字典。 此功能可協助使用者和管理員追蹤及瞭解專案中使用的元件。 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418028/?quality=12&learn=on)
 
-如需Analysis Workspace中用於Customer Journey Analytics的資料字典的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html?lang=zh-Hant)。
+如需Customer Journey Analytics的Analysis Workspace資料字典的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html)。

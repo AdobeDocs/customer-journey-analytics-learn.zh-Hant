@@ -11,8 +11,8 @@ kt: 7588
 exl-id: 4bc0479a-7dc7-4e52-a6f7-0b5e45441f4e
 source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 100%
 
 ## 其他資源
 
-* [Customer Journey Analytics - 資料檢視文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=zh-Hant)
+* [Customer Journey Analytics - 資料檢視文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html)

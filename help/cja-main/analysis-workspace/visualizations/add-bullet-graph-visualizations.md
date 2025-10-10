@@ -1,6 +1,6 @@
 ---
 title: 將[!UICONTROL 專案符號圖表]視覺效果新增至 [!DNL Analysis Workspace] 個專案
-description: 瞭解如何使用[!UICONTROL 專案符號圖表]，以及如何將它們新增至 [!DNL Customer Journey Analytics]中的 [!DNL Analysis Workspace] 專案。
+description: 瞭解如何使用[!UICONTROL 專案符號圖表]，以及如何將它們新增至 [!DNL Analysis Workspace] 中的 [!DNL Customer Journey Analytics]專案。
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# 將[!UICONTROL 專案符號圖表]視覺效果新增至[!DNL Customer Journey Analytics]中的[!DNL Analysis Workspace]個專案
+# 將[!UICONTROL 專案符號圖表]視覺效果新增至[!DNL Analysis Workspace]中的[!DNL Customer Journey Analytics]個專案
 
-瞭解如何使用[!UICONTROL 專案符號圖表]，以及如何將它們新增至[!DNL Customer Journey Analytics]中的[!DNL Analysis Workspace]專案。 此圖表顯示興趣值與目標的比較或測量方式。
+瞭解如何使用[!UICONTROL 專案符號圖表]，以及如何將它們新增至[!DNL Analysis Workspace]中的[!DNL Customer Journey Analytics]專案。 此圖表顯示興趣值與目標的比較或測量方式。
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
-如需[!UICONTROL 專案符號圖表]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=zh-Hant)。
+如需[!UICONTROL 專案符號圖表]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html)。

@@ -1,6 +1,6 @@
 ---
 title: 趨勢
-description: 瞭解Customer Journey Analytics趨勢，這可提供一段時間內您的產品或使用者參與度績效的寶貴見解。
+description: 瞭解Customer Journey Analytics中的趨勢，該工具可針對一段時間內的產品效能或使用者參與度提供寶貴的insight。
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 18%
 
 # 趨勢
 
-瞭解Customer Journey Analytics中的&#x200B;**趨勢**，此可為您提供產品效能或使用者參與度隨時間變化的寶貴分析。
+瞭解Customer Journey Analytics中的&#x200B;**趨勢**，其可針對您產品或使用者參與在一段時間內的效能提供寶貴的insight。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423438/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3421666/?learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html?lang=zh-Hant)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html)。

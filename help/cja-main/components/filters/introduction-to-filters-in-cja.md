@@ -1,5 +1,5 @@
 ---
-title: 區段概述
+title: 區段概觀
 description: 瞭解Customer Journey Analytics中區段產生器的關鍵元件。
 feature: Segments
 doc-type: feature video
@@ -16,9 +16,9 @@ ht-degree: 20%
 
 ---
 
-# 區段概述
+# 區段概觀
 
-區段會根據屬性和事件（例如網站訪客或客服中心參與）識別訪客或客戶的子集。 瞭解Customer Journey Analytics中區段產生器的關鍵元件。 如需 Customer Journey Analytics 的相關詳細資訊，請前往[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/cja-segments/filters-overview)。
+區段會根據屬性和事件（例如網站訪客或客服中心參與）識別訪客或客戶的子集。 瞭解Customer Journey Analytics中區段產生器的關鍵元件。 如需 Customer Journey Analytics 的相關詳細資訊，請前往[文件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview)。
 
 >[!NOTE]
 >

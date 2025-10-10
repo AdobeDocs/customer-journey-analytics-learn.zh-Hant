@@ -10,8 +10,8 @@ level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
 source-git-commit: c26bc63942e9d140eefbb530c441de9eb45d5743
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -42,15 +42,15 @@ Customer Journey Analytics 可讓您控制如何在 Analysis Workspace 中連接
 <tr>
   <td>
     <a href="visitor-id/understanding-how-customer-journey-analytics-uses-identity.md">
-      <img alt="瞭解「CJA 如何使用身份」" src="assets/30750.jpg" />
+      <img alt="瞭解「CJA 如何使用身分識別」" src="assets/30750.jpg" />
     </a>
     <div>
       <a href="visitor-id/understanding-how-customer-journey-analytics-uses-identity.md">
-    <strong>了解 Customer Journey Analytics 如何使用身分</strong>
+    <strong>了解 Customer Journey Analytics 如何使用身分識別</strong>
     </a>
     </div>
     <p>
-    <em>實際了解身分如何影響您對 Customer Journey Analytics 的分析</em>
+    <em>實際了解身分識別如何影響您對 Customer Journey Analytics 的分析</em>
     <p>
   </td>
    <td>

@@ -20,4 +20,4 @@ ht-degree: 0%
 瞭解如何使用Customer Journey Analytics中的摘要資料來源來報告行銷成本、計算廣告投資報酬率，以及追蹤公司目標。
 
 <!-- 72_S103_3442450_161_breaking-data-limits-with-summary-data-sources -->
->[!VIDEO](https://video.tv.adobe.com/v/3460108/?learn=on&enablevpops=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3458347/?learn=on&enablevpops=true)

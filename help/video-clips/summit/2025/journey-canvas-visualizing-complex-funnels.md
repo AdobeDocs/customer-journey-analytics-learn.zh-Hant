@@ -20,4 +20,4 @@ ht-degree: 0%
 探索CJA中的Journey Canvas，這是一個強大的視覺化工具，用於建立多步驟漏斗和分析使用者歷程。
 
 <!-- 72_S103_3442450_134_journey-canvas-visualizing-complex-funnels -->
->[!VIDEO](https://video.tv.adobe.com/v/3460165/?learn=on&enablevpops=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3458364/?learn=on&enablevpops=true)

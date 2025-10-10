@@ -1,6 +1,6 @@
 ---
 title: 圖表式匯整概觀
-description: 圖表式拚接利用身分圖表的強大功能，在Experience Platform應用程式之間對齊身分。 此功能可讓更多資料集透過使用通用人員識別碼加入Customer Journey Analytics。
+description: 圖表式拚接利用身分圖表的強大功能，在Experience Platform應用程式間對齊身分。 此功能允許在Customer Journey Analytics中使用通用人員識別碼來聯結更多資料集。
 feature: Stitching
 role: Admin, Developer
 level: Intermediate
@@ -18,9 +18,9 @@ ht-degree: 4%
 
 # 圖表式匯整概觀
 
-圖表式拚接利用身分圖表的強大功能，在Experience Platform應用程式之間對齊身分。 此功能可讓更多資料集透過使用通用人員識別碼加入Customer Journey Analytics。
+圖表式拚接利用身分圖表的強大功能，在Experience Platform應用程式間對齊身分。 此功能允許在Customer Journey Analytics中使用通用人員識別碼來聯結更多資料集。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448727/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
 
 透過使用身分圖表進行圖表式拼接，可更妥善地檢視客戶歷程：
 

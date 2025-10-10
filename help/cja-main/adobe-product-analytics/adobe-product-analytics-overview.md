@@ -11,8 +11,8 @@ thumbnail: 3421621.jpeg
 exl-id: 725787ed-9dae-427a-bd69-c8f0ccadf2ed
 source-git-commit: 8c3ecaf1bc54aa9d0d099dd5542b65a04d8ec5a8
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Adobe Product Analytics 使產品團隊能夠透過以相同的 Customer Journey Analytics 跨頻道資料所建置的引導式分析工作流程，自助提供有關其產品體驗的資料和見解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423507/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3421621/?learn=on)
 
 使用 Adobe Product Analytics，團隊可以：
 

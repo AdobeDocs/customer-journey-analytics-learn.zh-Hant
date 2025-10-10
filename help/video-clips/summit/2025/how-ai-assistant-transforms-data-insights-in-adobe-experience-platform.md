@@ -20,4 +20,4 @@ ht-degree: 0%
 探索Adobe的AI助理如何提供立即的資料深入分析，運用自然語言查詢和可行的結果轉換工作流程。
 
 <!-- 72_S653_3442539_81_how-ai-assistant-transforms-data-insights-in-adobe-experience-platform -->
->[!VIDEO](https://video.tv.adobe.com/v/3459924/?learn=on&enablevpops=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3458305/?learn=on&enablevpops=true)

@@ -20,4 +20,4 @@ ht-degree: 0%
 瞭解如何建立使用者轉換量度（例如從銀牌移至金牌），並使用CJA中的衍生欄位將其歸因於行銷管道。
 
 <!-- 85_S103_3442450_125_derived-fields-user-state-change-metrics -->
->[!VIDEO](https://video.tv.adobe.com/v/3460044/?learn=on&enablevpops=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3458355/?learn=on&enablevpops=true)

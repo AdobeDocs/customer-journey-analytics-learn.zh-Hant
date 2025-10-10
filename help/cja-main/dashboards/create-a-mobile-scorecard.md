@@ -11,8 +11,8 @@ kt: 10445
 exl-id: 602061a9-7470-41ce-ae92-2913e6c4c188
 source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/343458/?quality=12&learn=on)
 
-如需詳細資訊，請瀏覽此[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=zh-Hant)。
+如需詳細資訊，請瀏覽此[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html)。
