@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 在 Customer Journey Analytics 中處理資料
 
-在此影片中，您能了解[!UICONTROL 資料集][!UICONTROL 結構描述]如何在 Adobe Customer Journey Analytics (CJA) 中轉換為變數，以及 CJA 如何處理極高的基數。
+在此影片中，您能了解[!UICONTROL 資料集]&#x200B;[!UICONTROL 結構描述]如何在 Adobe Customer Journey Analytics (CJA) 中轉換為變數，以及 CJA 如何處理極高的基數。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12&learn=on)
 
