@@ -20,7 +20,7 @@ ht-degree: 4%
 
 瞭解如何透過可自訂的規則產生器即時建立衍生欄位以建立複雜的資料操控，然後將邏輯回溯套用至其報表。 如此可大幅節省時間，確保資料為可用的格式，以便用於報表、分析和動作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420258/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450915/?captions=chi_hant&learn=on)
 
 此功能可協助您改善專案中因資料錯誤或空白而導致之資料的品質和準確性。
 範例使用案例包括：
