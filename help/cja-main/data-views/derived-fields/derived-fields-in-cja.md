@@ -28,4 +28,4 @@ ht-degree: 4%
 * 設定衍生的頁面名稱欄位，以更正不正確收集的頁面名稱值。
 * 設定衍生行銷管道欄位，以根據一或多個條件決定適當的行銷管道，例如URL引數、頁面URL或頁面名稱。
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html){target="_blank"}。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=zh-Hant){target="_blank"}。

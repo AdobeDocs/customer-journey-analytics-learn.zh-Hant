@@ -22,4 +22,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
 
-如需詳細資訊，請參閱 [Adobe Analytics 來源連接器文件](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html){target="_blank"}和[資料準備功能文件](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html){target="_blank"}。
+如需詳細資訊，請參閱 [Adobe Analytics 來源連接器文件](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=zh-Hant){target="_blank"}和[資料準備功能文件](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html?lang=zh-Hant){target="_blank"}。

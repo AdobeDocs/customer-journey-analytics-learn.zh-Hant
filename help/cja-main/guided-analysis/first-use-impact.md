@@ -22,4 +22,4 @@ ht-degree: 17%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html){target="_blank"}。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html?lang=zh-Hant){target="_blank"}。
