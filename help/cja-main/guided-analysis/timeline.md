@@ -19,6 +19,6 @@ ht-degree: 18%
 
 瞭解Customer Journey Analytics中的&#x200B;**時間表**，其可幫助您尋找體驗模式、訴說更好的使用者故事，以及驗證實作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435778/?captions=chi_hant&learn=on)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/guided-analysis/streams/timeline){target="_blank"}。

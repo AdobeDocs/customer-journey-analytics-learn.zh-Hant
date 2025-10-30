@@ -21,4 +21,4 @@ Customer Journey Analytics衍生欄位中的主日期數學。 Date Math會計�
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471043/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471076/?captions=chi_hant&learn=on)

@@ -22,4 +22,4 @@ ht-degree: 13%
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471042/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471065/?captions=chi_hant&learn=on)

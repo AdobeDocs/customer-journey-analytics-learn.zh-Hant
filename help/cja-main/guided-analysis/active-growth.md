@@ -20,6 +20,6 @@ ht-degree: 16%
 
 瞭解Customer Journey Analytics中的&#x200B;**作用中成長**&#x200B;如何提供特定期間使用者成長情況的深入分析（依新使用者、重複使用者、回訪使用者及休眠使用者分割）。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423392/?captions=chi_hant&learn=on)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html?lang=zh-Hant){target="_blank"}。
