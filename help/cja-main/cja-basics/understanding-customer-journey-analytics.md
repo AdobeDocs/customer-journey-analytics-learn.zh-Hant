@@ -9,10 +9,10 @@ kt: 3953
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8b9644dd-1992-499c-88f0-acd3ef182956
-source-git-commit: c9830412d18f63dc14020748ff43df7f7fcf408c
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '131'
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Adobe Customer Journey Analytics (CJA) 是以 Adobe Experience Platform 為架�
 
 >[!VIDEO](https://video.tv.adobe.com/v/30090/?quality=12&learn=on)
 
-如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hant)。
+如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hant){target="_blank"}。

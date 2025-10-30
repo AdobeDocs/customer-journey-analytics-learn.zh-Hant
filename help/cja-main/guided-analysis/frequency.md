@@ -9,7 +9,7 @@ last-substantial-update: 2023-04-23T00:00:00Z
 jira: KT-15090
 thumbnail: 3428089.jpeg
 exl-id: 06874ef1-c746-4df5-a476-22286e5f0751
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 20%
@@ -20,6 +20,6 @@ ht-degree: 20%
 
 瞭解Customer Journey Analytics中的&#x200B;**頻率**&#x200B;如何讓您分析使用者與您產品中的事件互動。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435813/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/guided-analysis/trends/frequency)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/trends/frequency){target="_blank"}。

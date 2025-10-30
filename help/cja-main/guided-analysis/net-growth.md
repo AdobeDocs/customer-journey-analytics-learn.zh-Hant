@@ -9,7 +9,7 @@ last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13674
 thumbnail: 3421664.jpeg
 exl-id: abcd109f-0bc6-47a9-9817-704fb8e9cb39
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 18%
@@ -20,6 +20,6 @@ ht-degree: 18%
 
 瞭解Customer Journey Analytics中的&#x200B;**淨成長**&#x200B;如何提供您特定期間內，使用者得失速率的深入分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423459/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=zh-Hant)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html){target="_blank"}。

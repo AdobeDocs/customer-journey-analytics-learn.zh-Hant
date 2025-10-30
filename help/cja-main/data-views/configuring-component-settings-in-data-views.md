@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 332788.jpg
 kt: 7582
 exl-id: e0c2cf9f-5c5e-45e2-a738-cc7afc0a440f
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 ## 其他資源
 
-* [Customer Journey Analytics - 資料檢視文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=zh-Hant)
+* [Customer Journey Analytics - 資料檢視文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html){target="_blank"}

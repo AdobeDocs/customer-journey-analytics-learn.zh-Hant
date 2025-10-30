@@ -8,9 +8,9 @@ duration: 650
 last-substantial-update: 2025-05-13T00:00:00Z
 jira: KT-17556
 exl-id: 2e7c0934-69da-4b85-bf3e-eec294ff1ba0
-source-git-commit: 929fc1cc499262a35ad76d3b4109c2ed175debe0
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 34%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 34%
 
 Content Analytics使用AI和Experience Platform基礎結構，以展現讓內容有效運作的原因。 團隊可以更有效地提升參與度、推動轉換，並做出更明智、更有資料依據的決策。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457321/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
 
 
 ## 運作方式
@@ -41,7 +41,7 @@ Content Analytics使用AI和Experience Platform基礎結構，以展現讓內容
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Content Analytics — 運作方式" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457438/?format=jpeg&nocache=1742338375674&captions=chi_hant" alt="Content Analytics — 運作方式"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics — 運作方式"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,7 +134,7 @@ Content Analytics使用AI和Experience Platform基礎結構，以展現讓內容
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="reporting.md" title="Content Analytics — 報表" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473048/?format=jpeg&nocache=1742338375674&captions=chi_hant" alt="Content Analytics — 報表"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics — 報表"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

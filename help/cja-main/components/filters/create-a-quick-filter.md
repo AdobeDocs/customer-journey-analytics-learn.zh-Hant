@@ -9,7 +9,7 @@ thumbnail: 343743.jpg
 kt: 10452
 last-substantial-update: 2022-06-10T00:00:00Z
 exl-id: 0982261b-92da-48b0-a0b4-9bd24a083631
-source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 14%
@@ -18,7 +18,7 @@ ht-degree: 14%
 
 # 建立快速區段
 
-直接在您的[!UICONTROL 專案中建立]快速區段[!DNL Customer Journey Analytics]，略過完整[!UICONTROL 區段產生器]的複雜性。 此功能提供了一種便利的方法，可讓您根據簡單的條件分段元件資料並立即檢視結果。 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/cja-segments/quick-filters)。
+直接在您的[!UICONTROL 專案中建立]快速區段[!DNL Customer Journey Analytics]，略過完整[!UICONTROL 區段產生器]的複雜性。 此功能提供了一種便利的方法，可讓您根據簡單的條件分段元件資料並立即檢視結果。 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/quick-filters){target="_blank"}。
 
 >[!NOTE]
 >
