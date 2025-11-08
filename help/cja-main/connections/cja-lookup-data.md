@@ -23,4 +23,4 @@ ht-degree: 27%
 
 如需詳細檔案，請造訪[資料集型別](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=zh-Hant#dataset-types){target="_blank"}和[新增帳戶層級資料作為查詢資料集](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=zh-Hant){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449882/?captions=chi_hant&learn=on)
