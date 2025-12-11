@@ -4,15 +4,15 @@ description: Customer Journey Analytics 利用擷取到 Adobe Experience Platfor
 feature: Connections
 activity: setup
 doc-type: feature video
-role: Data Engineer, Data Architect
+role: Developer
 level: Intermediate
 thumbnail: 30140.jpg
 kt: 3954
 exl-id: d25dab66-52c7-45aa-b102-e3e41fa7d017
-source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
+source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '82'
+ht-degree: 100%
 
 ---
 

@@ -2,14 +2,14 @@
 title: 使用物件陣列
 description: 了解如何利用 CJA 中的輪廓和尋找資料集的物件陣列來豐富您的 B2B 和 B2C 分析 (從連接到資料檢視和 Workspace)
 feature: Use Cases
-role: Data Architect, Data Engineer
+role: Developer
 level: Experienced
 doc-type: Technical Video
 last-substantial-update: 2023-09-21T00:00:00Z
 jira: KT-14020
 thumbnail: 3424502.jpeg
 exl-id: a24a46f4-ee34-4f07-b2db-486ceff5d3b3
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 89%
@@ -20,6 +20,6 @@ ht-degree: 89%
 
 了解如何利用 CJA 中的輪廓和尋找資料集的物件陣列來豐富您的 B2B 和 B2C 分析 (從連接到資料檢視和 Workspace)
 
->[!VIDEO](https://video.tv.adobe.com/v/3445277/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html?lang=zh-Hant){target="_blank"}。

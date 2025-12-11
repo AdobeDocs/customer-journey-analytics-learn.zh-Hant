@@ -2,15 +2,15 @@
 title: 在資料檢視中繫結維度
 description: 繫結維度是 Customer Journey Analytics 中的一個現有功能，它讓您能夠取用一個維度，並將其連接到另一個維度… (說明應該介於 60 到 160 個字元之間)
 feature: Data Views
-role: Data Architect, User
+role: Developer, User
 level: Intermediate
 kt: 10375
 thumbnail: 342694.jpeg
 exl-id: 60c4884e-ebb2-4eb5-9912-d51c5ee20c5e
-source-git-commit: f9d82fd9d5297ae8a06d33023b209fc22282c3f0
+source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '113'
+ht-degree: 100%
 
 ---
 

@@ -4,14 +4,14 @@ description: 了解如何將新資料加入到 Customer Journey Analytics 連線
 feature: Connections
 activity: setup
 doc-type: technical video
-role: Admin, Data Engineer, Data Architect
+role: Admin, Developer
 level: Beginner
 team: Technical Marketing
 thumbnail: 32549.jpg
 kt: 3965
 last-substantial-update: 2023-03-17T00:00:00Z
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%

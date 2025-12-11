@@ -8,10 +8,10 @@ doc-type: technical video
 team: Technical Marketing
 thumbnail: 32112.jpg
 kt: 3964
-role: Data Engineer, Data Architect
+role: Developer
 level: Intermediate
 exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%

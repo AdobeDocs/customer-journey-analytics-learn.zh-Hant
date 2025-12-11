@@ -5,19 +5,19 @@ topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: c26bc63942e9d140eefbb530c441de9eb45d5743
+source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '221'
+ht-degree: 100%
 
 ---
 
 # Customer Journey Analytics 教學課程
 
-歡迎使用 [!DNL Customer Journey Analytics] 教學課程網站。  使用這些教學課程和[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hant)，能讓您更妥善地了解如何使用 Adobe Analytics，以更快的速度獲得多管道客戶分析。若要開始執行，
+歡迎使用 [!DNL Customer Journey Analytics] 教學課程網站。  使用這些教學課程和[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hant)，能讓您更妥善地了解如何使用 Adobe Analytics，以更快的速度獲得多管道客戶洞察。若要開始執行，
 
 * 查看下面&#x200B;**「新增功能」**&#x200B;部分，了解許多最新有用小工具。
 * **工作人員選擇**&#x200B;特別顯示我們最喜歡的一些內容
