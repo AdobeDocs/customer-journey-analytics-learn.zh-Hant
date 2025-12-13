@@ -22,6 +22,6 @@ ht-degree: 100%
 
 這段影片不是要技術性深入探討，而是要實際了解[!UICONTROL 身分識別]如何影響您在 Adobe Customer Journey Analytics 中的分析，包括了解透過拼接[!UICONTROL 訪客] ID 實現的跨管道[!UICONTROL 視覺效果]。
 
->[!VIDEO](https://video.tv.adobe.com/v/30750/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3477623/?captions=chi_hant&learn=on&quality=12)
 
 如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hant){target="_blank"}。
