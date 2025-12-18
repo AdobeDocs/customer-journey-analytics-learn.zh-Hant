@@ -20,4 +20,4 @@ ht-degree: 0%
 
 此影片會逐步引導您啟用任何事件資料集的彙整功能。 此外，在資料集上啟用彙整功能後，有助於展示不同的量度和維度，讓您用來驗證其運作成效以及帶來的價值。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478120/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478131/?captions=chi_hant&learn=on&enablevpops)
