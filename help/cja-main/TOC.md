@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: afff13a5436d054e664fc8f41d08a2ebbfa6e532
+source-git-commit: 8d706b04feb7b869569a41d7c0a682b81c67e199
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '577'
 ht-degree: 75%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 75%
    + [了解 CJA 如何使用身分識別](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [設定遺漏的人員 ID](visitor-id/configure-missing-person-id.md)
    + [彙整概觀](visitor-id/overview-of-stitching.md)
-   + [圖表式匯整概觀](visitor-id/graph-based-stitching-overview.md)
+   + [拼接啟用和驗證](visitor-id/stitching-enablement-and-validation.md)
 + 資料檢視 {#data-views}
    + [為 CJA 設定資料檢視的概觀](data-views/overview-of-configuring-data-views-for-cja.md)
    + [資料檢視的基本設定](data-views/basic-configuration-for-data-views.md)
@@ -163,6 +163,6 @@ ht-degree: 75%
    + 複雜的資料 {#complex-data}
       + [使用物件陣列](use-cases/complex-data/object-arrays-in-cja.md)
 + 藍圖 {#blueprints}
-   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/zh-hant/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [數位行為資料合併情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
