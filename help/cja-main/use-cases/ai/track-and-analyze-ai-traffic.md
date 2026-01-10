@@ -22,4 +22,4 @@ ht-degree: 0%
 
 如需詳細資訊，請參閱Content Analytics [檔案](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/derived-fields/ai-traffic){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478575/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478586/?captions=chi_hant&learn=on&enablevpops)
