@@ -20,4 +20,4 @@ ht-degree: 0%
 
 探索折線圖視覺效果如何隨時間強化您對量度的瞭解。 自訂X/Y軸、顯示最小/最大標籤，以及新增趨勢線以透過Customer Journey Analytics改善您的資料深入分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478979/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478990/?captions=chi_hant&learn=on&enablevpops)
