@@ -20,6 +20,6 @@ ht-degree: 11%
 
 探索Adobe Customer Journey Analytics中強大的[!DNL Data Storytelling]功能，該功能使用創作AI將您的Analysis Workspace專案轉換為專業的PowerPoint簡報，並包含精選的視覺效果、關鍵分析和引人入勝的敘述。 這個省時的工具可協助您快速與利害關係人分享客戶歷程趨勢、轉換推動因素和可操作的建議。
 
-如需詳細資訊，請審閱[文件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/curate-share/generate-slides){target="_blank"}。
+如需詳細資訊，請審閱[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/curate-share/generate-slides){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479119/?learn=on&enablevpops)
