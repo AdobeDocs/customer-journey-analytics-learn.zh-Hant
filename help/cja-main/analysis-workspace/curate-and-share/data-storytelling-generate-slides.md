@@ -22,4 +22,4 @@ ht-degree: 11%
 
 如需詳細資訊，請審閱[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/curate-share/generate-slides){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479119/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479130/?captions=chi_hant&learn=on&enablevpops)
