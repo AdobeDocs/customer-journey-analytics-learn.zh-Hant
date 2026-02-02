@@ -22,4 +22,4 @@ ht-degree: 100%
 
 如需詳細資訊，請參閱[遷移到 CJA 之前的關鍵考量事項](https://experienceleague.adobe.com/zh-hant/perspectives/cja-readiness-three-key-considerations-before-migrating-to-cja#){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479337/?captions=chi_hant&learn=on&enablevpops)
