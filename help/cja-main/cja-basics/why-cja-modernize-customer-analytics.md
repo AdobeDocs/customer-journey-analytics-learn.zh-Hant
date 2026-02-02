@@ -20,6 +20,6 @@ ht-degree: 100%
 
 探索建構在 Adobe Experience Platform 上的 Adobe Customer Journey Analytics (CJA) 如何克服傳統 Adobe Analytics 的限制。CJA 提供跨管道和個人層級的洞察、靈活的資料管理、隱私安全的處理，以及用於預測分析的嵌入式生成式 AI。
 
-如需詳細資訊，請參閱[遷移到 CJA 之前的關鍵考量事項](https://experienceleague.adobe.com/en/perspectives/cja-readiness-three-key-considerations-before-migrating-to-cja#){target="_blank"}。
+如需詳細資訊，請參閱[遷移到 CJA 之前的關鍵考量事項](https://experienceleague.adobe.com/zh-hant/perspectives/cja-readiness-three-key-considerations-before-migrating-to-cja#){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479326/?learn=on&enablevpops)
