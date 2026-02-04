@@ -8,11 +8,11 @@ thumbnail: 334308.jpg
 kt: 13402
 role: User
 level: Beginner
-last-substantial-update: 2023-06-07T00:00:00Z
+last-substantial-update: 2026-02-04T00:00:00Z
 exl-id: 3e4cf780-29ea-4a1b-92af-09e08a91a637
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+source-git-commit: 1e48f7b47c07d5fbccb5561ab666f0fcea87e192
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,6 @@ ht-degree: 0%
 
 瞭解如何在[!UICONTROL 的]專案中新增及設定標準[!UICONTROL 長條圖]和[!DNL Analysis Workspace]棧疊長條圖[!DNL Customer Journey Analytics]視覺效果。 這些會使用[!UICONTROL 長條]格式來代表各量度的值。
 
->[!NOTE]
->
->[!DNL Analysis Workspace]使用者介面和功能在[!DNL Adobe Analytics]和[!DNL Customer Journey Analytics]上類似。
+>[!VIDEO](https://video.tv.adobe.com/v/3479603/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
-
-如需[!UICONTROL 列]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=zh-Hant){target="_blank"}。
+如需[!UICONTROL 列]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html){target="_blank"}。
