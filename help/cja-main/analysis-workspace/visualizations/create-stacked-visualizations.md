@@ -20,6 +20,6 @@ ht-degree: 0%
 
 瞭解如何在Customer Journey Analytics的Analysis Workspace專案中使用百分比（而非原始值）來設定完整棧疊的視覺效果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479696/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479708/?captions=chi_hant&quality=12&learn=on)
 
 如需[!UICONTROL 完整棧疊變數]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=zh-Hant){target="_blank"}。

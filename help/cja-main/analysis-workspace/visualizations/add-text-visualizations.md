@@ -20,6 +20,6 @@ ht-degree: 0%
 
 瞭解如何在Customer Journey Analytics的Analysis Workspace專案中新增及設定文字視覺效果。 如果您想要傳達關於量度的疑慮，或想要將內容新增至專案中的其他資料，此視覺效果相當實用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479695/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479719/?captions=chi_hant&quality=12&learn=on)
 
 如需[!UICONTROL 文字]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=zh-Hant){target="_blank"}。
