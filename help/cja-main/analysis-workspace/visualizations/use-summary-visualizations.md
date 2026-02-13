@@ -20,4 +20,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479879/?quality=12&learn=on)
 
-如需[!UICONTROL 摘要]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html){target="_blank"}。
+如需[!UICONTROL 摘要]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html?lang=zh-Hant){target="_blank"}。
