@@ -18,6 +18,6 @@ ht-degree: 0%
 
 瞭解如何在[!UICONTROL 中將]環圈圖[!DNL Analysis Workspace]視覺效果新增並設定至[!DNL Customer Journey Analytics]個專案。 若要比較幾個專案在總數的百分比，此視覺效果是理想的選擇。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479878/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479890/?captions=chi_hant&quality=12&learn=on)
 
 如需[!UICONTROL 環形圖]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html?lang=zh-Hant){target="_blank"}。
