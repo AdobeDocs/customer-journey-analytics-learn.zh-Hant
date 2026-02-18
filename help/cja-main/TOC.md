@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 0985d4e9f64d79575ebde79e97eadbe89145ce38
+source-git-commit: 23acbd278efd0b6bbbac65fa02b6a703790c3aef
 workflow-type: tm+mt
-source-wordcount: '611'
-ht-degree: 97%
+source-wordcount: '609'
+ht-degree: 95%
 
 ---
 
@@ -99,7 +99,7 @@ ht-degree: 97%
       + [設定和使用地圖視覺效果](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
       + [新增摘要視覺效果](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [新增文字視覺效果](analysis-workspace/visualizations/add-text-visualizations.md)
-      + [使用散佈圖視覺效果](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
+      + [新增散佈圖視覺效果](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [新增樹狀圖視覺效果](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [建立100%棧疊視覺效果](analysis-workspace/visualizations/create-stacked-visualizations.md)
       + [新增預測至您的視覺效果中](analysis-workspace/visualizations/forecasting.md)
