@@ -18,6 +18,6 @@ ht-degree: 0%
 
 瞭解如何使用[!UICONTROL 專案符號圖表]，以及如何將它們新增至[!DNL Analysis Workspace]中的[!DNL Customer Journey Analytics]專案。 此圖表顯示興趣值與目標的比較或測量方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479957/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479969/?captions=chi_hant&quality=12&learn=on)
 
 如需[!UICONTROL 專案符號圖表]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=zh-Hant){target="_blank"}。
