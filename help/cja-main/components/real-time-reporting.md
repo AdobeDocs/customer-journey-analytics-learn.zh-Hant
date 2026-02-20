@@ -22,4 +22,4 @@ ht-degree: 10%
 
 如需詳細資訊，請審閱[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479943/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479955/?captions=chi_hant&learn=on&enablevpops)
