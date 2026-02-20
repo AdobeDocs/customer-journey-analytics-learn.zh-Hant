@@ -20,6 +20,6 @@ ht-degree: 10%
 
 探索Adobe Customer Journey Analytics中的即時報表如何直接在Analysis Workspace中提供營收、轉換和造訪等關鍵量度。 這項功能是重大促銷活動、產品上市和歷程驗證的理想選擇，能讓行銷人員在每一分鐘都有價值時，更快速地做出資料導向式決策。
 
-如需詳細資訊，請審閱[文件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}。
+如需詳細資訊，請審閱[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479943/?learn=on&enablevpops)
