@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ad38d3670dfb90852baea4ce2f0e6813f8fe70c7
+source-git-commit: 67936ea5477091530774f8f203a9424c99c36416
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 95%
+source-wordcount: '656'
+ht-degree: 92%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 + [Customer Journey Analytics 概觀](overview.md)
 + Customer Journey Analytics 基本知識 {#cja-basics}
    + [什麼是 Customer Journey Analytics？](cja-basics/what-is-customer-journey-analytics.md)
-   + [為什麼選擇 CJA？CJA 與 Adobe Analytics 相比的策略評論](cja-basics/why-cja-modernize-customer-analytics.md)
+   + [為什麼選擇 CJA？ CJA 與 Adobe Analytics 相比的策略評論](cja-basics/why-cja-modernize-customer-analytics.md)
    + [Customer Journey Analytics 簡介](cja-basics/understanding-customer-journey-analytics.md)
    + [全新詞彙和概念](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics 登陸頁面](cja-basics/customer-journey-analytics-landing-page.md)
@@ -96,7 +96,7 @@ ht-degree: 95%
       + [新增環形圖視覺效果](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [自由表格中的多個維度欄](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
       + [新增折線圖視覺效果](analysis-workspace/visualizations/line-visualization.md)
-      + [設定和使用地圖視覺效果](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
+      + [新增並設定地圖視覺效果](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
       + [新增摘要視覺效果](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [新增文字視覺效果](analysis-workspace/visualizations/add-text-visualizations.md)
       + [新增散佈圖視覺效果](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
@@ -171,6 +171,6 @@ ht-degree: 95%
    + 複雜的資料 {#complex-data}
       + [使用物件陣列](use-cases/complex-data/object-arrays-in-cja.md)
 + 藍圖 {#blueprints}
-   + [Customer Journey Analytics 藍圖](https://experienceleague.adobe.com/zh-hant/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [數位行為資料合併情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/zh-hant/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [數位行為資料合併分析藍本](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
