@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 67936ea5477091530774f8f203a9424c99c36416
+source-git-commit: ecd7a9b9945766f6d98bf8cf84e08da3c5de48e5
 workflow-type: tm+mt
-source-wordcount: '656'
-ht-degree: 92%
+source-wordcount: '661'
+ht-degree: 89%
 
 ---
 
@@ -15,14 +15,14 @@ ht-degree: 92%
 + [Customer Journey Analytics 概觀](overview.md)
 + Customer Journey Analytics 基本知識 {#cja-basics}
    + [什麼是 Customer Journey Analytics？](cja-basics/what-is-customer-journey-analytics.md)
-   + [為什麼選擇 CJA？ CJA 與 Adobe Analytics 相比的策略評論](cja-basics/why-cja-modernize-customer-analytics.md)
+   + [為什麼選擇 CJA？ CJA與Adobe Analytics的戰略審視](cja-basics/why-cja-modernize-customer-analytics.md)
    + [Customer Journey Analytics 簡介](cja-basics/understanding-customer-journey-analytics.md)
-   + [全新詞彙和概念](cja-basics/new-terms-and-concepts-in-cja.md)
+   + [Analytics至CJA：新辭彙及其對應方式](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics 登陸頁面](cja-basics/customer-journey-analytics-landing-page.md)
    + [使用 AI 助理](cja-basics/use-ai-assistant.md)
 + Customer Journey Analytics B2B Edition {#b2b}
    + [Customer Journey Analytics - B2B Edition 簡介](b2b/cja-b2b-overview.md)
-   + [CJA B2B edition - 初始問題之後](b2b/cja-b2b-beyond-the-first-questions.md)
+   + [CJA B2B edition — 除了第一個問題](b2b/cja-b2b-beyond-the-first-questions.md)
    + [將 CJA 與 Marketo 整合，進行 B2B 洞察分析](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
 + 架構 {#architecture}
    + [架構與整合](architecture/architecture-and-integrations-of-cja.md)
