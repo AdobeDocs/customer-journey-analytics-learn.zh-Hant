@@ -26,4 +26,4 @@ ht-degree: 5%
 
 如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481342/?captions=chi_hant&quality=12&learn=on)
