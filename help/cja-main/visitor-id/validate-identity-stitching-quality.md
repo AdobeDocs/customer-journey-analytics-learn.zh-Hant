@@ -21,6 +21,6 @@ ht-degree: 5%
 
 在擷取之前，評估資料集是否適合用於可靠的跨裝置和跨管道報告，大幅縮短實現價值的時間，並透過即時見解降低身分識別策略決定的風險。
 
-如需詳細資訊，請審閱[文件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/validate){target="_blank"}。
+如需詳細資訊，請審閱[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/stitching/validate){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
