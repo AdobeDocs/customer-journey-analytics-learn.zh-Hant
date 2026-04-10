@@ -25,7 +25,7 @@ ht-degree: 99%
 
 了解 Customer Journey Analytics 中的 [!DNL Data Insights Agent]。 此 AI 驅動的解決方案為行銷人員和業務利害關係人提供即時、透明的洞察分析，沒有延遲也不需要大量培訓，同時讓分析師可專注於執行策略任務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463908/?captions=chi_hant&learn=on&enablevpops)
 
 
 ## Data Insights 代理使用案例
@@ -42,7 +42,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="data-insights-agent-use-cases.md" title="Data Insights 代理使用案例" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463896/?format=jpeg&nocache=1742338375674" alt="Data Insights 代理使用案例"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463919/?captions=chi_hant&format=jpeg&nocache=1742338375674" alt="Data Insights 代理使用案例"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -77,7 +77,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="use-the-data-insights-agent.md" title="使用 Data Insights 代理" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463897/?format=jpeg&nocache=1742338375674" alt="使用 Data Insights 代理"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463930/?captions=chi_hant&format=jpeg&nocache=1742338375674" alt="使用 Data Insights 代理"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
