@@ -5,12 +5,11 @@ doc-type: Short Video
 duration: 75
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 08926e4e-abac-4eb0-a415-2fa79dbd8962
-source-git-commit: c169a205a9088da0982548d448500f15b2027c06
+source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -20,4 +19,4 @@ ht-degree: 0%
 探索CJA中的兩種身分拼接型別（欄位式和圖表式），以及它們如何啟用全通路分析。
 
 <!-- 62_S113_3442460_74_identity-stitching-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3460019/?learn=on&enablevpops=true&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3460019/?captions=chi_hant&learn=on&enablevpops=true)
