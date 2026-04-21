@@ -24,4 +24,4 @@ ht-degree: 25%
 
 如需 Customer Journey Analytics 的相關詳細資訊，請前往[文件](https://experienceleague.adobe.com/tw/en/docs/analytics-platform/using/cja-landing){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/32483/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3483719/?captions=chi_hant&learn=on&quality=12)
