@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 3324740cfa93ad26145ee16052e5bf3694720678
+source-git-commit: 7b3a767ec4acd2b1e12de3acc11247645c9c023f
 workflow-type: tm+mt
-source-wordcount: '676'
-ht-degree: 87%
+source-wordcount: '692'
+ht-degree: 85%
 
 ---
 
@@ -24,6 +24,9 @@ ht-degree: 87%
    + [Customer Journey Analytics - B2B Edition 簡介](b2b/cja-b2b-overview.md)
    + [CJA B2B edition — 除了第一個問題](b2b/cja-b2b-beyond-the-first-questions.md)
    + [將 CJA 與 Marketo 整合，進行 B2B 洞察分析](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
++ 遠端MCP伺服器 {#remote-mcp-server}
+   + [CJA的遠端MCP伺服器概述](remote-mcp-server/remote-mcp-server-for-cja-overview.md)
+   + [CJA的遠端MCP伺服器正在執行中](remote-mcp-server/remote-mcp-server-for-cja-in-action.md)
 + 架構 {#architecture}
    + [架構與整合](architecture/architecture-and-integrations-of-cja.md)
 + 資料準備與規劃 {#data-prep}
