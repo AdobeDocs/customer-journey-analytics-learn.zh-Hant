@@ -7,7 +7,7 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 6b2c7972-2e10-4ab6-b3b6-53120d8a3ca2
-source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
+source-git-commit: c6c3de3847a8017c833d52d82fa92bd83f27b1ed
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -19,4 +19,4 @@ ht-degree: 0%
 瞭解圖表式拚接如何實現多個資料集的無縫整合，進而建立統一的客戶檢視，以獲得可操作的見解。
 
 <!-- 62_S112_3442459_199_graphbased-stitching-for-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3460231/?captions=chi_hant&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458317/?learn=on&enablevpops=true)
