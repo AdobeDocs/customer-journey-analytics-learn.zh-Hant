@@ -22,4 +22,4 @@ ht-degree: 8%
 
 如需詳細資訊，請審閱 Content Analytics [文件](https://developer.adobe.com/analytics-mcp/docs/cja/){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3486313/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486325/?captions=chi_hant&learn=on&enablevpops)
