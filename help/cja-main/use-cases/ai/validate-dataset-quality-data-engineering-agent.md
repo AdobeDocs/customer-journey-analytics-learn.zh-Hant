@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何使用Data Engineering Agent中的資料驗證技能，快速設定和驗證您的Adobe Customer Journey Analytics資料集。 在Customer Journey Analytics中建立報告和歷程之前，您將瞭解如何偵測無效值、瞭解欄位層級模式，以及利用AI支援的深入分析來改善資料品質。
 
->[!VIDEO](https://video.tv.adobe.com/v/3486277/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486288/?captions=chi_hant&learn=on&enablevpops)
