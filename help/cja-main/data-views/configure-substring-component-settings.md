@@ -33,4 +33,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/343526/?quality=12&learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/substring.html){target="_blank"}。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/substring.html?lang=zh-Hant){target="_blank"}。

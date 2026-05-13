@@ -34,6 +34,6 @@ ht-degree: 36%
 
 探索[!DNL Content Analytics]如何自動化資產追蹤，並提供網站內容效能的詳細報告，包括檢視、點按和轉換。 瞭解如何運用資產和體驗ID、色彩和情感等中繼資料，以及範本產生的視覺效果深入分析，將您的內容策略最佳化。
 
-如需詳細資訊，請審閱 Content Analytics [文件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/report){target="_blank"}。
+如需詳細資訊，請審閱 Content Analytics [文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/content-analytics/report/report){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3473037/?learn=on&enablevpops)

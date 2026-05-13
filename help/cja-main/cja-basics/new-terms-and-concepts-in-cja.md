@@ -39,6 +39,6 @@ ht-degree: 53%
 
 了解如何將核心量度、報告套裝、變數等熟悉的概念，對應到 Customer Journey Analytics 的對等功能，以便將您現有的 Adobe Analytics 知識運用於 CJA。 此高階影片說明CJA與Experience Platform的關係，並說明在介面中哪裡可以找到這些對應的詞語。
 
-如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}。
+如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)

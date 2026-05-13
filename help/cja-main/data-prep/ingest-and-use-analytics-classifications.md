@@ -48,6 +48,6 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420556/?quality=12&learn=on)
 
-如需[!UICONTROL 分類]資料之 [!DNL Adobe Analytics] 來源連接器的詳細資訊，請參閱[文件](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html){target="_blank"}。
+如需[!UICONTROL 分類]資料之 [!DNL Adobe Analytics] 來源連接器的詳細資訊，請參閱[文件](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html?lang=zh-Hant){target="_blank"}。
 
-本影片提及 Customer Journey Analytics 中的衍生欄位功能。 若要進一步了解此功能，請觀看[影片](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html){target="_blank"}或參閱[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html){target="_blank"}。
+本影片提及 Customer Journey Analytics 中的衍生欄位功能。 若要進一步了解此功能，請觀看[影片](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html?lang=zh-Hant){target="_blank"}或參閱[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=zh-Hant){target="_blank"}。
