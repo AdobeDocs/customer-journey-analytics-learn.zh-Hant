@@ -7,9 +7,11 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 6f3566e1-3226-4abf-a99e-a131473ba77f
-source-git-commit: c6c3de3847a8017c833d52d82fa92bd83f27b1ed
+TQID: https://experienceleague.adobe.com/Hfo50Wo-TX9k5j-TK-nr511DWyrnZJAn8h5BOPNWUtI
+product_v2: id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+source-git-commit: 7819767ad88011dfada67e61cd0e3ce7f72b3ee5
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: 50
 ht-degree: 0%
 
 ---
@@ -19,4 +21,4 @@ ht-degree: 0%
 瞭解CJA中的演演算法歸因如何跨接觸點分配點數，進而更準確地檢視行銷績效。
 
 <!-- 85_S106_3442453_71_algorithmic-attribution-a-gamechanger-for-marketers -->
->[!VIDEO](https://video.tv.adobe.com/v/3459855/?captions=chi_hant&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458301/?learn=on&enablevpops=true)
