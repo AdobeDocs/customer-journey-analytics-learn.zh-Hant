@@ -8,8 +8,10 @@ hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 7043655f-c859-4e8b-9750-9b201892ac40
 TQID: https://experienceleague.adobe.com/83oZswGbs5bvmTWNqcsxi3R3zYzS8OSmhLchfBIJlMU
-product_v2: id: e98b7246-966c-4318-9e95-cad2f7a17dc7
-topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: 7819767ad88011dfada67e61cd0e3ce7f72b3ee5
 workflow-type: tm+mt
 source-wordcount: 56
