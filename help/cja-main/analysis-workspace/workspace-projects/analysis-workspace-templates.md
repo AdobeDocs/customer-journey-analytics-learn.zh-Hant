@@ -37,4 +37,4 @@ ht-degree: 40%
 
 不想從頭開始嗎？ 瞭解如何使用Workspace範本在Workspace中開始分析。 您可以從精選的 Adobe 範本中進行選擇，也可以建立自己的自訂組織範本。 視您的偏好設定而定，在卡片檢視或欄檢視中只瀏覽正確的範本！ 如需詳細檔案，請參閱[建立和管理範本](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/templates/create-templates?lang=tw){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443169/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443181/?captions=chi_hant&learn=on&enablevpops)

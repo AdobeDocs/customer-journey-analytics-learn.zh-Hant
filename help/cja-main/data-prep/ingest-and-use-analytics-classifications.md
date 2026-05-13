@@ -46,7 +46,7 @@ ht-degree: 100%
 
 了解如何在 [!DNL Customer Journey Analytics] 中攝取和使用 [!DNL Analytics] 分類資料。 在 [!DNL Experience Platform] 中可以使用分類資料後，更新[!UICONTROL 連線]和[!UICONTROL 資料釋圖]以便包含要在 [!DNL Analysis Workspace] 中使用的新分類欄位。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420556/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423681/?captions=chi_hant&quality=12&learn=on)
 
 如需[!UICONTROL 分類]資料之 [!DNL Adobe Analytics] 來源連接器的詳細資訊，請參閱[文件](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html?lang=zh-Hant){target="_blank"}。
 

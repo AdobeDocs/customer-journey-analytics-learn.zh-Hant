@@ -36,6 +36,6 @@ ht-degree: 0%
 
 瞭解如何在[!DNL Customer Journey Analytics]的[!DNL Analysis Workspace]專案中新增及設定標準[!UICONTROL 長條圖]和[!UICONTROL 棧疊長條圖]視覺效果。 這些會使用[!UICONTROL 長條]格式來代表各量度的值。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479603/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479614/?captions=chi_hant&quality=12&learn=on)
 
 如需[!UICONTROL 列]視覺效果的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=zh-Hant){target="_blank"}。

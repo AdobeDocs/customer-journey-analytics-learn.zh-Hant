@@ -35,4 +35,4 @@ ht-degree: 41%
 
 如需詳細資訊，請審閱 Content Analytics [文件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/derived-fields/ai-traffic){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478575/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478586/?captions=chi_hant&learn=on&enablevpops)

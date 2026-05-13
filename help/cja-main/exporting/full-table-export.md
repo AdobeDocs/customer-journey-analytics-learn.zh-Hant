@@ -32,6 +32,6 @@ ht-degree: 100%
 
 了解從 Customer Journey Analytics 傳送表格至 AEP Data Landing Zone 和 Snowflake 的基本設定。 如需詳細文件，請造訪[將 Customer Journey Analytics 報告匯出至雲端](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=zh-Hant){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450991/?captions=chi_hant&learn=on)
 
 透過「完整表格匯出」，使用者可以一次性或按照排程，安全地將包含報告所有列的合併表格傳送至其雲端目的地。  此外，可利用新的匯出元件管理員輕鬆管理所有傳送作業。

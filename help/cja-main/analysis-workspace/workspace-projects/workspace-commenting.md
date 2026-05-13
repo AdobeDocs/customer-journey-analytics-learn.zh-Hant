@@ -35,4 +35,4 @@ ht-degree: 84%
 
 了解 Adobe Customer Journey Analytics 中的工作區評論能如何讓您和您的團隊直接協作處理資料。 不需要離開您的分析即可提出問題、分享見解，並達成共識。 瀏覽[檔案](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/build-workspace-project/comment-projects){target="_blank"}以深入瞭解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469446/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469457/?captions=chi_hant&learn=on&enablevpops)

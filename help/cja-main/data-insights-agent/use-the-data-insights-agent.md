@@ -37,4 +37,4 @@ ht-degree: 100%
 
 如需詳細資訊，請審閱[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-overview/cja-b2c-overview/data-analysis-ai){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463897/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463930/?captions=chi_hant&learn=on&enablevpops)

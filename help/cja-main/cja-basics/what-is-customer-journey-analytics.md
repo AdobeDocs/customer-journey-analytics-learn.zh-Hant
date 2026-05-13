@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Customer Journey Analytics (CJA) 可讓您使用 Adobe Experience Platform 中可用的任何資料跨管道分析客戶的旅程，同時利用 Analysis Workspace 的強大功能取得快速洞察。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418680/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439459/?captions=chi_hant&quality=12&learn=on)

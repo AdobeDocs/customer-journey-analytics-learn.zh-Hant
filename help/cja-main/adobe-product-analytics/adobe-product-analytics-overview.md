@@ -33,7 +33,7 @@ ht-degree: 100%
 
 Adobe Product Analytics 使產品團隊能夠透過以相同的 Customer Journey Analytics 跨頻道資料所建置的引導式分析工作流程，自助提供有關其產品體驗的資料和洞察。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421621/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423507/?captions=chi_hant&learn=on)
 
 使用 Adobe Product Analytics，團隊可以：
 

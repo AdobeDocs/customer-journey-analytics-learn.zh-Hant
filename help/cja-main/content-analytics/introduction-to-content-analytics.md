@@ -44,7 +44,7 @@ ht-degree: 100%
 
 Content Analytics 運用 AI 及 Experience Platform 基礎結構，揭露讓內容發揮作用的因素。 團隊可以更有效地提升參與度、促進轉換，並憑藉資料做出更明智的決策。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457321/?captions=chi_hant&learn=on&enablevpops)
 
 
 ## 運作方式
@@ -61,7 +61,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Content Analytics - 如何運作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics - 如何運作"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457438/?captions=chi_hant&format=jpeg&nocache=1742338375674" alt="Content Analytics - 如何運作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +156,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="reporting.md" title="Content Analytics - 報告" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics - 報告"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473048/?captions=chi_hant&format=jpeg&nocache=1742338375674" alt="Content Analytics - 報告"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

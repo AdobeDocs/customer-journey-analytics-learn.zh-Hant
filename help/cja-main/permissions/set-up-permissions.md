@@ -40,4 +40,4 @@ ht-degree: 11%
 
 如需詳細資訊，請審閱[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/technotes/access-control){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463383/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463396/?captions=chi_hant&learn=on)

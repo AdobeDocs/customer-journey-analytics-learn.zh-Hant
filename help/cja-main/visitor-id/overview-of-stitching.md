@@ -34,4 +34,4 @@ ht-degree: 100%
 
 因為有許多人透過多個管道和裝置與您的內容進行互動，將這些未驗證的事件與已驗證的事件連接起來變得非常重要。 這樣一來，便可以採取較為整體性的方法來製作報告乃至最終啟用。 本影片將簡要概述拼接過程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426814/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452558/?captions=chi_hant&learn=on)

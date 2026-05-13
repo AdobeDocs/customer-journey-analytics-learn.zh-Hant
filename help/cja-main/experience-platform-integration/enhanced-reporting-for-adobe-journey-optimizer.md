@@ -30,4 +30,4 @@ ht-degree: 78%
 
 Adobe Journey Optimizer提供新的報告和協調測量功能。 這些針對 Journey Optimizer 的增強功能，還包括透過其他資料來源、進階自訂、資料操作、分析等方式，提高互通性和使用 Customer Journey Analytics 的附加價值。 如需參考詳細文件，請參閱[開始使用新的報告介面](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/channel-report/report-gs-cja){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443162/?captions=chi_hant&learn=on)
