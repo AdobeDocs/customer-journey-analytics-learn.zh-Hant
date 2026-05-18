@@ -34,4 +34,4 @@ ht-degree: 0%
 
 觀看這些影片，瞭解其他[支援的行銷工作流程](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}以及[快速入門](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}，包括先決條件、資料存取和許可權。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491181/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491205/?captions=chi_hant&learn=on&enablevpops)
