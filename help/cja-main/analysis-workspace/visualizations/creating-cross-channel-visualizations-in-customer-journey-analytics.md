@@ -35,6 +35,6 @@ ht-degree: 100%
 
 在這段影片中，了解 Customer Journey Analytics 如何建立包含來自多個管道的多個[!UICONTROL 資料組]的[!UICONTROL 視覺效果]，其中包括合併每位[!UICONTROL 訪客]的資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491370/?captions=chi_hant&quality=12&learn=on)
 
 如需 Customer Journey Analytics 的相關詳細資訊，請前往[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hant){target="_blank"}。
