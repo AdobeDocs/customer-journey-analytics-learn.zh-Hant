@@ -33,6 +33,6 @@ ht-degree: 100%
 
 在這段影片中，我們將展示如何使用[!UICONTROL 視覺效果]顯示 Adobe Customer Journey Analytics 中的跨管道[!UICONTROL 歸因] (歸功)。
 
->[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491386/?captions=chi_hant&quality=12&learn=on)
 
 如需 Customer Journey Analytics 的相關詳細資訊，請前往[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hant){target="_blank"}。
