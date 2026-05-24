@@ -4,6 +4,7 @@ product: customer journey analytics
 solution: Customer Journey Analytics
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+usetq: true
 feature-set: Customer Journey Analytics
 landing-page-name: customer-journey-analytics
 landing-page-breadcrumb-title: Customer Journey Analytics
@@ -18,7 +19,7 @@ git-repo: https://github.com/AdobeDocs/customer-journey-analytics-learn.zh-Hant
 index: true
 mini-toc-levels: 2
 auto-video-transcripts: true
-source-git-commit: 2f887c5f9dc76faf42c2dafd4fa51aa4c3652bcb
+source-git-commit: fc40b0eb77eda760bdf09a217300fdb78dded457
 workflow-type: tm+mt
 source-wordcount: 127
 ht-degree: 94%
