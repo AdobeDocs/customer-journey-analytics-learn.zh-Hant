@@ -2,7 +2,7 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ce8fe9b716c71d3110da633ba2557b33e2ace2a5
+source-git-commit: 888c4ac95e57f36ec36090e7db3b5d5c10238ba1
 workflow-type: tm+mt
 source-wordcount: '701'
 ht-degree: 84%
@@ -181,4 +181,3 @@ ht-degree: 84%
    + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/zh-hant/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [數位行為資料合併分析藍本](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
-
