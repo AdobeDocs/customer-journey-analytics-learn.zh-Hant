@@ -20,5 +20,5 @@ ht-degree: 75%
 
 在 Analysis Workspace 中新增視覺效果時，共有數種不同的方式可依照視覺效果類型將資料新增到其中。 此影片示範這些方法。 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491932/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491941/?captions=chi_hant&learn=on&enablevpops)
 
