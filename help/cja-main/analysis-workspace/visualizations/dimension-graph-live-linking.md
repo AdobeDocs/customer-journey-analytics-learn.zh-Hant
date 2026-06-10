@@ -26,4 +26,4 @@ ht-degree: 8%
 
 當您從維度值新增或建立視覺效果時，可以選取不同的維度值並動態變更圖表，或將視覺效果鎖定在單一維度或位置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492130/?captions=chi_hant&learn=on&enablevpops)
