@@ -1,6 +1,6 @@
 ---
 title: 什麼是 Customer Journey Analytics？
-description: Customer Journey Analytics (CJA) 可讓您使用 Adobe Experience Platform 中可用的任何資料跨管道分析客戶的旅程，同時利用 Analysis Workspace 的強大功能取得快速分析。
+description: 瞭解Customer Journey Analytics (CJA)，以及它如何讓您使用Adobe Experience Platform和Analysis Workspace中的資料來分析各管道的客戶歷程。
 feature: Basics
 role: Leader
 level: Beginner
@@ -9,7 +9,8 @@ last-substantial-update: 2023-04-21T00:00:00.000Z
 jira: KT-13135
 thumbnail: 3418680.jpeg
 exl-id: 2537a4db-517b-40d5-b1c2-42350736eb75
-TQID: https://experienceleague.adobe.com/z5kqfmKQKCZ7eCLZY0INRAvIRn-66l8nQjtPysCzcok
+autotag-review: '2026-06-16T20:37:43.669Z'
+TQID: 'https://experienceleague.adobe.com/Kvb-n67EgqrkdeIUBtIw-kquMn9MJmdHKJmDVEDheao'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
 feature_v2:
@@ -26,16 +27,17 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+source-git-commit: eb75258c05ef4858e01a37c1ce3ee003c519dd2f
 workflow-type: tm+mt
-source-wordcount: 74
-ht-degree: 100%
+source-wordcount: 62
+ht-degree: 16%
 
 ---
 
 # 什麼是 Customer Journey Analytics？
 
-Customer Journey Analytics (CJA) 可讓您使用 Adobe Experience Platform 中可用的任何資料跨管道分析客戶的旅程，同時利用 Analysis Workspace 的強大功能取得快速洞察。
+瞭解Customer Journey Analytics (CJA)，以及它如何讓您使用Adobe Experience Platform和Analysis Workspace中的資料來分析各管道的客戶歷程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439459/?captions=chi_hant&quality=12&learn=on)
