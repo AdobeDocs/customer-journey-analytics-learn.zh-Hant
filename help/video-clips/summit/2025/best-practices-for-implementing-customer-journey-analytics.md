@@ -13,7 +13,7 @@ product_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: d3cdead0-685a-4489-9250-4bb709942f66
-source-git-commit: 7819767ad88011dfada67e61cd0e3ce7f72b3ee5
+source-git-commit: 1c8f07e670190a3d0e5b6b9d982157afcf6ec1d3
 workflow-type: tm+mt
 source-wordcount: 46
 ht-degree: 0%
@@ -26,3 +26,4 @@ ht-degree: 0%
 
 <!-- 62_S113_3442460_211_best-practices-for-implementing-customer-journey-analytics -->
 >[!VIDEO](https://video.tv.adobe.com/v/3460078/?captions=chi_hant&learn=on&enablevpops=true)
+

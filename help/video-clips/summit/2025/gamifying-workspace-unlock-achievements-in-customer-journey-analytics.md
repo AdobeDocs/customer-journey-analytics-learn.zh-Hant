@@ -16,7 +16,7 @@ subfeature_v2:
   - id: b1f5d324-a668-4e51-a59b-6fc0862d7310
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 7819767ad88011dfada67e61cd0e3ce7f72b3ee5
+source-git-commit: 1c8f07e670190a3d0e5b6b9d982157afcf6ec1d3
 workflow-type: tm+mt
 source-wordcount: 58
 ht-degree: 0%
@@ -29,3 +29,4 @@ ht-degree: 0%
 
 <!-- 72_S102_3442449_228_gamifying-workspace-unlock-achievements-in-customer-journey-analytics -->
 >[!VIDEO](https://video.tv.adobe.com/v/3460209/?captions=chi_hant&learn=on&enablevpops=true)
+

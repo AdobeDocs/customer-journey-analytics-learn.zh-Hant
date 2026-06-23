@@ -13,7 +13,7 @@ product_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 7819767ad88011dfada67e61cd0e3ce7f72b3ee5
+source-git-commit: 1c8f07e670190a3d0e5b6b9d982157afcf6ec1d3
 workflow-type: tm+mt
 source-wordcount: 70
 ht-degree: 0%
@@ -26,3 +26,4 @@ ht-degree: 0%
 
 <!-- 62_S102_3442449_192_inline-derived-fields-realtime-data-transformation-in-cja -->
 >[!VIDEO](https://video.tv.adobe.com/v/3460297/?captions=chi_hant&learn=on&enablevpops=true)
+

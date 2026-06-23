@@ -13,7 +13,7 @@ product_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
-source-git-commit: 7819767ad88011dfada67e61cd0e3ce7f72b3ee5
+source-git-commit: 1c8f07e670190a3d0e5b6b9d982157afcf6ec1d3
 workflow-type: tm+mt
 source-wordcount: 54
 ht-degree: 0%
@@ -26,3 +26,4 @@ ht-degree: 0%
 
 <!-- 62_S655_3442541_95_run-and-operate-strategies-for-scaling-adobe-implementations -->
 >[!VIDEO](https://video.tv.adobe.com/v/3461091/?captions=chi_hant&learn=on&enablevpops=true)
+

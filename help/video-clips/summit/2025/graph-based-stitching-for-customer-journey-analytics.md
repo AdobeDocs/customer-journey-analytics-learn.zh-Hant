@@ -13,7 +13,7 @@ product_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 7819767ad88011dfada67e61cd0e3ce7f72b3ee5
+source-git-commit: 1c8f07e670190a3d0e5b6b9d982157afcf6ec1d3
 workflow-type: tm+mt
 source-wordcount: 52
 ht-degree: 0%
@@ -26,3 +26,4 @@ ht-degree: 0%
 
 <!-- 62_S112_3442459_199_graphbased-stitching-for-customer-journey-analytics -->
 >[!VIDEO](https://video.tv.adobe.com/v/3460231/?captions=chi_hant&learn=on&enablevpops=true)
+
