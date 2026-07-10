@@ -20,4 +20,4 @@ ht-degree: 95%
 
 自訂視覺效果中的圖例 (也稱為系列標籤編輯) 是讓查看報表的每個人更容易理解視覺效果的絕佳方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3495833/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495842/?captions=chi_hant&learn=on&enablevpops)
