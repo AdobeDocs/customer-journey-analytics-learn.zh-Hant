@@ -24,5 +24,5 @@ ht-degree: 78%
 
 在本影片中，了解表格和視覺效果如何透過設定繫結在一起，以及如何針對不同分析使用案例進行這些設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/3495948/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495957/?captions=chi_hant&learn=on&enablevpops)
 
