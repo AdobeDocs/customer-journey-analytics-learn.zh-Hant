@@ -20,4 +20,4 @@ ht-degree: 84%
 
 呈現量度的趨勢時段越長，就越難以指出該量度的方向趨勢。 若要解決此問題，計算量度中的累計平均函數可以用於將平滑度套用至 Analysis Workspace 中的量度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496334/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496344/?captions=chi_hant&learn=on&enablevpops)
