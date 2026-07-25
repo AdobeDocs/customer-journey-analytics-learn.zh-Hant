@@ -20,4 +20,4 @@ ht-degree: 0%
 
 在「視覺效果設定」中，您可以選擇新增趨勢線到您的線圖序列，以協助描繪出資料中更清晰的模式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496122/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496140/?captions=chi_hant&learn=on&enablevpops)
