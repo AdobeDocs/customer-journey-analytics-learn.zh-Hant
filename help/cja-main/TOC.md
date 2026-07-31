@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: d3821dc564d27928dc86587fcb2dd21b27b4ae1f
+source-git-commit: b6de0132276592b35e0034fa34c2870fb871645c
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '749'
 ht-degree: 81%
 
 ---
@@ -91,6 +91,8 @@ ht-degree: 81%
   + 範本 {#templates}
     + [使用範本](analysis-workspace/templates/use-templates.md)
     + [建立自訂範本](analysis-workspace/templates/create-custom-templates.md)
+  + 自由格式表格 {#freeform-tables}
+    + [使用內嵌分類](analysis-workspace/freeform-tables/in-line-classifications-for-cja.md)
   + 視覺效果 {#visualizations}
     + [將資料帶入視覺效果中](analysis-workspace/visualizations/getting-data-into-visualizations.md)
     + [使用Workspace中的元件下拉選單](analysis-workspace/visualizations/component-dropdowns-in-analysis-workspace.md)
@@ -110,6 +112,7 @@ ht-degree: 81%
     + [新增並設定地圖視覺效果](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
     + [新增摘要視覺效果](analysis-workspace/visualizations/use-summary-visualizations.md)
     + [新增文字視覺效果](analysis-workspace/visualizations/add-text-visualizations.md)
+    + [專案內部或外部的連結](analysis-workspace/visualizations/cja-link-inside-or-outside-of-your-project.md)
     + [新增散佈圖視覺效果](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
     + [新增樹狀圖視覺效果](analysis-workspace/visualizations/add-treemap-visualizations.md)
     + [建立100%棧疊視覺效果](analysis-workspace/visualizations/create-stacked-visualizations.md)
