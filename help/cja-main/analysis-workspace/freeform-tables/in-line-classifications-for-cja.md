@@ -26,4 +26,4 @@ ht-degree: 0%
 
 CJA的內嵌分類可讓您直接在Analysis Workspace中進行即時編輯，方法是更新表格中的值或將多個值分組在一起。 它將一小段但強大的衍生欄位功能直接帶入Workspace體驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496552/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496561/?captions=chi_hant&learn=on&enablevpops)

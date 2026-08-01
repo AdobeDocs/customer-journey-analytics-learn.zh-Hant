@@ -26,4 +26,4 @@ ht-degree: 35%
 
 瞭解如何在您的Analysis Workspace專案中建立內部或外部連結。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496551/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496570/?captions=chi_hant&learn=on&enablevpops)
