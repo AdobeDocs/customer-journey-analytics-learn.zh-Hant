@@ -39,6 +39,6 @@ ht-degree: 100%
 
 了解如何在 Analysis Workspace 為 Customer Journey Analytics 建立基本專案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418396/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3449177/?captions=chi_hant&learn=on&quality=12)
 
 如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/perform-basic-analysis.html?lang=zh-Hant){target="_blank"}。
