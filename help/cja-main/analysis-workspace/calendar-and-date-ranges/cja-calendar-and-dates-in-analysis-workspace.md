@@ -28,4 +28,4 @@ ht-degree: 0%
 
 概略瞭解如何在Analysis Workspace中使用視覺效果的日曆和日期
 
->[!VIDEO](https://video.tv.adobe.com/v/3496835/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496844/?captions=chi_hant&learn=on&enablevpops)
