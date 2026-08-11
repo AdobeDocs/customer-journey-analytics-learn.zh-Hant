@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e3784070b30bf065b2bb5f960f2c426305e870f9
+source-git-commit: 40e587c922ab0685d10f5d23a9f5d21d6f4ef7f4
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 81%
+source-wordcount: '771'
+ht-degree: 79%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 81%
   + [設定權限](permissions/set-up-permissions.md)
 + 連線 {#connections}
   + [連線至 Experience Platform 資料來源](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+  + [與外部資料倉儲同步](connections/cja-data-mirror-sync-external-platforms.md)
   + [檢視、疑難排解和修改連線設定](connections/connections-details-experience-in-cja.md)
   + [將新資料加入到連線](connections/add-past-data-to-an-existing-connection-in-cja.md)
   + [查詢和輪廓資料的 CJA 查詢](connections/cja-lookup-data.md)
@@ -151,6 +152,7 @@ ht-degree: 81%
     + [使用區段作為維度](components/filters/use-filters-as-dimensions.md)
     + [從區段建立客群](components/filters/create-audiences-from-segments.md)
     + [將 Adobe Analytics 區段移至 Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+    + [使用子事件的物件層級分段](components/filters/object-level-segmentation-using-sub-events.md)
   + [即時報告](components/real-time-reporting.md)
   + 維度 {#dimensions}
     + [事件深度](components/dimensions/event-depth-in-cja.md)

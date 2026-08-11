@@ -21,14 +21,14 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
-source-git-commit: 19f938ab38373fe13067802478d11a0c92e10f45
+source-git-commit: a406797e1f9dff253927bf19feb85e34db3cac97
 workflow-type: tm+mt
-source-wordcount: 118
-ht-degree: 0%
+source-wordcount: 117
+ht-degree: 28%
 
 ---
 
-# [!DNL Microsoft 365 Copilot]的[!DNL Adobe Marketing Agent]資料深入分析（以秒為單位）
+# [!DNL Microsoft 365 Copilot]的[!DNL Adobe Marketing Agent]快速資料深入分析
 
 觀看[!DNL Microsoft Teams]中的[!DNL Adobe Marketing Agent]示範，行銷人員詢問有關分析資料的自然語言問題，並從Customer Journey Analytics取得視覺效果和資料。
 
