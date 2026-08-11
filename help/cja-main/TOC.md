@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5064599b3c112221363afbd1c9e205a484f32df6
+source-git-commit: 40e587c922ab0685d10f5d23a9f5d21d6f4ef7f4
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '771'
 ht-degree: 79%
 
 ---
@@ -33,12 +33,11 @@ ht-degree: 79%
   + [使用資料](data-prep/working-with-data-in-cja.md)
   + [擷取、對應及轉換 Adobe Analytics 資料](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
   + [攝取和使用 Adobe Analytics 分類資料](data-prep/ingest-and-use-analytics-classifications.md)
-+ Data Mirror {#data-mirror}
-  + [與外部資料倉儲同步](data-mirror/cja-data-mirror-sync-external-platforms.md)
 + 存取控制 {#access-control}
   + [設定權限](permissions/set-up-permissions.md)
 + 連線 {#connections}
   + [連線至 Experience Platform 資料來源](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+  + [與外部資料倉儲同步](connections/cja-data-mirror-sync-external-platforms.md)
   + [檢視、疑難排解和修改連線設定](connections/connections-details-experience-in-cja.md)
   + [將新資料加入到連線](connections/add-past-data-to-an-existing-connection-in-cja.md)
   + [查詢和輪廓資料的 CJA 查詢](connections/cja-lookup-data.md)
