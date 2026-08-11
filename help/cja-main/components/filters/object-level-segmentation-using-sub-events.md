@@ -20,6 +20,6 @@ ht-degree: 7%
 
 瞭解如何在[!DNL Customer Journey Analytics]中使用[!UICONTROL 子事件分析]，以獲得更精確的分段和報告。 物件層級細分可消除過度歸因、改善收入分析，以及使用Adobe Experience Platform的可擴充資料模型更深入地探索複雜的資料集。
 
-如需其他資訊，請瀏覽此[文件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/sub-event){target="_blank"}。
+如需其他資訊，請瀏覽此[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/segments/sub-event){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497075?learn=on)
