@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: b4920cf1447f5152f24741315880e9c54b7abeb5
+source-git-commit: 48ec9badaf4fcf79721803d30098472cd345e147
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '773'
 ht-degree: 79%
 
 ---
@@ -33,6 +33,8 @@ ht-degree: 79%
   + [使用資料](data-prep/working-with-data-in-cja.md)
   + [擷取、對應及轉換 Adobe Analytics 資料](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
   + [攝取和使用 Adobe Analytics 分類資料](data-prep/ingest-and-use-analytics-classifications.md)
++ Data Mirror {#data-mirror}
+  + [與外部資料倉儲同步](data-mirror/cja-data-mirror-sync-external-platforms.md)
 + 存取控制 {#access-control}
   + [設定權限](permissions/set-up-permissions.md)
 + 連線 {#connections}
@@ -194,4 +196,3 @@ ht-degree: 79%
   + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/zh-hant/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
   + [數位行為資料合併分析藍本](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
   + [呼叫偏轉歷程分析情境](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
-+ [適用於Customer Journey Analytics的Data Mirror](data-mirror/cja-data-mirror-sync-external-platforms.md)
