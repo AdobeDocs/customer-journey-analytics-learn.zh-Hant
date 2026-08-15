@@ -22,4 +22,4 @@ ht-degree: 7%
 
 如需其他資訊，請瀏覽此[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/segments/sub-event){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497075?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497084?captions=chi_hant&learn=on)

@@ -24,5 +24,5 @@ Data Mirror會自動將支援的雲端資料倉儲（例如Snowflake、BigQuery�
 
 如需其他資訊，請瀏覽此[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-data-mirror/relational){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497061/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497071/?captions=chi_hant&learn=on)
 
