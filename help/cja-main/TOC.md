@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 414e52d4db7057992525e7d68e5b79d3091f9875
+source-git-commit: e098f3b353ef0f5f6f897eb175857f7a6606876e
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 79%
+source-wordcount: '783'
+ht-degree: 78%
 
 ---
 
@@ -123,10 +123,11 @@ ht-degree: 79%
   + 行事曆和日期範圍 {#calendar-and-date-ranges}
     + [在Analysis Workspace中使用行事曆和日期](analysis-workspace/calendar-and-date-ranges/cja-calendar-and-dates-in-analysis-workspace.md)
     + [在您的專案中套用可重複使用的日期範圍](analysis-workspace/calendar-and-date-ranges/cja-apply-reusable-date-ranges-in-your-project.md)
+    + [使用日期範圍和比較](analysis-workspace/calendar-and-date-ranges/cja-use-date-ranges-and-comparisons.md)
   + 附註 {#annotations}
     + [建立註解](analysis-workspace/annotations/create-an-annotation.md)
   + 組織和共用 {#curate-and-share}
-    + [資料述說故事：產生投影片簡報](analysis-workspace/curate-and-share/data-storytelling-generate-slides.md)
+    + [資料敘事：產生投影片簡報](analysis-workspace/curate-and-share/data-storytelling-generate-slides.md)
     + [在 Analysis Workspace 中與任何人共用](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
   + 秘訣和技巧 {#tips-and-tricks}
     + [建立動態下拉式區段](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
