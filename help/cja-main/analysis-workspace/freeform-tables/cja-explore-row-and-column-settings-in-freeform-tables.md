@@ -28,4 +28,4 @@ ht-degree: 71%
 
 了解 Analysis Workspace 中自由格式表格設定及其如何影響傳入這些表格的資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497648/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497659/?captions=chi_hant&learn=on&enablevpops)
