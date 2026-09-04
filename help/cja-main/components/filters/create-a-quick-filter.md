@@ -32,6 +32,6 @@ ht-degree: 14%
 
 # 建立快速區段
 
-直接在您的Customer Journey Analytics專案中建立[!UICONTROL 快速區段]，略過完整[!UICONTROL 區段產生器]的複雜性。 此功能提供了一種便利的方法，可讓您根據簡單的條件分段元件資料並立即檢視結果。 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/segments/seg-quick){target="_blank"}。
+直接在您的Customer Journey Analytics專案中建立[!UICONTROL 快速區段]，略過完整[!UICONTROL 區段產生器]的複雜性。 此功能提供了一種便利的方法，可讓您根據簡單的條件分段元件資料並立即檢視結果。 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/segments/seg-quick){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343743/?quality=12&learn=on)
