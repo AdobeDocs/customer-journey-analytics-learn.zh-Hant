@@ -26,19 +26,15 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+source-git-commit: 86fe0ba98a4aaaab0874b0db2c163bf493f4d3f7
 workflow-type: tm+mt
-source-wordcount: 75
-ht-degree: 8%
+source-wordcount: 63
+ht-degree: 9%
 
 ---
 
 # 在Analysis Workspace專案中使用[!DNL segments]作為維度
 
-瞭解在Analysis Workspace專案中做為維度使用時，如何比較和視覺化區段。 如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}。
-
->[!NOTE]
->
-> 已在Customer Journey Analytics介面中將「[!UICONTROL 篩選器]」重新命名為「[!UICONTROL 區段]」。
+瞭解在Analysis Workspace專案中做為維度使用時，如何比較和視覺化區段。 如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/segments/seg-create){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449073/?captions=chi_hant&learn=on&quality=12)
