@@ -37,4 +37,4 @@ ht-degree: 9%
 
 瞭解在Analysis Workspace專案中做為維度使用時，如何比較和視覺化區段。 如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics-platform/using/cja-components/segments/seg-create){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419024/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3449073/?captions=chi_hant&learn=on&quality=12)
