@@ -6,15 +6,14 @@ role: Admin
 level: Intermediate
 doc-type: Feature Video
 duration: 349
-last-substantial-update: 2026-03-24T00:00:00Z
+last-substantial-update: 2026-03-24
 jira: KT-20509
-source-git-commit: c4adc96faebf26fd3e0e58fe38b2a0a7f3c2d5c4
+exl-id: c9c7989b-565f-49d1-828b-99e15b06da3b
+source-git-commit: 3228cf250870384e1985b3dd4a9b258fbef7fb0f
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 5%
-
 ---
-
 # 使用預覽驗證資料和身分拼接品質
 
 瞭解Customer Journey Analytics中的資料集預覽功能，此功能可在設定連線時直接提供即時身分拼接量度，包括人員ID涵蓋範圍和永久ID涵蓋範圍。
