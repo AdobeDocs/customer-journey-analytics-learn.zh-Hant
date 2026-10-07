@@ -8,28 +8,38 @@ doc-type: feature video
 thumbnail: 332788.jpg
 kt: 7582
 exl-id: e0c2cf9f-5c5e-45e2-a738-cc7afc0a440f
-TQID: https://experienceleague.adobe.com/b2d-Uo0Qj5uI5gNDKNDYyq3e4d0MfInIzaFPifIQFc8
+TQID: 'https://experienceleague.adobe.com/b2d-Uo0Qj5uI5gNDKNDYyq3e4d0MfInIzaFPifIQFc8'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
 feature_v2:
   - id: c73c4213-d623-4126-81f4-80b42e5e2656
+    internal-label: Analysis Workspace
   - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
+    internal-label: Components
+  - id: b3197353-f189-4932-8378-3f3bc40e6071
+    internal-label: Data management
 subfeature_v2:
   - id: b1f5d324-a668-4e51-a59b-6fc0862d7310
+    internal-label: Metrics
   - id: df7fb1db-aa1b-4314-98ac-59dbfcc3044f
+    internal-label: Dimensions
+  - id: e1471301-a189-438e-8d48-264a8db508a6
+    internal-label: Data views
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+    internal-label: Reporting
+source-git-commit: 03362cfb3b955cbdc57bc0ed4d96c12431a341cc
 workflow-type: tm+mt
-source-wordcount: 106
+source-wordcount: '106'
 ht-degree: 94%
-
 ---
-
 # 在資料檢視中設定元件設定
 
 在這段影片中，我們將了解當您在 Customer Journey Analytics 中設定[!UICONTROL 資料檢視]時，您想要為每個[!UICONTROL 元件]設定的基本元件設定 (量度和維度)。
@@ -38,4 +48,4 @@ ht-degree: 94%
 
 ## 其他資源
 
-* [Customer Journey Analytics — 資料檢視檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=zh-Hant){target="_blank"}
+* [Customer Journey Analytics — 資料檢視檔案](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html){target="_blank"}
