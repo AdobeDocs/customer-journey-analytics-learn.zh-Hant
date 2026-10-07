@@ -37,4 +37,4 @@ ht-degree: 53%
 
 探索折線圖視覺化圖表如何加強您對各項量度歷時變化的理解。 透過自訂 X/Y 軸、顯示最小/最大標籤以及加入趨勢線，提升您在 Customer Journey Analytics 中的資料洞察力。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478990/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478979/?learn=on&enablevpops)
