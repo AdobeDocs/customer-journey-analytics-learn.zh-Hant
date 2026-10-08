@@ -9,24 +9,32 @@ duration: 499
 last-substantial-update: 2026-01-14T00:00:00.000Z
 jira: KT-20123
 exl-id: 030e014c-61e3-408b-b06e-eac8d7f720a3
-TQID: https://experienceleague.adobe.com/GV-bBc74mCk6kxNgIy9HgpUgO8cTF49RFGwUvqMQ0Pk
+TQID: 'https://experienceleague.adobe.com/GV-bBc74mCk6kxNgIy9HgpUgO8cTF49RFGwUvqMQ0Pk'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+feature_v2:
+  - id: c73c4213-d623-4126-81f4-80b42e5e2656
+    internal-label: Analysis Workspace
+subfeature_v2:
+  - id: bee1d787-7e5f-52f2-a27b-db3204cbc423
+    internal-label: Visualizations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+    internal-label: Insights
+source-git-commit: 03362cfb3b955cbdc57bc0ed4d96c12431a341cc
 workflow-type: tm+mt
-source-wordcount: 63
-ht-degree: 0%
-
+source-wordcount: '63'
+ht-degree: 53%
 ---
-
 # Customer Journey Analytics中的線條視覺效果
 
-探索折線圖視覺效果如何隨時間強化您對量度的瞭解。 自訂X/Y軸、顯示最小/最大標籤，以及新增趨勢線以透過Customer Journey Analytics改善您的資料深入分析。
+探索折線圖視覺化圖表如何加強您對各項量度歷時變化的理解。 透過自訂 X/Y 軸、顯示最小/最大標籤以及加入趨勢線，提升您在 Customer Journey Analytics 中的資料洞察力。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478990/?captions=chi_hant&learn=on&enablevpops)

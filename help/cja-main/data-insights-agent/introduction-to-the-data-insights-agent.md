@@ -1,6 +1,6 @@
 ---
 title: Data Insights 代理簡介
-description: 了解關於 Customer Journey Analytics 中 Data Insights 代理的資訊。 這項 AI 驅動的解決方案能提供行銷人員即時、透明的洞察，突破企業瓶頸。
+description: 了解 Customer Journey Analytics 中的 Data Insights 代理。 這項 AI 驅動的解決方案能提供行銷人員即時、透明的洞察，突破企業瓶頸。
 feature: AI Tools
 role: Leader, User
 level: Beginner
@@ -8,26 +8,35 @@ duration: 222
 last-substantial-update: 2025-06-12T00:00:00.000Z
 jira: KT-18320
 exl-id: 5842ce87-aa01-4ea6-ae56-cfd49bef4fa6
-TQID: https://experienceleague.adobe.com/7gQ6ONpr450MIwBR2pdKTqvMdXr7QeROckhlyIb4rc0
+TQID: 'https://experienceleague.adobe.com/7gQ6ONpr450MIwBR2pdKTqvMdXr7QeROckhlyIb4rc0'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+feature_v2:
+  - id: ae3aff40-b2f6-4df1-8c01-0b0720d1510f
+    internal-label: AI Tools
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+    internal-label: Insights
+source-git-commit: 03362cfb3b955cbdc57bc0ed4d96c12431a341cc
 workflow-type: tm+mt
-source-wordcount: 202
+source-wordcount: '290'
 ht-degree: 100%
-
 ---
-
 # [!DNL Data Insights Agent] 簡介
 
 [!DNL Data Insights Agent] 由 Adobe 的 Experience Platform Agent Orchestrator 提供技術支援，為行銷人員和業務使用者打造全新的客戶體驗協調流程。 此工具利用生成式 AI，透過自然語言查詢即時提供個人化的洞察分析，突破傳統的分析師瓶頸。
@@ -65,7 +74,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="data-insights-agent-use-cases.md" target="_blank" rel="referrer" title="Data Insights 代理使用案例">Data Insights 代理使用案例</a>
                     </p>
-                    <p class="is-size-6">大幅提升行銷策略開發、行銷活動管理，以及業務績效報告的效率。</p>
+                    <p class="is-size-6">大幅提升行銷策略開發、行銷活動管理，以及經營績效報告的效率。</p>
                 </div>
                 <a href="data-insights-agent-use-cases.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>

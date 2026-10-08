@@ -8,32 +8,46 @@ duration: 650
 last-substantial-update: 2025-05-13T00:00:00.000Z
 jira: KT-17556
 exl-id: 2e7c0934-69da-4b85-bf3e-eec294ff1ba0
-TQID: https://experienceleague.adobe.com/aEejEKNzwaX2nn9uhCuBDZkZsHBMbp1vg6aqdnnbhkg
+TQID: 'https://experienceleague.adobe.com/aEejEKNzwaX2nn9uhCuBDZkZsHBMbp1vg6aqdnnbhkg'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
 feature_v2:
   - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
+    internal-label: Components
+  - id: d76b9e53-27fb-4597-933f-419cc0dd46db
+    internal-label: Administration
 subfeature_v2:
   - id: ad5685a0-8296-4a0c-814c-658c10b4af12
+    internal-label: Content Analytics
+  - id: bf2b169f-d8b2-488a-97b9-f3bc9532e35c
+    internal-label: Use cases
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: c4147b6e-073b-4d3c-9ab1-d60f2f4434ef
+    internal-label: Behavioral data
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: fc314d1d-7cb9-4a38-8dbd-8f9b6478f40d
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+    internal-label: Content strategy
+source-git-commit: 03362cfb3b955cbdc57bc0ed4d96c12431a341cc
 workflow-type: tm+mt
-source-wordcount: 283
+source-wordcount: '447'
 ht-degree: 100%
-
 ---
-
 # Content Analytics 簡介
 
 衡量內容績效相當困難，通常都是憑藉猜測而且效率不彰。 Content Analytics 提供深入的洞察分析，說明如何從調性、影像、顏色或訊息內容讓內容發揮效用，省去猜測的麻煩。 其可以回答關鍵問題，例如哪些因素會提高參與度，以及如何將內容最佳化。
@@ -108,7 +122,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="create-configuration.md" target="_blank" rel="referrer" title="Content Analytics - 建立設定">Content Analytics - 建立設定</a>
                     </p>
-                    <p class="is-size-6">了解如何使用 Content Analytics 引導式工作流程。 它能簡化行銷人員的設定流程，於 Customer Journey Analytics 內達到高效率的資料收集、處理和報告。 </p>
+                    <p class="is-size-6">了解如何使用 Content Analytics 引導式工作流程。 它能簡化行銷人員的設定流程，於 Customer Journey Analytics 內達到高效率的資料彙集、處理和報告。 </p>
                 </div>
                 <a href="create-configuration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
