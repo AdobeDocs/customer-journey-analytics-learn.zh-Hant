@@ -4,28 +4,27 @@ product: customer journey analytics
 solution: Customer Journey Analytics
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: "Customer Journey Analytics"
 usetq: true
 feature-set: Customer Journey Analytics
 landing-page-name: customer-journey-analytics
 landing-page-breadcrumb-title: Customer Journey Analytics
 type: Tutorial
 solution-title: Customer Journey Analytics
-solution-hub-url: https://docs.adobe.com/content/help/zh-Hant/customer-journey-analytics-learn/tutorials/overview.html
+solution-hub-url: https://docs.adobe.com/content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 getting-started-title: Experience League
-getting-started-url: https://experienceleague.adobe.com/zh-hant
+getting-started-url: https://experienceleague.adobe.com/
 tutorials-title: Tutorials
 tutorials-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
-git-repo: https://github.com/AdobeDocs/customer-journey-analytics-learn.zh-Hant
+git-repo: https://github.com/AdobeDocs/customer-journey-analytics-learn.en
 index: true
 mini-toc-levels: 2
 auto-video-transcripts: true
 source-git-commit: fc40b0eb77eda760bdf09a217300fdb78dded457
 workflow-type: tm+mt
-source-wordcount: 127
-ht-degree: 94%
-
+source-wordcount: '120'
+ht-degree: 100%
 ---
-
 
 # 僅限內部使用的中繼資料
 
