@@ -4,6 +4,7 @@ product: customer journey analytics
 solution: Customer Journey Analytics
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: "Customer Journey Analytics"
 usetq: true
 feature-set: Customer Journey Analytics
 landing-page-name: customer-journey-analytics
@@ -21,11 +22,9 @@ mini-toc-levels: 2
 auto-video-transcripts: true
 source-git-commit: fc40b0eb77eda760bdf09a217300fdb78dded457
 workflow-type: tm+mt
-source-wordcount: 127
-ht-degree: 94%
-
+source-wordcount: '120'
+ht-degree: 100%
 ---
-
 
 # 僅限內部使用的中繼資料
 
